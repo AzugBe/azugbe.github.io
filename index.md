@@ -1,0 +1,48 @@
+---
+layout: splash
+title: Welcome to AZUG!
+tagline: Azure User Group Belgium
+permalink: /
+---
+
+AZUG is a Belgian user group with focus on development and architecture of Microsoft's Azure cloud platform. Our goal is to share knowledge and experiences with the .NET community on working with and developing for this platform. We do this by bringing together developers, architects, consultants and enthusiasts and give them the opportunity to gather knowledge and insights from industry speakers, both local and international.
+
+There are many benefits to participating in AZUG:
+
+* Learn best practices and optimal use of Microsoft's cloud platform
+* Get answers, advice, tips and suggestions from experts and peers
+* Gain new insights and ideas in how to apply Microsoft's cloud platform
+* Network with local peers
+* Be on the cutting edge of technology, be part of the future
+
+<p style="text-align: center;">
+<a href="http://www.realdolmen.com"><img alt="" src="/assets/media/sponsors/logo-realdolmen.jpg" vspace="10" /></a>&nbsp;<a href="http://www.cronos.be"><img alt="" src="/assets/media/sponsors/logo-cronos.jpg" vspace="10" /></a>&nbsp;<a href="http://www.microsoft.be"><img alt="" src="/assets/media/sponsors/logo-microsoft.jpg" vspace="10" /></a>&nbsp;<a href="http://www.euri.com"><img alt="" src="/assets/media/sponsors/logo-euricom.jpg" vspace="10" /></a><br /><a href="http://www.codit.be"><img alt="" src="/assets/media/sponsors/logo-codit.jpg" vspace="10" /></a>&nbsp;<a href="http://www.ae.be"><img alt="" src="/assets/media/sponsors/logo-ae.jpg" vspace="10" /></a>&nbsp;<a href="http://www.cnext.eu"><img alt="" src="/assets/media/sponsors/logo-cnext.jpg" vspace="10" /></a>&nbsp;<a href="http://www.barracuda.com"><img alt="" src="/assets/media/sponsors/logo-barracuda.jpg" vspace="10" /><br /></a><a href="http://www.messagehandler.net"><img alt="" src="/assets/media/sponsors/logo-messagehandler.png" vspace="10" /></a>&nbsp;<a href="http://www.tobania.be/"><img alt="" src="/assets/media/sponsors/logo-tobania.jpg" vspace="10" /></a>&nbsp;<a href="http://www.synergics.be"><img alt="" src="/assets/media/sponsors/logo-synergics.jpg" vspace="10" /></a>&nbsp;<a href="https://www.be.capgemini.com/"><img alt="" src="/assets/media/sponsors/logo-capgemini.jpg" vspace="10" /><br /></a><a href="http://www.stylelabs.com/"><img alt="" src="/assets/media/sponsors/logo-stylelabs.jpg" vspace="10" /></a>&nbsp;<a href="http://www.jetbrains.com"><img alt="" src="/assets/media/sponsors/logo-jetbrains.jpg" vspace="10" /></a>&nbsp;<a href="http://www.xylos.be"><img alt="" src="/assets/media/sponsors/logo-xylos.jpg" vspace="10" /></a>
+</p>
+
+## Join us, stay informed
+
+<div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="http://azug.us2.list-manage.com/subscribe/post?u=47e1708de98684b0f393d63b3&amp;id=9463ee7106" method="post"> 
+<table border="0" cellspacing="2" cellpadding="2">
+<tbody>
+<tr>
+<td><label for="mce-EMAIL">Email Address</label></td>
+<td><label for="mce-FNAME">First Name </label></td>
+<td><label for="mce-LNAME">Last Name </label></td>
+</tr>
+<tr>
+<td><input id="mce-EMAIL" class="required email" name="EMAIL" type="text"></td>
+<td><input id="mce-FNAME" class="required" name="FNAME" type="text"></td>
+<td><input id="mce-LNAME" class="required" name="LNAME" type="text"></td>
+</tr>
+<tr>
+<td style="text-align: right;" colspan="3"><input id="mc-embedded-subscribe" class="btn" name="subscribe" type="submit" value="Subscribe"></td>
+</tr>
+</tbody>
+</table>
+</form></div>
+
+## Microsoft Azure?
+
+The Microsoft Azure platform is a flexible cloud–computing platform that lets you focus on solving business problems and addressing customer needs. No need to invest upfront on expensive infrastructure. Pay only for what you use, scale up when you need capacity and pull it back when you don’t.
+
+Find out more on [www.azure.com](http://www.azure.com)

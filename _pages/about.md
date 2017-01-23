@@ -1,0 +1,78 @@
+---
+layout: single
+title: About AZUG
+tagline: Azure User Group Belgium
+permalink: /about
+---
+
+AZUG is a Belgian user group with focus on development and architecture of Microsoft's Azure&nbsp;cloud platform. Our goal is to share knowledge and experiences with the .NET community on&nbsp;working with and developing for this&nbsp;platform. We do this by bringing together developers, architects, consultants and enthusiasts and give them the opportunity to gather knowledge and&nbsp;insights from industry speakers, both local and international.
+
+The Azure User Group comes together every few weeks, typically hosting one or two speakers for an evening session around Azure. The evening begins and ends with ample opportunity to network wirh peers and share knowledge and insights. AZUG tries to organize one bigger event every year: we've done hackatons, an Azure barbecue, CloudBrew (a full-day Azure event combined&nbsp;with beer sampling), ...
+
+There are many benefits to participating in AZUG:
+
+* Learn best practices and optimal use of Microsoft's cloud platform
+* Get answers, advice, tips and suggestions from experts and peers
+* Gain new insights and ideas in how to apply Microsoft's cloud platform
+* Network with local peers
+* Be on the cutting edge of technology, be part of the future
+
+Want to stay up to date? <a href="http://azug.us2.list-manage.com/subscribe/?u=47e1708de98684b0f393d63b3&amp;id=9463ee7106">Subscribe to our newsletter</a>!
+
+## Board
+
+The current board is <a href="http://cloudshaper.wordpress.com"><span style="color: #455f9c;">Yves Goeleven</span></a>, <a href="http://blog.krisvandermast.com/"><span style="color: #455f9c;">Kris van der Mast</span></a>&nbsp;and <a href="http://blog.maartenballiauw.be/"><span style="color: #455f9c;">Maarten Balliauw</span></a>.
+
+## History
+
+AZUG was founded near the end of 2009 by several Belgian .NET community members: <a href="http://www.devitect.net/"><span style="color: #455f9c;">Kurt Claeys</span></a>, <a href="http://cloudshaper.wordpress.com"><span style="color: #455f9c;">Yves Goeleven</span></a> and <a href="http://blog.maartenballiauw.be/"><span style="color: #455f9c;">Maarten Balliauw</span></a>. Other names involved are Gabriele Bozzi (Kaukana), Patrick Verbruggen (Spikes), Marc Vanderheyden (Spikes), Rudi Claes (InfoSupport), Marco Braakman (InfoSupport) and Bart De Boeck.
+
+In 2010 <a href="http://blog.krisvandermast.com/"><span style="color: #455f9c;">Kris van der Mast</span></a> joined the board.
+
+In 2012, Sam Vanhoutte, Kristof Rennen, Mike Martin and Panagiotis Kefalidis joined AZUG as volunteers, helping the day-to-day working.
+
+In 2015, Tom Kerkhove joined AZUG as a&nbsp;volunteer, helping the day-to-day working. Sam Vanhoutte decided to focus on other things.
+
+
+## Crew
+
+### Yves Goeleven
+
+![](/assets/media/crew/yves-goeleven.jpg)
+
+Yves has been shipping enterprise and cloud software since 2001. He is specialized in the design of distributed software systems using messaging. Next to being the founder of <a href="http://www.MessageHandler.net">MessageHandler.net</a>, an online platform for the co-creation of message processing logic, he is also active as a Solution Architect for Particular Software (NServiceBus), which provides a messaging platform for developing such logic. Yves has been awarded Windows Azure MVP for the last 5 years and is a regular on the speaking circuit.
+
+### Kris van der Mast
+
+![](/assets/media/crew/kris-vandermast.jpg)
+
+Kris van der Mast is a technical architect working at Tobania, a Belgian consultancy company. He's been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became Microsoft ASP.NET MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group.
+
+### Maarten Balliauw
+
+![](/assets/media/crew/maarten-balliauw.jpg)
+
+Maarten Balliauw works as a feelancer. His interests are mainly web applications developed in ASP.NET (C#) or PHP and the Microsoft Azure cloud platform. Maarten also co-founded MyGet, hosting private NuGet, npm and Bower feeds for teams. He's a former Microsoft Most Valuable Professional (MVP) for Microsoft Azure. Maarten is a frequent speaker at various national and international events. His blog can be found at <a href="http://blog.maartenballiauw.be">http://blog.maartenballiauw.be</a>.
+
+### Mike Martin
+
+![](/assets/media/crew/mike-martin.jpg)
+
+As a Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM, Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He&rsquo;s been active in the IT industry for over 17 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he&rsquo;s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He&rsquo;s not a stranger to both dev and IT Pro topics, they even call him the perfect hybrid solution.
+In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he&rsquo;s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded 3 times) and Microsoft Azure Insider.
+Helping out in the community and introducing new &amp; young people into the world of Microsoft and technology is also one of his passions.
+
+### Kristof Rennen
+
+![](/assets/media/crew/kristof-rennen.png)
+
+After being in Azure fulltime for 4+ years, including being Azure Advisor, Insider and MVP, Kristof joined Microsoft as Cloud Solution Architect on October 1st 2014.
+In Belgium, Kristof is assisting many of his customers in being successfull with Azure and helps them in building solutions both on infrastructure as a service and platform as a service.
+His main interest goes to highly scalable and available, multi tenant and multi region, complex cloud solutions. One of his current passions and focuses is Internet of Things.
+
+### Tom Kerkhove
+
+![](/assets/media/crew/tom-kerkhove.jpg)
+
+Tom is an Integration Professional at Codit, a company specialized in integration of systems. As IoT competency lead, Tom is in charge of leveraging the best IoT solution for customers running on Azure going from device-to-cloud/cloud-to-device connectivity, to data storage to (deep) learning. Last but not least, he&rsquo;s also interested in building secure solutions in Azure with tools like Azure Key Vault. He dares to think that everything in Azure is awesome!
+He was a Kinect for Windows MVP in 2014 &amp; 2015 and writes about his adventures - <a href="http://tomkerkhove.ghost.io" target="_blank">http://tomkerkhove.ghost.io</a>

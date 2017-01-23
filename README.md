@@ -1,2 +1,1 @@
-# azug.be
-AZUG.be website
+# AZUG
