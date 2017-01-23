@@ -25,14 +25,9 @@ There are many benefits to participating in AZUG:
 <table border="0" cellspacing="2" cellpadding="2">
 <tbody>
 <tr>
-<td><label for="mce-EMAIL">Email Address</label></td>
-<td><label for="mce-FNAME">First Name </label></td>
-<td><label for="mce-LNAME">Last Name </label></td>
-</tr>
-<tr>
-<td><input id="mce-EMAIL" class="required email" name="EMAIL" type="text"></td>
-<td><input id="mce-FNAME" class="required" name="FNAME" type="text"></td>
-<td><input id="mce-LNAME" class="required" name="LNAME" type="text"></td>
+<td><input id="mce-EMAIL" class="required email" name="EMAIL" type="text" placeholder="Your e-mail"></td>
+<td><input id="mce-FNAME" class="required" name="FNAME" type="text" placeholder="Your firstname"></td>
+<td><input id="mce-LNAME" class="required" name="LNAME" type="text" placeholder="Your lastname"></td>
 </tr>
 <tr>
 <td style="text-align: right;" colspan="3"><input id="mc-embedded-subscribe" class="btn" name="subscribe" type="submit" value="Subscribe"></td>
