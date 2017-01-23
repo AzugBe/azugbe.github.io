@@ -15,9 +15,13 @@ There are many benefits to participating in AZUG:
 * Network with local peers
 * Be on the cutting edge of technology, be part of the future
 
+<hr />
+
 <p style="text-align: center;">
 <a href="http://www.realdolmen.com"><img alt="" src="/assets/media/sponsors/logo-realdolmen.jpg" vspace="10" /></a>&nbsp;<a href="http://www.cronos.be"><img alt="" src="/assets/media/sponsors/logo-cronos.jpg" vspace="10" /></a>&nbsp;<a href="http://www.microsoft.be"><img alt="" src="/assets/media/sponsors/logo-microsoft.jpg" vspace="10" /></a>&nbsp;<a href="http://www.euri.com"><img alt="" src="/assets/media/sponsors/logo-euricom.jpg" vspace="10" /></a><br /><a href="http://www.codit.be"><img alt="" src="/assets/media/sponsors/logo-codit.jpg" vspace="10" /></a>&nbsp;<a href="http://www.ae.be"><img alt="" src="/assets/media/sponsors/logo-ae.jpg" vspace="10" /></a>&nbsp;<a href="http://www.cnext.eu"><img alt="" src="/assets/media/sponsors/logo-cnext.jpg" vspace="10" /></a>&nbsp;<a href="http://www.barracuda.com"><img alt="" src="/assets/media/sponsors/logo-barracuda.jpg" vspace="10" /><br /></a><a href="http://www.messagehandler.net"><img alt="" src="/assets/media/sponsors/logo-messagehandler.png" vspace="10" /></a>&nbsp;<a href="http://www.tobania.be/"><img alt="" src="/assets/media/sponsors/logo-tobania.jpg" vspace="10" /></a>&nbsp;<a href="http://www.synergics.be"><img alt="" src="/assets/media/sponsors/logo-synergics.jpg" vspace="10" /></a>&nbsp;<a href="https://www.be.capgemini.com/"><img alt="" src="/assets/media/sponsors/logo-capgemini.jpg" vspace="10" /><br /></a><a href="http://www.stylelabs.com/"><img alt="" src="/assets/media/sponsors/logo-stylelabs.jpg" vspace="10" /></a>&nbsp;<a href="http://www.jetbrains.com"><img alt="" src="/assets/media/sponsors/logo-jetbrains.jpg" vspace="10" /></a>&nbsp;<a href="http://www.xylos.be"><img alt="" src="/assets/media/sponsors/logo-xylos.jpg" vspace="10" /></a>
 </p>
+
+<hr />
 
 ## Join us, stay informed
 
