@@ -74,5 +74,4 @@ His main interest goes to highly scalable and available, multi tenant and multi 
 
 ![](/assets/media/crew/tom-kerkhove.jpg)
 
-Tom is an Integration Professional at Codit, a company specialized in integration of systems. As IoT competency lead, Tom is in charge of leveraging the best IoT solution for customers running on Azure going from device-to-cloud/cloud-to-device connectivity, to data storage to (deep) learning. Last but not least, he&rsquo;s also interested in building secure solutions in Azure with tools like Azure Key Vault. He dares to think that everything in Azure is awesome!
-He was a Kinect for Windows MVP in 2014 &amp; 2015 and writes about his adventures - <a href="http://tomkerkhove.ghost.io" target="_blank">http://tomkerkhove.ghost.io</a>
+Tom Kerkhove works for Codit as an Azure Consultant, is a member of the AZUG crew and has been a Microsoft MVP & Azure Advisor since 2014. He turns coffee into scaleable & secure cloud systems and writes about his adventures on his blog - <a href="https://tomkerkhove.ghost.io" target="_blank">tomkerkhove.ghost.io</a>
