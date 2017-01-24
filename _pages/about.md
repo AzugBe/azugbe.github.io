@@ -58,9 +58,10 @@ Maarten Balliauw works as a feelancer. His interests are mainly web applications
 
 ![](/assets/media/crew/mike-martin.jpg)
 
-As a Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM, Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He&rsquo;s been active in the IT industry for over 17 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he&rsquo;s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He&rsquo;s not a stranger to both dev and IT Pro topics, they even call him the perfect hybrid solution.
-In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he&rsquo;s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded 3 times) and Microsoft Azure Insider.
-Helping out in the community and introducing new &amp; young people into the world of Microsoft and technology is also one of his passions.
+As a Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM, Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 17 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics, they even call him the perfect hybrid solution. 
+In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded 4 times, working on his fifth) and Microsoft Azure Advisor. 
+Helping out in the community and introducing new & young people into the world of Microsoft and technology is also one of his passions.
+Follow him on <a href="http://twitter.com/techmike2kx">Twitter</a> and read his blog <a href="https://techmike2kx.wordpress.com/">here </a>.  
 
 ### Kristof Rennen
 
