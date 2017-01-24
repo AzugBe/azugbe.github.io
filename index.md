@@ -3,7 +3,23 @@ layout: splash
 title: Welcome to AZUG!
 tagline: Azure User Group Belgium
 permalink: /
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.25"
+  overlay_image: /assets/media/splash.jpg
+  cta_label: "Join us!"
+  cta_url: "#join-us-stay-informed"
+excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networking around development and architecture of Microsoft’s Azure cloud platform."
 ---
+
+
+## Upcoming events
+**2017-02-16 - All about ExpressRoute** - Back in September, we had loads of great feedback on our Azure Networking session. We decided to do more of that, and dedicate an evening to ExpressRoute. We're hosted (no pun intended) by Colt Technology Services tonight and will have two sessions on Azure ExpressRoute - from an operator point of view and from an ExpressRoute user point of view. [Register here!](/events/2017/01/16/all-about-expressroute){: .btn .btn--success}
+{: .notice--info}
+
+<hr />
+
+## About AZUG
 
 AZUG is a Belgian user group with focus on development and architecture of Microsoft's Azure cloud platform. Our goal is to share knowledge and experiences with the .NET community on working with and developing for this platform. We do this by bringing together developers, architects, consultants and enthusiasts and give them the opportunity to gather knowledge and insights from industry speakers, both local and international.
 
@@ -25,6 +41,8 @@ There are many benefits to participating in AZUG:
 
 ## Join us, stay informed
 
+Becoming a member of AZUG is free! Join our mailing list and be among the first to hear about new events and meetups.
+
 <div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="http://azug.us2.list-manage.com/subscribe/post?u=47e1708de98684b0f393d63b3&amp;id=9463ee7106" method="post"> 
 <table border="0" cellspacing="2" cellpadding="2">
 <tbody>
@@ -34,7 +52,7 @@ There are many benefits to participating in AZUG:
 <td><input id="mce-LNAME" class="required" name="LNAME" type="text" placeholder="Your lastname"></td>
 </tr>
 <tr>
-<td style="text-align: right;" colspan="3"><input id="mc-embedded-subscribe" class="btn" name="subscribe" type="submit" value="Subscribe"></td>
+<td style="text-align: right;" colspan="3"><input id="mc-embedded-subscribe" class="btn btn--x-large" name="subscribe" type="submit" value="Subscribe"></td>
 </tr>
 </tbody>
 </table>
