@@ -64,8 +64,8 @@ og_image                 : "/assets/media/azug-logo.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Organization
+  name                   : AzugBe
   links:
     - "https://twitter.com/AzugBe"
 
@@ -90,7 +90,7 @@ author:
   flickr           :
   facebook         : AZUGBelgium
   foursquare       :
-  github           :
+  github           : AzugBe
   google_plus      :
   keybase          :
   instagram        :
