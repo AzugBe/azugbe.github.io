@@ -12,7 +12,6 @@ header:
 excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networking around development and architecture of Microsoft’s Azure cloud platform."
 ---
 
-
 ## Upcoming events
 **2017-02-16 - All about ExpressRoute** - Back in September, we had loads of great feedback on our Azure Networking session. We decided to do more of that, and dedicate an evening to ExpressRoute. We're hosted (no pun intended) by Colt Technology Services tonight and will have two sessions on Azure ExpressRoute - from an operator point of view and from an ExpressRoute user point of view. [Register here!](/events/2017/01/16/all-about-expressroute){: .btn .btn--success}
 {: .notice--info}
