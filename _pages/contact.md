@@ -11,4 +11,4 @@ Want to become a sponsor? We like that!
 
 Simply want to get in touch with us? That's fine too!
 
-E-mail us at the following address: getintouchwithus@azug.be
+E-mail us at the following address: [getintouchwithus@azug.be](mailto:getintouchwithus@azug.be)
