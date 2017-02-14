@@ -13,7 +13,7 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 ---
 
 ## Upcoming events
-**2017-02-16 - All about ExpressRoute** - Back in September, we had loads of great feedback on our Azure Networking session. We decided to do more of that, and dedicate an evening to ExpressRoute. We're hosted (no pun intended) by Colt Technology Services tonight and will have two sessions on Azure ExpressRoute - from an operator point of view and from an ExpressRoute user point of view. [Register here!](/events/2017/01/16/all-about-expressroute){: .btn .btn--success}
+**2017-04-22 - Global Azure Bootcamp 2017** - As we are approaching the 5th anniversary of the Global Azure Bootcamp, AZUG is glad to support this initiative in Belgium by hosting an event on Saturday 22nd of April. Want to attend (or speak) on this full day of Azure? [Register here!](/events/2017-04-22-global-azure-bootcamp-2017){: .btn .btn--success}
 {: .notice--info}
 
 <hr />
