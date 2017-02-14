@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "2017-04-22 - Global Azure Bootcamp 2017 in Belgium"
-date: 2017-02-14 13:42:00 +0000
+date: 2017-04-22 13:42:00 +0000
 comments: true
 published: true
 categories: ["events"]
