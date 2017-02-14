@@ -19,7 +19,8 @@ We are eager to hear from you! Fill in our [Call for Speakers survey](https://on
 
 Our Call for Papers closes on 22nd of March - Agenda will follow shortly after.
 
-##Practical details
+## Practical details
+
 **Event date:** April 22, 2017 - you are welcome from 8:30, session starts 9:00 - 17:30
 
 **Catering:** TBD
