@@ -8,6 +8,8 @@ categories: ["events"]
 tags: ["Events"]
 alias: ["/events/2017-04-22-global-azure-bootcamp-2017"]
 author: Tom Kerkhove
+redirect_from:
+ - /events/2017-04-22-global-azure-bootcamp-2017.html
 ---
 
 As we are approaching the 5th anniversary of the Global Azure Bootcamp, AZUG is glad to support this initiative in Belgium by hosting an event on Saturday 22nd of April at Codit in Ghent.
