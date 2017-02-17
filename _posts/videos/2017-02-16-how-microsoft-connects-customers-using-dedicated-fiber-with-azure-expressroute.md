@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "2017-02-16 - How Microsoft connects customers using dedicated fiber with Azure ExpressRoute"
-date: 2017-02-16 13:42:00 +0000
+date: 2017-02-16 13:45:00 +0000
 comments: true
 published: true
 categories: ["events"]
