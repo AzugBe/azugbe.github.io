@@ -55,7 +55,6 @@ There are many benefits to participating in AZUG:
 <br />
 
 <a href="http://www.stylelabs.com/"><img alt="" src="/assets/media/sponsors/logo-stylelabs.jpg" vspace="10" /></a>&nbsp;
-<a href="http://www.cronos.be"><img alt="" src="/assets/media/sponsors/logo-cronos.jpg" vspace="10" /></a>&nbsp;
 <a href="http://www.xylos.be"><img alt="" src="/assets/media/sponsors/logo-xylos.jpg" vspace="10" /></a>&nbsp;
 <a href="http://www.jetbrains.com"><img alt="" src="/assets/media/sponsors/logo-jetbrains.jpg" vspace="10" /></a>
 </p>
