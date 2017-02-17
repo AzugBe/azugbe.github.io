@@ -4,8 +4,8 @@ title: "2017-02-16 - How Microsoft connects customers using dedicated fiber with
 date: 2017-02-16 13:45:00 +0000
 comments: true
 published: true
-categories: ["events"]
-tags: ["Events"]
+categories: ["videos"]
+tags: ["Videos"]
 alias: ["/videos/2017-02-16-how-microsoft-connects-customers-using-dedicated-fiber-with-azure-expressroute"]
 author: Maarten Balliauw
 ---
@@ -16,7 +16,7 @@ What is this ExpressRoute? How does it work and how do you set it up? How is it 
 
 Interested in finding an answer to all these questions? Then join us for a deep dive on Azure ExpressRoute!
 
-<img src="/assets/media/speakers/kristof-rennen2.png" alt="" align="left" width="100" height="100" style="margin-right: 20px;">***Speaker:** Kristof Rennen (<a href="http://twitter.com/kristofrennen">@kristofrennen</a>) -&nbsp;Senior Technical Evangelist at Microsoft | Sharing my passion for technology with the world | Proud father of Lucas | Guitar God*
+<img src="/assets/media/speakers/kristof-rennen2.png" alt="" align="left" width="100" height="100" style="margin-right: 20px;">***Speaker:** Kristof Rennen (<a href="http://twitter.com/kristofrennen">@kristofrennen</a>) -&nbsp;Senior Technical Evangelist at Microsoft - Sharing my passion for technology with the world | Proud father of Lucas - Guitar God*
 
 <br />
 
