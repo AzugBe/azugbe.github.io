@@ -33,7 +33,7 @@ It’s a practical look at a real world Azure success story that will answer man
 **Catering:** TBD
 
 **Event location:**<br />
-TBD
+Leuven, more information coming soon.
 
 ## Register via EventBrite
 No registrations available yet
