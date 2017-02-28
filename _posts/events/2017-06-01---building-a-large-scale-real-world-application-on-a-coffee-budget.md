@@ -12,7 +12,7 @@ redirect_from:
  - /events/2017-06-01---building-a-large-scale-real-world-application-on-a-coffee-budget.html
 ---
 
-With [more than 1 milion subscribers]() Troy Hunt's **Have I been Pwned** provides a notification services for security data breaches running on Microsoft Azure. 
+With [more than 1 milion subscribers](https://www.troyhunt.com/one-million-subscribers-later-heres-the-state-of-have-i-been-pwned/) Troy Hunt's **Have I been Pwned** provides a notification services for security data breaches running on Microsoft Azure. 
 
 Never heard about Have I Been Pwned? Go have a look [here](https://haveibeenpwned.com), it's worth it!
 
