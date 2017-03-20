@@ -24,7 +24,7 @@ I’ll take you through how I built ‘Have I Been Pwned” which manages millio
 
 It’s a practical look at a real world Azure success story that will answer many of the questions people have about moving to the cloud.
 
-<p style="margin-bottom: 30px; width: 450px;"><em><img src="/assets/media/speakers/troy-hunt.jpg" alt="" align="left" width="100" height="100" style="margin-right: 20px;"> <em><strong>Speaker:</strong>&nbsp;Troy Hunt is a Pluralsight author, Microsoft MVP and world-renowned internet security specialist. He spend his time teaching developers how to break into their own systems before helping to piece them back together to be secure against today’s online threats. He’s also the creator of “Have I been pwned?”, the free online service for breach monitoring and notifications. Troy regularly blogs at troyhunt.com from his home in Australia. </em></em></p>
+<p style="margin-bottom: 30px;"><em><img src="/assets/media/speakers/troy-hunt.jpg" alt="" align="left" width="100" height="100" style="margin-right: 20px;"> <em><strong>Speaker:</strong>&nbsp;Troy Hunt is a Pluralsight author, Microsoft MVP and world-renowned internet security specialist. He spend his time teaching developers how to break into their own systems before helping to piece them back together to be secure against today’s online threats. He’s also the creator of “Have I been pwned?”, the free online service for breach monitoring and notifications. Troy regularly blogs at troyhunt.com from his home in Australia. </em></em></p>
 
 ## Practical details
 
