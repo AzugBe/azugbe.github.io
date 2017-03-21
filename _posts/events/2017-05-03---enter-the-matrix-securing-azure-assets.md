@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "2017-06-01 - Enter The Matrix: Securing Azure's Assets"
-date: 2017-03-22 13:42:00 +0000
+title: "2017-05-03 - Enter The Matrix: Securing Azure's Assets"
+date: 2017-05-03 13:37:00 +0000
 comments: true
 published: true
 categories: ["events"]
