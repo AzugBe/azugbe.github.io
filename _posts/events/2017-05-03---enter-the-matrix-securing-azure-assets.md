@@ -26,12 +26,17 @@ Next to that you’ll get an idea on how to monitor and react to threats that ha
 
 ## Practical details
 
-**Event date:** May X, 2017 - you are welcome from 18:00, session starts 18:30
+**Event date:** May 3, 2017 - you are welcome from 18:00, session starts 18:30
 
 **Catering:** TBD
 
 **Event location:**<br />
-TBD.
+<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-hello-customer.jpg">Hello Customer<br />
+Ottergemsesteenweg Zuid 808<br />
+9000 Gent<br />
+Belgium
+
+[Here's how you can drive to Hello Customer](../../assets/media/documents/Driving-To-Hello-Customer.pdf)
 
 ## Register via EventBrite
 No registrations available yet.
