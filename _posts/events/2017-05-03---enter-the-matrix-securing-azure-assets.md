@@ -31,7 +31,7 @@ Next to that you’ll get an idea on how to monitor and react to threats that ha
 **Catering:** TBD
 
 **Event location:**<br />
-<img width="120" height="27" align="right" alt="" src="/assets/media/sponsors/logo-hello-customer.png">Hello Customer<br />
+<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-hello-customer.png">Hello Customer<br />
 Ottergemsesteenweg Zuid 808<br />
 9000 Gent<br />
 Belgium
