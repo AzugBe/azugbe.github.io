@@ -46,8 +46,6 @@ Yves has been shipping enterprise and cloud software since 2001. He is specializ
 
 ![](/assets/media/crew/kris-vandermast.jpg)
 
-
-Kris van der Mast is a technical architect working at Tobania, a Belgian consultancy company. He's been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became Microsoft ASP.NET MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group.
 As a freelance Microsoft technologies expert Kris helps his clients to reach their goals. Actively involved in the global community he is a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/38656?fullName=Kris%20%20van%20der%20Mast) since 2007. First for ASP.NET and since 2016 achieving in 2 disciplines: Azure and Visual Studio and Development Technologies. Kris is also a Microsoft ASP Insider, Microsoft Azure Advisor and a Belgian Microsoft Extended Experts Team (MEET) member. In the Belgian community Kris is active as a board member of Belgian Azure User Group [AZUG](http://www.azug.be) and is chairman of the Belgian User Group Initiative (BUG). Since he started with .NET back in 2002 he's also been active on the [ASP.NET forums](https://forums.asp.net/members/XIII.aspx) where is also a moderator. For his professional profile you can check out his [LinkedIn](http://www.linkedin.com/in/krisvandermast). His personal site can be found at [www.krisvandermast.com](http://www.krisvandermast.com). Kris is a public (inter)national speaker and is a co-organizer of the [CloudBrew](http://www.cloudbrew.be) conference.
 
 ### Maarten Balliauw
