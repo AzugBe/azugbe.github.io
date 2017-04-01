@@ -19,20 +19,20 @@ We will host a full day of Azure sessions, labs or just provide a workspace for 
 ## Agenda
 Call for paper is done, sessions coming soon.
 
-| 09:00 – 09:20 | Welcome + Lab instructions |
-| 09:20 – 09:30 | 	 Break |
-| 09:30 – 10:00 | 	 TBC – TBC
-| 10:00 – 10:15 | 	 Break
-| 10:15 – 11:15 | 	 TBC – TBC
-| 11:15 – 11:30 | 	 Break
-| 11:30 – 12:30 | 	 TBC – TBC
-| 12:30 – 13:30 | 	 Lunch
-| 13:30 – 14:30 | 	 TBC – TBC
-| 14:30 – 14:45 | 	 Break
-| 14:45 – 15:45 | 	 TBC – TBC
-| 15:45 – 16:00 | 	 Break
-| 16:00 – 17:00 | 	 TBC – TBC
-| 17:00 – ...	 | Closing speech, prize draw (sponsor giveaway) |
+| 09:00 – 09:20 | Welcome + Lab instructions                                |
+| 09:20 – 09:30 | 	 Break                                                                   |
+| 09:30 – 10:00 | 	 TBC – TBC                                                            |
+| 10:00 – 10:15 | 	 Break                                                                   |
+| 10:15 – 11:15 | 	 TBC – TBC                                                            |
+| 11:15 – 11:30 | 	 Break                                                                   |
+| 11:30 – 12:30 | 	 TBC – TBC                                                            |
+| 12:30 – 13:30 | 	 Lunch                                                                   |
+| 13:30 – 14:30 | 	 TBC – TBC                                                            |
+| 14:30 – 14:45 | 	 Break                                                                   |
+| 14:45 – 15:45 | 	 TBC – TBC                                                            |
+| 15:45 – 16:00 | 	 Break                                                                   |
+| 16:00 – 17:00 | 	 TBC – TBC                                                            |
+| 17:00 – ...	    | Closing speech, prize draw (sponsor giveaway) |
 
 ## Practical details
 
