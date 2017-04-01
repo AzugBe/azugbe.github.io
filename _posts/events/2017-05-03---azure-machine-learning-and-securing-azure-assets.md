@@ -27,7 +27,7 @@ The goal of the session is to provide you some guidance and an overview of Azure
 
 Next to that you’ll get an idea on how to monitor and react to threats that have been noticed or unnoticed. Expect some PowerShell, Azure architecture, and service tweaks which can help you settle at ease in your new condominium with panic room.
 
-<img src="/assets/media/crew/mike-martin.jpg" alt="Mike Martin" align="left" width="100" height="100" style="margin-right: 20px;">
+<img src="/assets/media/speakers/mike-martin.jpg" alt="Mike Martin" align="left" width="100" height="100" style="margin-right: 20px;">
 **Speaker:** *As a Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM, Mike Martin is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 17 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics, they even call him the perfect hybrid solution.*
 
 ## Practical details
