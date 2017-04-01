@@ -40,8 +40,6 @@ Call for paper is done, sessions coming soon.
 
 **Event date:** April 22, 2017 - you are welcome from 8:30, session starts 9:00 - 17:30
 
-**Catering:** TBD
-
 **Event location:**<br />
 <img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-codit.jpg">Codit<br />
 Gaston Crommenlaan 14<br />
