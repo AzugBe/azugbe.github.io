@@ -16,10 +16,23 @@ As we are approaching the 5th anniversary of the Global Azure Bootcamp, AZUG is 
 
 We will host a full day of Azure sessions, labs or just provide a workspace for people who have been thinking of a side project but are looking for a partner in crime.
 
-## Sessions
-We are eager to hear from you! Fill in our [Call for Speakers survey](https://onedrive.live.com/survey?resid=5CFF7F4925C71F4F!81386&authkey=!APBQDaZiQ_VDh1U) and enlighten your peers!
+## Agenda
+Call for paper is done, sessions coming soon.
 
-Our Call for Papers closes on 22nd of March - Agenda will follow shortly after.
+| 09:00 – 09:20 | Welcome + Lab instructions |
+| 09:20 – 09:30 | 	 Break |
+| 09:30 – 10:00 | 	 TBC – TBC
+| 10:00 – 10:15 | 	 Break
+| 10:15 – 11:15 | 	 TBC – TBC
+| 11:15 – 11:30 | 	 Break
+| 11:30 – 12:30 | 	 TBC – TBC
+| 12:30 – 13:30 | 	 Lunch
+| 13:30 – 14:30 | 	 TBC – TBC
+| 14:30 – 14:45 | 	 Break
+| 14:45 – 15:45 | 	 TBC – TBC
+| 15:45 – 16:00 | 	 Break
+| 16:00 – 17:00 | 	 TBC – TBC
+| 17:00 – ...	 | Closing speech, prize draw (sponsor giveaway) |
 
 ## Practical details
 
