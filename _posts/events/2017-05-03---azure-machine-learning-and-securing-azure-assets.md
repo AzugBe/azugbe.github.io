@@ -41,8 +41,8 @@ Ottergemsesteenweg Zuid 808<br />
 9000 Gent<br />
 Belgium
 
-The event takes place on the 1st floor and is accessible via the entrance next to Albert Hein.<br />
-[Here's how you can drive to Hello Customer.](../../assets/media/documents/Driving-To-Hello-Customer.pdf)
+*The event takes place on the 1st floor and is accessible via the entrance next to Albert Hein.<br />
+[Here's how you can drive to Hello Customer.](../../assets/media/documents/Driving-To-Hello-Customer.pdf)*
 
 ## Register via EventBrite
 No registrations available yet.
