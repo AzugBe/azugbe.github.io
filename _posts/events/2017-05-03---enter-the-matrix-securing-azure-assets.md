@@ -1,15 +1,15 @@
 ---
 layout: single
-title: "2017-05-03 - Enter The Matrix: Securing Azure's Assets"
+title: "2017-05-03 - Azure Machine Learning and securing Azure assets"
 date: 2017-05-03 13:37:00 +0000
 comments: true
 published: true
 categories: ["events"]
 tags: ["Events"]
-alias: ["/events/2017-05-03---enter-the-matrix-securing-azure-assets"]
+alias: ["/events/2017-05-03---azure-machine-learning-and-securing-azure-assets"]
 author: Tom Kerkhove
 redirect_from:
- - /events/2017-05-03---enter-the-matrix-securing-azure-assets.html
+ - /events/2017-05-03---azure-machine-learning-and-securing-azure-assets.html
 ---
 
 With the move to the cloud security has been more important than ever. After talking about Azure Key Vault in the past we have Mike Martin talking about how and where azure security works and what you can do to secure your Azure resources.
