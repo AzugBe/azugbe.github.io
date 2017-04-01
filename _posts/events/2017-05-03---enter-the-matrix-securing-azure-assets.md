@@ -18,7 +18,7 @@ With the move to the cloud security has been more important than ever. After tal
 ### Finding nuggets with Azure ML Studio
 Currently there are not a lot of point-and-click data science tools, Azure ML Studio is among the first with a very specific offering. During this session we will make a text analysis exercise on azure ml studio and see where the pitfalls are. After the exercise we will discuss the advantages and disadvantages of using Azure ML Studio.
 
-<p style="margin-bottom: 30px;"><em><img src="/assets/media/crew/tijl-carpels.png" alt="" align="left" width="100" height="100" style="margin-right: 20px;"><em><strong>Speaker:</strong>As a Data Scientist, *Tijl Carpels* is designing and implementing Natural Language Processing pipelines at Hello Customer. His interests range from distributed computing to machine learning and developing chatbots..</em></em></p>
+<p style="margin-bottom: 30px;"><em><img src="/assets/media/speakers/tijl-carpels.png" alt="" align="left" width="100" height="100" style="margin-right: 20px;"><em><strong>Speaker:</strong>As a Data Scientist, *Tijl Carpels* is designing and implementing Natural Language Processing pipelines at Hello Customer. His interests range from distributed computing to machine learning and developing chatbots..</em></em></p>
 
 ### Enter The Matrix: Securing Azure's Assets
 In the cloud no one can hear you scream… or can they. Even though Microsoft has a tremendous army of gadgets *(besides the sharks with freakin lasers that is)* in place for defending your environments, sometimes you need that additional little thing.
