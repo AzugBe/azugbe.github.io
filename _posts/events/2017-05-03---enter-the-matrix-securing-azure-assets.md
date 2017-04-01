@@ -31,12 +31,14 @@ Next to that you’ll get an idea on how to monitor and react to threats that ha
 **Catering:** TBD
 
 **Event location:**<br />
-<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-hello-customer.png">Hello Customer<br />
+<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-hello-customer.png"><br />
+Ghelamco Arena – Meetdistrict (Hosted by Hello *Customer*)<br/>
 Ottergemsesteenweg Zuid 808<br />
 9000 Gent<br />
 Belgium
 
-[Here's how you can drive to Hello Customer](../../assets/media/documents/Driving-To-Hello-Customer.pdf)
+The event takes place on the 1st floor and is accessible via the entrance next to Albert Hein.<br />
+[Here's how you can drive to Hello Customer.](../../assets/media/documents/Driving-To-Hello-Customer.pdf)
 
 ## Register via EventBrite
 No registrations available yet.
