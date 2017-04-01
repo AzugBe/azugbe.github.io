@@ -18,7 +18,7 @@ Hello Customer is happy to host an event in the Ghelacomo arena to talk about fi
 ### Finding nuggets with Azure ML Studio
 Currently there are not a lot of point-and-click data science tools, Azure ML Studio is among the first with a very specific offering. During this session we will make a text analysis exercise on azure ml studio and see where the pitfalls are. After the exercise we will discuss the advantages and disadvantages of using Azure ML Studio.
 
-<img src="/assets/media/speakers/tijl-carpels.png" alt="Tijl Carpels" align="left" width="100" height="100" style="margin-right: 20px;"><em>**Speaker:** *As a Data Scientist, **Tijl Carpels** is designing and implementing Natural Language Processing pipelines at Hello Customer. His interests range from distributed computing to machine learning and developing chatbots.*</p>
+<img src="/assets/media/speakers/tijl-carpels.png" alt="Tijl Carpels" align="left" width="100" height="100" style="margin-right: 20px;"><em>**Speaker:** *As a Data Scientist, **Tijl Carpels** is designing and implementing Natural Language Processing pipelines at Hello Customer. His interests range from distributed computing to machine learning and developing chatbots.*
 
 ### Enter The Matrix: Securing Azure's Assets
 In the cloud no one can hear you scream… or can they. Even though Microsoft has a tremendous army of gadgets *(besides the sharks with freakin lasers that is)* in place for defending your environments, sometimes you need that additional little thing.
