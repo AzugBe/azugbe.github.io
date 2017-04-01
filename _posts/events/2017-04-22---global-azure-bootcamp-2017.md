@@ -19,6 +19,8 @@ We will host a full day of Azure sessions, labs or just provide a workspace for 
 ## Agenda
 Call for paper is done, sessions coming soon.
 
+| Timeslot        | Session                                                                 |
+|:-------------------|:-----------------------------------------------------------------|
 | 09:00 – 09:20 | Welcome + Lab instructions                                |
 | 09:20 – 09:30 | 	 Break                                                                   |
 | 09:30 – 10:00 | 	 TBC – TBC                                                            |
