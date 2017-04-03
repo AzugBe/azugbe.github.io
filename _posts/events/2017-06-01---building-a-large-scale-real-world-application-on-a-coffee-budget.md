@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "2017-06-01 - Building a Large Scale Real World Application on a Coffee Budget"
-date: 2017-04-22 13:42:00 +0000
+date: 2017-06-01 13:42:00 +0000
 comments: true
 published: true
 categories: ["events"]
@@ -10,6 +10,7 @@ alias: ["/events/2017-06-01---building-a-large-scale-real-world-application-on-a
 author: Tom Kerkhove
 redirect_from:
  - /events/2017-06-01---building-a-large-scale-real-world-application-on-a-coffee-budget.html
+ - /events/2017/04/22/building-a-large-scale-real-world-application-on-a-coffee-budget.html
 ---
 
 With [more than 1 milion subscribers](https://www.troyhunt.com/one-million-subscribers-later-heres-the-state-of-have-i-been-pwned/) Troy Hunt's **Have I been Pwned** provides a notification services for security data breaches running on Microsoft Azure. 
