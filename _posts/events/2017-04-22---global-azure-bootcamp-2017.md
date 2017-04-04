@@ -30,9 +30,9 @@ We will host a full day of Azure sessions, labs or just provide a workspace for 
 | 12:45 – 13:30 | 	 *Lunch*                                                                                                                            |
 | 13:30 – 14:30 | 	 **Managing IoT Hub with Dynamics 365** – Eldert Grootenboer                             |
 | 14:30 – 14:45 | 	 *Break*                                                                                                                            |
-| 14:45 – 15:45 | 	 **Adding conversations to your mobile app** – Bart Lannoeye                                |
+| 14:45 – 15:45 | 	 **Azure IPaaS: Integration Evolved** – Glenn Colpaert                                              |
 | 15:45 – 16:00 | 	 *Break*                                                                                                                           |
-| 16:00 – 17:00 | 	 **Azure IPaaS: Integration Evolved** – Glenn Colpaert                                             |
+| 16:00 – 17:00 | 	  **Adding conversations to your mobile app** – Bart Lannoeye                              |
 | 17:00 – ...	    |  Closing speech, prize draw (sponsor giveaway)                                                            |
 
 ## Practical details
