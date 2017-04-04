@@ -17,7 +17,6 @@ As we are approaching the 5th anniversary of the Global Azure Bootcamp, AZUG is 
 We will host a full day of Azure sessions, labs or just provide a workspace for people who have been thinking of a side project but are looking for a partner in crime.
 
 ## Agenda
-Call for paper is done, sessions coming soon.
 
 | Timeslot        | Session                                                                                                                              |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------|
