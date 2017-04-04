@@ -19,22 +19,21 @@ We will host a full day of Azure sessions, labs or just provide a workspace for 
 ## Agenda
 Call for paper is done, sessions coming soon.
 
-| Timeslot        | Session                                                                 |
-|:-------------------|:-----------------------------------------------------------------|
-| 09:00 – 09:20 | Welcome + Lab instructions                                |
-| 09:20 – 09:30 | 	 Break                                                                   |
-| 09:30 – 10:00 | 	 TBC – TBC                                                            |
-| 10:00 – 10:15 | 	 Break                                                                   |
-| 10:15 – 11:15 | 	 TBC – TBC                                                            |
-| 11:15 – 11:30 | 	 Break                                                                   |
-| 11:30 – 12:30 | 	 TBC – TBC                                                            |
-| 12:30 – 13:30 | 	 Lunch                                                                   |
-| 13:30 – 14:30 | 	 TBC – TBC                                                            |
-| 14:30 – 14:45 | 	 Break                                                                   |
-| 14:45 – 15:45 | 	 TBC – TBC                                                            |
-| 15:45 – 16:00 | 	 Break                                                                   |
-| 16:00 – 17:00 | 	 TBC – TBC                                                            |
-| 17:00 – ...	    | Closing speech, prize draw (sponsor giveaway) |
+| Timeslot        | Session                                                                                                                       |
+|:-------------------|:-------------------------------------------------------------------------------------------------------------|
+| 09:00 – 09:15 | Welcome + Lab instructions                                                                                     |
+| 09:20 – 09:30 | 	 Break                                                                                                                        |
+| 09:15 – 10:15 | 	 How to build a Twitter bot using Azure in less than 15 minutes? – Karim Vaes |
+| 10:15 – 10:30 | 	 Break                                                                                                                        |
+| 10:30 – 11:30 | 	 Building the Hybrid Cloud with Azure Stack  – Vlad Tomsa                                  |
+| 11:30 – 11:45 | 	 Break                                                                                                                        |
+| 11:45 – 12:45 | 	 Why I love S2D for MSSQL on Azure... – Karim Vaes                                             |
+| 12:45 – 13:30 | 	 Lunch                                                                                                                       |
+| 13:30 – 14:30 | 	 Managing IoT Hub with Dynamics 365 – Eldert Grootenboer                              |
+| 14:30 – 14:45 | 	 Break                                                                                                                        |
+| 14:45 – 15:45 | 	 Adding conversations to your mobile app – Bart Lannoeye                                |
+| 15:45 – 16:00 | 	 Break                                                                                                                        |
+| 16:00 – 17:00 | 	 Azure IPaaS: Integration Evolved – Glenn Colpaert                                              |
 
 ## Practical details
 
