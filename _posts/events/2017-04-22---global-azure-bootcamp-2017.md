@@ -34,6 +34,7 @@ Call for paper is done, sessions coming soon.
 | 14:45 – 15:45 | 	 Adding conversations to your mobile app – Bart Lannoeye                                |
 | 15:45 – 16:00 | 	 Break                                                                                                                        |
 | 16:00 – 17:00 | 	 Azure IPaaS: Integration Evolved – Glenn Colpaert                                              |
+| 17:00 – ...	    |  Closing speech, prize draw (sponsor giveaway)                                                     |
 
 ## Practical details
 
