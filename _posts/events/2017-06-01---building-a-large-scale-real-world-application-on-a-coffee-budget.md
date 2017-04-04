@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "2017-06-01 - Building a Large Scale Real World Application on a Coffee Budget"
-date: 2017-04-22 13:42:00 +0000
+date: 2017-06-01 13:42:00 +0000
 comments: true
 published: true
 categories: ["events"]
@@ -10,6 +10,7 @@ alias: ["/events/2017-06-01---building-a-large-scale-real-world-application-on-a
 author: Tom Kerkhove
 redirect_from:
  - /events/2017-06-01---building-a-large-scale-real-world-application-on-a-coffee-budget.html
+ - /events/2017/04/22/building-a-large-scale-real-world-application-on-a-coffee-budget.html
 ---
 
 With [more than 1 milion subscribers](https://www.troyhunt.com/one-million-subscribers-later-heres-the-state-of-have-i-been-pwned/) Troy Hunt's **Have I been Pwned** provides a notification services for security data breaches running on Microsoft Azure. 
@@ -30,10 +31,12 @@ It’s a practical look at a real world Azure success story that will answer man
 
 **Event date:** June 1, 2017 - you are welcome from 18:00, session starts 18:30
 
-**Catering:** TBD
-
 **Event location:**<br />
-Leuven, more information coming soon.
+<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-ae.jpg">
+AE - Architects for business & ICT<br />
+Interleuvenlaan 27b<br />
+3001 Heverlee<br />
+Belgium
 
 ## Register via EventBrite
 <div style="width:100%; text-align:left;"><iframe src="//eventbrite.com/tickets-external?eid=32817503035&ref=etckt" frameborder="0" height="275" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div>
