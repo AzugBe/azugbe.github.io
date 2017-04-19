@@ -20,6 +20,7 @@ We will host a full day of Azure sessions, labs or just provide a workspace for 
 
 | Timeslot        | Session                                                                                                                              |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------|
+| 08:30 – 09:00 | Breakfast & Coffee                                                                                                           |
 | 09:00 – 09:15 | Welcome + Lab instructions                                                                                             |
 | 09:20 – 09:30 | 	 *Break*                                                                                                                            |
 | 09:15 – 10:15 | 	 **How to build a Twitter bot using Azure in less than 15 minutes?** – Karim Vaes |
