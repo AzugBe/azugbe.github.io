@@ -13,9 +13,6 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 ---
 
 ## Upcoming events
-**2017-05-03 - Azure Machine Learning and securing Azure assets** - Hello Customer is happy to host an event in the Ghelacomo arena to talk about finding nuggets with Azure Machine Learning (ML) Studio and Mike Martin will talk about how and where azure security works and what you can do to secure your Azure resources. [Register here!](/events/2017/05/03/azure-machine-learning-and-securing-azure-assets){: .btn .btn--success}
-{: .notice--info}
-
 **2017-06-01 - Building a Large Scale Real World Application on a Coffee Budget** - With more than 1 milion subscribers Troy Hunt’s Have I been Pwned provides a notification services for security data breaches running on Microsoft Azure. Troy brings a practical look at a real world Azure success story that will answer many of the questions people have about moving to the cloud. [Register here!](/events/2017/06/01/building-a-large-scale-real-world-application-on-a-coffee-budget){: .btn .btn--success}
 {: .notice--info}
 
