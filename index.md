@@ -13,9 +13,6 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 ---
 
 ## Upcoming events
-**2017-05-03 - Azure Machine Learning and securing Azure assets** - Hello Customer is happy to host an event in the Ghelacomo arena to talk about finding nuggets with Azure Machine Learning (ML) Studio and Mike Martin will talk about how and where azure security works and what you can do to secure your Azure resources. [Register here!](/events/2017/05/03/azure-machine-learning-and-securing-azure-assets){: .btn .btn--success}
-{: .notice--info}
-
 **2017-05-11 - Build Live Stream** - Come together with the community, have some food and drinks while watching the //BUILD 2017 live stream! [Register here!](/events/2017/05/11/build-live-stream){: .btn .btn--success}
 {: .notice--info}
 
