@@ -10,7 +10,6 @@ alias: ["/events/2017-05-11---build-live-stream"]
 author: Tom Kerkhove
 redirect_from:
  - /events/2017-05-10---build-live-stream.html
- - /events/2017-05-11---build-live-stream
  - /events/2017-05-11---build-live-stream.html
 ---
 
