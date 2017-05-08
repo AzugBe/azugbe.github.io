@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "2017-05-11 - Build Live Stream Viewing"
-date: 2017-05-11 13:37:00 +0000
+title: "2017-05-10 - Build Live Stream Viewing"
+date: 2017-05-10 13:37:00 +0000
 comments: true
 published: true
 categories: ["events"]
@@ -9,6 +9,8 @@ tags: ["Events"]
 alias: ["/events/2017-05-11---build-live-stream"]
 author: Tom Kerkhove
 redirect_from:
+ - /events/2017-05-10---build-live-stream.html
+ - /events/2017-05-11---build-live-stream
  - /events/2017-05-11---build-live-stream.html
 ---
 
@@ -16,13 +18,13 @@ As build approaches, AZUG, VISUG, MADN, OWIC and many more user groups, with sup
 
 We'd like you to join us:
 
-**May 11, 2017 - 17:00h @ Microsoft HQ Belgium**
+**May 10, 2017 - 17:00h @ Microsoft HQ Belgium**
 
 Don't miss this opportunity to join the community and learn together. Additionally, Microsoft wants to thank you for your participation and will be providing some fun giveaways. 
 
 ## Practical details
 
-**Event date:** May 11, 2017 - you are welcome from 17:00
+**Event date:** May 10, 2017 - you are welcome from 17:00
 
 **Catering:** Yes!
 
