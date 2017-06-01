@@ -12,15 +12,6 @@ header:
 excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networking around development and architecture of Microsoft’s Azure cloud platform."
 ---
 
-## Upcoming events
-**2017-05-10 - Build Live Stream** - Come together with the community, have some food and drinks while watching the //BUILD 2017 live stream! [Register here!](/events/2017/05/10/build-live-stream){: .btn .btn--success}
-{: .notice--info}
-
-**2017-06-01 - Building a Large Scale Real World Application on a Coffee Budget** - With more than 1 milion subscribers Troy Hunt’s Have I been Pwned provides a notification services for security data breaches running on Microsoft Azure. Troy brings a practical look at a real world Azure success story that will answer many of the questions people have about moving to the cloud. [Register here!](/events/2017/06/01/building-a-large-scale-real-world-application-on-a-coffee-budget){: .btn .btn--success}
-{: .notice--info}
-
-<hr />
-
 ## About AZUG
 
 AZUG is a Belgian user group with focus on development and architecture of Microsoft's Azure cloud platform. Our goal is to share knowledge and experiences with the .NET community on working with and developing for this platform. We do this by bringing together developers, architects, consultants and enthusiasts and give them the opportunity to gather knowledge and insights from industry speakers, both local and international.
