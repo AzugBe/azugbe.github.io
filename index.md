@@ -12,12 +12,6 @@ header:
 excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networking around development and architecture of Microsoft’s Azure cloud platform."
 ---
 
-## Upcoming events
-**2017-04-22 - Global Azure Bootcamp 2017** - As we are approaching the 5th anniversary of the Global Azure Bootcamp, AZUG is glad to support this initiative in Belgium by hosting an event on Saturday 22nd of April. Want to attend (or speak) on this full day of Azure? [Register here!](/events/2017/04/22/global-azure-bootcamp-2017){: .btn .btn--success}
-{: .notice--info}
-
-<hr />
-
 ## About AZUG
 
 AZUG is a Belgian user group with focus on development and architecture of Microsoft's Azure cloud platform. Our goal is to share knowledge and experiences with the .NET community on working with and developing for this platform. We do this by bringing together developers, architects, consultants and enthusiasts and give them the opportunity to gather knowledge and insights from industry speakers, both local and international.
