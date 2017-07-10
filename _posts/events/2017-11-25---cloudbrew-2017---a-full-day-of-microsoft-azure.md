@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["events"]
 tags: ["Events"]
-alias: ["/events/events/2017-11-25---cloudbrew-2017---a-full-day-of-microsoft-azure"]
+alias: ["/events/2017-11-25---cloudbrew-2017---a-full-day-of-microsoft-azure"]
 author: Maarten Balliauw
 redirect_from:
  - /events/2017-11-25---cloudbrew-2017---a-full-day-of-microsoft-azure.html
