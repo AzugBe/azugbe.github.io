@@ -12,6 +12,12 @@ header:
 excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networking around development and architecture of Microsoft’s Azure cloud platform."
 ---
 
+## Upcoming events
+**2017-11-25 - CloudBrew 2017 - A full day of Microsoft Azure** - A full day of Microsoft Azure! We will have some local and international speakers who will share their knowledge and experience. Two tracks and lots of sessions! [Register here!](/events/2017-11-25---cloudbrew-2017---a-full-day-of-microsoft-azure){: .btn .btn--success}
+{: .notice--info}
+
+<hr />
+
 ## About AZUG
 
 AZUG is a Belgian user group with focus on development and architecture of Microsoft's Azure cloud platform. Our goal is to share knowledge and experiences with the .NET community on working with and developing for this platform. We do this by bringing together developers, architects, consultants and enthusiasts and give them the opportunity to gather knowledge and insights from industry speakers, both local and international.
