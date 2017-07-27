@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/media/splash.jpg
-  cta_label: "Join us!"
+  cta_label: "Join our user group!"
   cta_url: "#join-us-stay-informed"
 excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networking around development and architecture of Microsoft’s Azure cloud platform."
 ---
@@ -63,7 +63,14 @@ There are many benefits to participating in AZUG:
 
 ## Join us, stay informed
 
-Becoming a member of AZUG is free! Join our mailing list and be among the first to hear about new events and meetups.
+Becoming a member of AZUG is free! Events are organized and announced through:
+
+* <img src="assets/media/icon-email.png" width="16" height="16" /> Our [newsletter](#newsletter) - this is the primary announcement channel and we recommend subscribing to it.
+* <img src="assets/media/icon-slack.png" width="16" height="16" /> Our [Slack team](#slack) - for announcements and community discussions.
+
+### Newsletter 
+
+Join our newsletter and be among the first to hear about new events and meetups.
 
 <div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="http://azug.us2.list-manage.com/subscribe/post?u=47e1708de98684b0f393d63b3&amp;id=9463ee7106" method="post"> 
 <table border="0" cellspacing="2" cellpadding="2">
@@ -80,8 +87,14 @@ Becoming a member of AZUG is free! Join our mailing list and be among the first 
 </table>
 </form></div>
 
+### Slack
+
+Next to our [newsletter](#newsletter), we have a [Slack team](https://join.slack.com/t/azugbe/shared_invite/MjE4MzI5NDM3OTM5LTE1MDExNDgyMzUtMzgwNjM2YmU0Zg) where we announce new events and provide a way of discussing topics that are relevant to the AZUG community.
+
+[<img src="assets/media/icon-slack.png" width="16" height="16" /> Join our Slack team  now!](https://join.slack.com/t/azugbe/shared_invite/MjE4MzI5NDM3OTM5LTE1MDExNDgyMzUtMzgwNjM2YmU0Zg)
+
 ## Microsoft Azure?
 
 The Microsoft Azure platform is a flexible cloud–computing platform that lets you focus on solving business problems and addressing customer needs. No need to invest upfront on expensive infrastructure. Pay only for what you use, scale up when you need capacity and pull it back when you don’t.
 
-Find out more on [www.azure.com](http://www.azure.com)
+&raquo; Find out more on [www.azure.com](http://www.azure.com)
