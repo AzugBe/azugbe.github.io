@@ -24,6 +24,6 @@ We intentionally keep CloudBrew small-scale. This gives the event a more intimat
 
 ## Community
 
-Organized by AZUG</a>, the Belgium Microsoft Azure User Group, CloudBrew originates from the community. Both you and our speakers are part of it. Ideal to network with peers!
+Organized by AZUG, the Belgium Microsoft Azure User Group, CloudBrew originates from the community. Both you and our speakers are part of it. Ideal to network with peers!
 
 **Check <a href="http://www.cloudbrew.be">www.cloudbrew.be</a> for more information!**
