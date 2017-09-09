@@ -47,7 +47,7 @@ There are many benefits to participating in AZUG:
 
 <br />
 
-<a href="https://www.hellocustomer.com/"><img alt="" src="/assets/media/sponsors/logo-hellocustomer.png" vspace="10" /></a>&nbsp;
+<a href="https://www.hellocustomer.com/"><img alt="" src="/assets/media/sponsors/logo-hello-customer.png" vspace="10" /></a>&nbsp;
 <a href="http://www.tobania.be/"><img alt="" src="/assets/media/sponsors/logo-tobania.jpg" vspace="10" /></a>&nbsp;
 <a href="http://www.synergics.be"><img alt="" src="/assets/media/sponsors/logo-synergics.jpg" vspace="10" /></a>&nbsp;
 <a href="https://www.be.capgemini.com/"><img alt="" src="/assets/media/sponsors/logo-capgemini.jpg" vspace="10" /></a>
