@@ -34,7 +34,7 @@ There are many benefits to participating in AZUG:
 
 <p style="text-align: center;">
 <a href="http://www.ae.be"><img alt="" src="/assets/media/sponsors/logo-ae.jpg" vspace="10" /></a>&nbsp;
-<a href="http://www.axxess.com"><img alt="" src="/assets/media/sponsors/logo-axxess.png" vspace="10" /></a>&nbsp;
+<a href="http://www.axxes.com"><img alt="" src="/assets/media/sponsors/logo-axxes.png" vspace="10" /></a>&nbsp;
 <a href="http://www.barracuda.com"><img alt="" src="/assets/media/sponsors/logo-barracuda.jpg" vspace="10" /></a>
 <a href="https://www.be.capgemini.com/"><img alt="" src="/assets/media/sponsors/logo-capgemini.jpg" vspace="10" /></a>
 <a href="http://www.codit.be"><img alt="" src="/assets/media/sponsors/logo-codit.jpg" vspace="10" /></a>&nbsp;
