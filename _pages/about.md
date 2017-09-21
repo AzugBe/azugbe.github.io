@@ -27,7 +27,7 @@ The current board is <a href="http://cloudshaper.wordpress.com"><span style="col
 
 AZUG was founded near the end of 2009 by several Belgian .NET community members: <a href="http://www.devitect.net/"><span style="color: #455f9c;">Kurt Claeys</span></a>, <a href="http://cloudshaper.wordpress.com"><span style="color: #455f9c;">Yves Goeleven</span></a> and <a href="http://blog.maartenballiauw.be/"><span style="color: #455f9c;">Maarten Balliauw</span></a>. Other names involved are Gabriele Bozzi (Kaukana), Patrick Verbruggen (Spikes), Marc Vanderheyden (Spikes), Rudi Claes (InfoSupport), Marco Braakman (InfoSupport) and Bart De Boeck.
 
-In 2010 <a href="http://blog.krisvandermast.com/"><span style="color: #455f9c;">Kris van der Mast</span></a> joined the board.
+In 2010 <a href="http://www.krisvandermast.com/"><span style="color: #455f9c;">Kris van der Mast</span></a> joined the board.
 
 In 2012, Sam Vanhoutte, Kristof Rennen, Mike Martin and Panagiotis Kefalidis joined AZUG as volunteers, helping the day-to-day working.
 
@@ -77,3 +77,9 @@ His main interest goes to highly scalable and available, multi tenant and multi 
 ![](/assets/media/crew/tom-kerkhove.jpg)
 
 Tom Kerkhove works for Codit as an Azure Consultant, is a member of the AZUG crew and has been a Microsoft MVP & Azure Advisor since 2014. He turns coffee into scaleable & secure cloud systems and writes about his adventures on his blog - <a href="https://blog.tomkerkhove.be" target="_blank">blog.tomkerkhove.be</a>
+
+### Salma Haidar
+
+![](/assets/media/crew/salma-haidar.jpg)
+
+Salma Haidar joined the azug crew in 2017. Dedicated to banking & finance, her domain & enthusiasm. Social, friendly, active and competitive. Her blog is currently under construction at [salmahaidar.com](http://www.salmahaidar.com). In the meantime one can check out her [professional background](https://www.linkedin.com/in/salmahaidar).
