@@ -22,7 +22,7 @@ Except... there were these pesky requirements which impacted the design my team 
 
 In this session you will hear about one of my latest projects, the challenges faced and the solutions built. I’ll share my experience on: .net core, SPA’s with Angular 4, leveraging VSTS to roll out and update environments dynamically, integrating and automating Azure AD to secure applications and much more.
 
-<p style="margin-bottom: 30px;"><em><img src="/assets/media/speakers/benny-michielsen.jpg" alt="" align="left" width="100" height="100" style="margin-right: 20px;"> <em><strong>Speaker:</strong>&nbsp;</em></em></p>
+<p style="margin-bottom: 30px;"><em><img src="/assets/media/speakers/benny-michielsen.jpg" alt="" align="left" width="100" height="100" style="margin-right: 20px;"> <em><strong>Speaker:</strong>&nbsp;</em></em></p>  
 
 
 ### TBA
