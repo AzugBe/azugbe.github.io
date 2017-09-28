@@ -24,6 +24,7 @@ In this session you will hear about one of my latest projects, the challenges fa
 
 <p style="margin-bottom: 30px;"><em><img src="/assets/media/speakers/benny-michielsen.jpg" alt="" align="left" width="100" height="100" style="margin-right: 20px;"> <em><strong>Speaker:</strong>&nbsp;</em></em></p>
 
+
 ### TBA
 More information will follow
 
