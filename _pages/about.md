@@ -31,8 +31,9 @@ In 2010 <a href="http://www.krisvandermast.com/"><span style="color: #455f9c;">K
 
 In 2012, Sam Vanhoutte, Kristof Rennen, Mike Martin and Panagiotis Kefalidis joined AZUG as volunteers, helping the day-to-day working.
 
-In 2015, Tom Kerkhove joined AZUG as a&nbsp;volunteer, helping the day-to-day working. Sam Vanhoutte decided to focus on other things.
+In 2015, Tom Kerkhove joined AZUG as a volunteer, helping the day-to-day working. Sam Vanhoutte decided to focus on other things, while Panagiotis Kefalidis moved to the USA.
 
+In 2017, Salma Haidar joined the AZUG crew as a volunteer.
 
 ## Crew
 
