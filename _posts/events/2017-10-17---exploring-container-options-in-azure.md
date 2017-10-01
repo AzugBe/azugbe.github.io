@@ -21,13 +21,13 @@ One evening, two sessions! Join us for an interesting evening on containers (by 
 
 More information about the session will follow.
 
-<p style="margin-bottom: 30px;"><em><img src="/assets/media/speakers/benny-michielsen.jpg" alt="" align="left" width="100" height="100" style="margin-right: 20px;"> <em><strong>Speaker: Fréderic Foselle, VP Software Development at Stylelabs</strong>&nbsp;</em></em></p>  
+<p style="margin-bottom: 30px;"><img src="/assets/media/speakers/benny-michielsen.jpg" alt="" align="left" width="100" height="100" style="margin-right: 20px;"> <em>Speaker: Fréderic Foselle, VP Software Development at Stylelabs</em></p>  
 
 ### T.B.A.
 
 More information about the session will follow.
 
-<p style="margin-bottom: 30px;"><em><img src="/assets/media/speakers/yves-goeleven.jpg" alt="" align="left" width="100" height="100" style="margin-right: 20px;"> <em><strong>Speaker: Yves Goeleven</strong>&nbsp;</em></em></p>  
+<p style="margin-bottom: 30px;"><em><img src="/assets/media/speakers/yves-goeleven.jpg" alt="" align="left" width="100" height="100" style="margin-right: 20px;"> <em>Speaker: Yves Goeleven</strong></em></p>  
 
 ## Practical details
 
