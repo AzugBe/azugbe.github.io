@@ -27,7 +27,7 @@ More information about the session will follow.
 
 More information about the session will follow.
 
-<em><img src="/assets/media/speakers/yves-goeleven.jpg" alt="" align="left" width="100" height="100" style="margin-right: 20px;" /> <em><strong>Speaker:</strong> Yves Goeleven</strong></em>
+<em><img src="/assets/media/speakers/yves-goeleven.jpg" alt="" align="left" width="100" height="100" style="margin-right: 20px;" /> <em><strong>Speaker:</strong> Yves Goeleven</em>
 
 ## Practical details
 
