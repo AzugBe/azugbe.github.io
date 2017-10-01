@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "2017-10-17 - Exploring container options in Azure"
-date: 2017-09-30 13:42:00 +0000
+date: 2017-10-17 13:42:00 +0000
 comments: true
 published: true
 categories: ["events"]
@@ -15,6 +15,7 @@ redirect_from:
 
 
 ## Sessions
+
 ### Exploring container options in Azure
 
 
@@ -29,7 +30,7 @@ More information will follow
 
 ## Practical details
 
-**Event date:** October 19, 2017 - you are welcome from 18:00, session starts 18:30
+**Event date:** October 17, 2017 - you are welcome from 18:00, session starts 18:30
 
 **Event location:**<br />
 <img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-stylelabs.jpg">
