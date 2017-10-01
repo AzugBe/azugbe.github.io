@@ -23,11 +23,15 @@ More information about the session will follow.
 
 <img src="/assets/media/speakers/benny-michielsen.jpg" alt="" align="left" width="100" height="100" style="margin-right: 20px;" /> <em><strong>Speaker:</strong> Fréderic Foselle, VP Software Development at Stylelabs</em>
 
+<hr />
+
 ### T.B.A.
 
 More information about the session will follow.
 
-<em><img src="/assets/media/speakers/yves-goeleven.jpg" alt="" align="left" width="100" height="100" style="margin-right: 20px;" /> <em><strong>Speaker:</strong> Yves Goeleven</em>
+<img src="/assets/media/speakers/yves-goeleven.jpg" alt="" align="left" width="100" height="100" style="margin-right: 20px;" /> <em><strong>Speaker:</strong> Yves Goeleven</em>
+
+<hr />
 
 ## Practical details
 
