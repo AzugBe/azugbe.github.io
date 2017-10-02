@@ -19,15 +19,15 @@ One evening, two sessions! Join us for an interesting evening on containers by F
 
 ### Exploring container options in Azure
 
-More information about the session will follow.
+
 
 <img src="/assets/media/speakers/frederic-foselle.jpg" alt="" align="left" width="100" height="100" style="margin-right: 20px;" /> **Speaker:** *Fréderic Foselle, VP Software Development at Stylelabs*
 
-### T.B.A.
+### The secret to building large scale, distributed, cloud applications  
 
-More information about the session will follow.
+I've been designing large scale, distributed, cloud applications since the dawn of the Azure platform. One of the patterns that keeps recurring in many of these designs is the 'event'. In this session I will introduce you to the world of events and all event oriented design patterns such as event processing, event sourcing, event projection, and much much more...  
 
-<img src="/assets/media/speakers/yves-goeleven.jpg" alt="" align="left" width="100" height="100" style="margin-right: 20px;" /> **Speaker:** *Yves Goeleven*
+<img src="/assets/media/speakers/yves-goeleven.jpg" alt="" align="left" width="100" height="100" style="margin-right: 20px;" /> **Speaker:** *Yves Goeleven* Yves has been shipping enterprise and cloud software since 2001. He is specialized in the design of distributed software systems in the cloud using messaging. He works as a Solution Architect for Particular Software (NServiceBus), where he is responsible for all Azure related transports, persisters and hosts. This includes Azure storage services, service bus, cloud services and service fabric. He is one of the first to be awarded as Windows Azure MVP by Microsoft and has been reawarded for the last 7 years.  
 
 ## Practical details
 
