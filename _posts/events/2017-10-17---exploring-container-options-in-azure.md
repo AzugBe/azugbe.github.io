@@ -13,7 +13,7 @@ redirect_from:
  - /events/2017/10/17/exploring-container-options-in-azure.html
 ---
 
-One evening, two sessions! Join us for an interesting evening on containers (by Benny Michielsen) and a session by Yves Goeleven!
+One evening, two sessions! Join us for an interesting evening on containers by Fréderic Foselle followed by a session by Yves Goeleven.
 
 ## Sessions
 
@@ -21,17 +21,13 @@ One evening, two sessions! Join us for an interesting evening on containers (by 
 
 More information about the session will follow.
 
-<img src="/assets/media/speakers/benny-michielsen.jpg" alt="" align="left" width="100" height="100" style="margin-right: 20px;" /> <em><strong>Speaker:</strong> Fréderic Foselle, VP Software Development at Stylelabs</em>
-
-<hr />
+<img src="/assets/media/speakers/frederic-foselle.jpg" alt="" align="left" width="100" height="100" style="margin-right: 20px;" /> **Speaker:** *Fréderic Foselle, VP Software Development at Stylelabs*
 
 ### T.B.A.
 
 More information about the session will follow.
 
-<img src="/assets/media/speakers/yves-goeleven.jpg" alt="" align="left" width="100" height="100" style="margin-right: 20px;" /> <em><strong>Speaker:</strong> Yves Goeleven</em>
-
-<hr />
+<img src="/assets/media/speakers/yves-goeleven.jpg" alt="" align="left" width="100" height="100" style="margin-right: 20px;" /> **Speaker:** *Yves Goeleven*
 
 ## Practical details
 
