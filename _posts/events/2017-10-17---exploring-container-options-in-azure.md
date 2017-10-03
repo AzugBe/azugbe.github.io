@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "2017-10-17 - Exploring container options in Azure"
+title: "2017-10-17 - Exploring container options in Azure & The secret to building large scale, distributed, cloud applications"
 date: 2017-10-17 13:42:00 +0000
 comments: true
 published: true
