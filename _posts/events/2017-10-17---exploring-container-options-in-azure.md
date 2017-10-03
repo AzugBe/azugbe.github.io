@@ -18,10 +18,15 @@ One evening, two sessions! Join us for an interesting evening on containers by F
 ## Sessions
 
 ### Exploring container options in Azure
-Session abstract coming later.
+
+With the different container tooling and orchestration options offered by Azure, choosing the right option can be challenging task.  
+After some research and several proof of concepts, STYLELABS is gradually moving its technology stack to Docker.
+The session will start with a brief overview of the current offering (ACS, ServiceFabric and ACI as the latest addition), 
+followed by a summary of our findings gained so far and steps taken to make the transition. 
 
 
-<img src="/assets/media/speakers/frederic-foselle.jpg" alt="" align="left" height="100" width="100" style="margin-right: 20px;" /> **Speaker:** *Fréderic Foselle, VP Software Development at Stylelabs*
+<img src="/assets/media/speakers/frederic-foselle.jpg" alt="" align="left" height="100" width="100" style="margin-right: 20px;" /> **Speaker:** *Fréderic Foselle* Fréderic is the VP of technology at STYLELABS and has 10+ years experience in the software field.  
+He's passionate about technology and following Azure from the beginning.
 
 <br />
 <br />
