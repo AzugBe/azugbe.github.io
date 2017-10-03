@@ -34,7 +34,7 @@ In this talk, weâ€™ll explore the simple yet complex realm of rate limiting. Weâ
 **Event date:** December 12, 2017 - you are welcome from 18:00, session starts 18:30
 
 **Event location:**<br />
-To be determined - Interested to host this one? [Contact us](http://www.azug.be/contact)!
+To be determined - Interested to host this event? [Contact us](http://www.azug.be/contact)!
 
 ## Register via EventBrite
 Coming soon.
