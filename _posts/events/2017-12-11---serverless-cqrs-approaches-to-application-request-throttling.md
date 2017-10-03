@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "2017-12-11 - Serverless CQRS & Approaches to application request throttling"
-date: 2017-10-01 13:37:00 +0000
+date: 2017-12-11 13:37:00 +0000
 comments: true
 published: true
 categories: ["events"]
