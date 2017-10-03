@@ -9,7 +9,7 @@ tags: ["Events"]
 alias: ["/events/2017-12-11---serverless-cqrs-approaches-to-application-request-throttling"]
 author: Tom Kerkhove
 redirect_from:
- - /events/2017-05-03---serverless-cqrs-approaches-to-application-request-throttling.html
+ - /events/2017-12-11---serverless-cqrs-approaches-to-application-request-throttling.html
 ---
 
 Serverless is one of the biggest buzzwords at the moment, so here's an event on serverless! But be warned, you need to protect your systems as well. Join us to learn about using serverless CQRS with Toon Vanhoutte and how you can add application request throttling with Maarten Balliauw.
