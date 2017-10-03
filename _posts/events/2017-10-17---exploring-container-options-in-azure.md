@@ -23,6 +23,9 @@ Session abstract coming later.
 
 <img src="/assets/media/speakers/frederic-foselle.jpg" alt="" align="left" height="100" style="margin-right: 20px;" /> **Speaker:** *Fréderic Foselle, VP Software Development at Stylelabs*
 
+<br />
+<br />
+
 ### The secret to building large scale, distributed, cloud applications 
 
 I've been designing large scale, distributed, cloud applications since the dawn of the Azure platform. One of the patterns that keeps recurring in many of these designs is the 'event'. In this session I will introduce you to the world of events and all event oriented design patterns such as event processing, event sourcing, event projection, and much much more... 
