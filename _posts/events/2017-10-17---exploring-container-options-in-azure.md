@@ -25,7 +25,7 @@ The session will start with a brief overview of the current offering (ACS, Servi
 followed by a summary of our findings gained so far and steps taken to make the transition. 
 
 
-<img src="/assets/media/speakers/frederic-foselle.jpg" alt="" align="left" height="100" width="100" style="margin-right: 20px;" /> **Speaker:** *Fréderic Foselle* Fréderic is the VP of technology at STYLELABS and has 10+ years experience in the software field.  
+<img src="/assets/media/speakers/frederic-foselle.jpg" alt="" align="left" height="100" width="100" style="margin-right: 20px;" /> **Speaker:** *Fréderic Foselle* is the VP of technology at STYLELABS and has 10+ years experience in the software field.
 He's passionate about technology and following Azure from the beginning.
 
 ### The secret to building large scale, distributed, cloud applications 
