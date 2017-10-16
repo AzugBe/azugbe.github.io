@@ -35,7 +35,11 @@ In this talk, weâ€™ll explore the simple yet complex realm of rate limiting. Weâ
 **Event date:** December 12, 2017 - you are welcome from 18:00, session starts 18:30
 
 **Event location:**<br />
-To be determined - Interested to host this event? [Contact us](http://www.azug.be/contact)!
+<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-realdolmen.jpg">
+RealDolmen<br />
+Prins Boudewijnlaan 26<br />
+2550 Kontich<br />
+Belgium
 
 ## Register via EventBrite
-Coming soon.
+<div style="width:100%; text-align:left;"><iframe src="//eventbrite.com/tickets-external?eid=38940455952&ref=etckt" frameborder="0" height="275" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div>
