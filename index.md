@@ -16,7 +16,7 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 **2017-12-12 - Serverless CQRS & Approaches to application request throttling** - Serverless CQRS in Azure by Toon Vanhoutte, and Approaches to application request throttling by Maarten Balliauw. [Register here!](/events/2017-12-12---serverless-cqrs-approaches-to-application-request-throttling){: .btn .btn--success}
 {: .notice--info}
 
-**2018-04-21 - Global Azure Bootcamp 2018** - AZUG is glad to support the 6th edition of the Global Azure Bootcamp by hosting an event on Saturday 21nd of April in Belgium. [Register here!](/events/events/2018-04-21---global-azure-bootcamp){: .btn .btn--success}
+**2018-04-21 - Global Azure Bootcamp 2018** - AZUG is glad to support the 6th edition of the Global Azure Bootcamp by hosting an event on Saturday 21nd of April in Belgium. [Register here!](/events/2018-04-21---global-azure-bootcamp){: .btn .btn--success}
 {: .notice--info}
 
 <hr />
