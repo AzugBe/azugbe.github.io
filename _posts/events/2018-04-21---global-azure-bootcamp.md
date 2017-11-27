@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "2018-04-21 - Global Azure Bootcamp 2018"
-date: 2017-11-25 13:37:00 +0000
+date: 2018-04-21 13:37:00 +0000
 comments: true
 published: true
 categories: ["events"]
@@ -10,7 +10,7 @@ alias: ["/events/2018-04-21---global-azure-bootcamp"]
 author: Tom Kerkhove
 redirect_from:
  - /events/2018-04-21---global-azure-bootcamp.html
- - /events/2018/04/2112/global-azure-bootcamp.html
+ - /events/2018/04/21/global-azure-bootcamp.html
 ---
 
 AZUG is glad to support the 6th edition of the Global Azure Bootcamp by hosting an event on Saturday 21nd of April in Belgium.
