@@ -36,7 +36,7 @@ In this talk, weâ€™ll explore the simple yet complex realm of rate limiting. Weâ
 
 **Event location:**<br />
 <img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-realdolmen.jpg">
-RealDolmen<br />
+Realdolmen<br />
 Prins Boudewijnlaan 26<br />
 2550 Kontich<br />
 Belgium
