@@ -5,21 +5,19 @@
 $standard-width: 240px;
 $standard-height: 120px;
 
-img {
-  .sponsor-bronze {
-    width: $standard-width * 0.5;
-    height: $standard-height * 0.5;
-  }
-  .sponsor-silver {
-    width: $standard-width * 0.75;
-    height: $standard-height * 0.75;
-  }
-  .sponsor-gold {
-    width: $standard-width;
-    height: $standard-height;
-  }
-  .sponsor-platinum {
-    width: $standard-width * 1.25;
-    height: $standard-height * 1.25;
-  }
+img.sponsor-bronze {
+  width: $standard-width * 0.5;
+  height: $standard-height * 0.5;
+}
+img.sponsor-silver {
+  width: $standard-width * 0.75;
+  height: $standard-height * 0.75;
+}
+img.sponsor-gold {
+  width: $standard-width;
+  height: $standard-height;
+}
+img.sponsor-platinum {
+  width: $standard-width * 1.25;
+  height: $standard-height * 1.25;
 }
