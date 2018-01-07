@@ -3,23 +3,23 @@
    ========================================================================== */
 
 $standard-width: 240px;
-$standard-height: 120px;
+$standard-max-height: 120px;
 
 img {
   .sponsor-bronze {
     width: $standard-width * 0.5;
-    height: $standard-height * 0.5;
+    max-height: $standard-max-height * 0.5;
   }
   .sponsor-silver {
     width: $standard-width * 0.75;
-    height: $standard-height * 0.75;
+    max-height: $standard-max-height * 0.75;
   }
   .sponsor-gold {
     width: $standard-width;
-    height: $standard-height;
+    max-height: $standard-max-height;
   }
   .sponsor-platinum {
     width: $standard-width * 1.25;
-    height: $standard-height * 1.25;
+    max-height: $standard-max-height * 1.25;
   }
 }
