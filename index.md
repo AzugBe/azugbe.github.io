@@ -13,13 +13,11 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 ---
 
 ## Upcoming events
-**2017-10-17 - Exploring container options in Azure** - Two sessions: Contianer options in Azure by Fréderic Foselle, and the secret to building large scale, distributed, cloud applications by Yves Goeleven. [Register here!](/events/2017/10/17/exploring-container-options-in-azure){: .btn .btn--success}
+
+**2018-01-23 - Serverless CQRS & Approaches to application request throttling** - Serverless CQRS in Azure by Toon Vanhoutte, and Approaches to application request throttling by Maarten Balliauw. [Register here!](/events/2018-01-23---serverless-cqrs-approaches-to-application-request-throttling){: .btn .btn--success}
 {: .notice--info}
 
-**2017-11-25 - CloudBrew 2017 - A full day of Microsoft Azure** - A full day of Microsoft Azure! We will have some local and international speakers who will share their knowledge and experience. Two tracks and lots of sessions! [Register here!](/events/2017-11-25---cloudbrew-2017---a-full-day-of-microsoft-azure){: .btn .btn--success}
-{: .notice--info}
-
-**2017-12-12 - Serverless CQRS & Approaches to application request throttling** - Serverless CQRS in Azure by Toon Vanhoutte, and Approaches to application request throttling by Maarten Balliauw. [Register here!](/events/2017-12-12---serverless-cqrs-approaches-to-application-request-throttling){: .btn .btn--success}
+**2018-04-21 - Global Azure Bootcamp 2018** - AZUG is glad to support the 6th edition of the Global Azure Bootcamp by hosting an event on Saturday 21nd of April in Belgium. [Register here!](/events/2018-04-21---global-azure-bootcamp){: .btn .btn--success}
 {: .notice--info}
 
 <hr />

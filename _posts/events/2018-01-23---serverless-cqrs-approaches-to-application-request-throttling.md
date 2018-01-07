@@ -1,24 +1,17 @@
 ---
 layout: single
-title: "2017-12-12 - Serverless CQRS & Approaches to application request throttling"
-date: 2017-12-12 13:37:00 +0000
+title: "2018-01-23 - Serverless CQRS & Approaches to application request throttling"
+date: 2018-01-23 13:37:00 +0000
 comments: true
 published: true
 categories: ["events"]
 tags: ["Events"]
-alias: ["/events/2017-12-12---serverless-cqrs-approaches-to-application-request-throttling"]
+alias: ["/events/2017-01-23---serverless-cqrs-approaches-to-application-request-throttling"]
 author: Tom Kerkhove
 redirect_from:
- - /events/2017-12-12---serverless-cqrs-approaches-to-application-request-throttling.html
- - /events/2017/12/12/serverless-cqrs-approaches-to-application-request-throttling.html
+ - /events/2018-01-23---serverless-cqrs-approaches-to-application-request-throttling.html
+ - /events/2018/01/23/serverless-cqrs-approaches-to-application-request-throttling.html
 ---
-
-<hr />
-# !!! EVENT IS CANCELLED DUE TO ROAD CONDITIONS !!!
-
-Replacement event on [January 23, 2018  - Register here!](/events/2018-01-23---serverless-cqrs-approaches-to-application-request-throttling)
-
-<hr />
 
 Serverless is one of the biggest buzzwords at the moment, so here's an event on serverless! But be warned, you need to protect your systems as well. Join us to learn about using serverless CQRS with Toon Vanhoutte and how you can add application request throttling with Maarten Balliauw.
 
@@ -39,14 +32,14 @@ In this talk, weâ€™ll explore the simple yet complex realm of rate limiting. Weâ
 
 ## Practical details
 
-**Event date:** December 12, 2017 - you are welcome from 18:00, session starts 18:30
+**Event date:** January 23, 2018 - you are welcome from 18:00, session starts 18:30
 
 **Event location:**<br />
 <img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-realdolmen.jpg">
-RealDolmen<br />
+Realdolmen<br />
 Prins Boudewijnlaan 26<br />
 2550 Kontich<br />
 Belgium
 
 ## Register via EventBrite
-<div style="width:100%; text-align:left;"><iframe src="//eventbrite.com/tickets-external?eid=38940455952&ref=etckt" frameborder="0" height="275" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div>
+<div style="width:100%; text-align:left;"><iframe src="//eventbrite.com/tickets-external?eid=41273395838&ref=etckt" frameborder="0" height="275" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div>
