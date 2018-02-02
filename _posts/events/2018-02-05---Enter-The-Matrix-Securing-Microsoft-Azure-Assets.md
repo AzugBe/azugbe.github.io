@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "2018-02-05 - Enter The Matrix: Securing Microsoft Azure’s assets"
-date: 2018-02-05 13:38:00 +0000
+date: 2018-02-05 13:39:00 +0000
 comments: true
 published: true
 categories: ["events"]
@@ -26,9 +26,9 @@ In the cloud no one can hear you scream… or can they. Even though Microsoft ha
 
 **Event location:**<br />
 <img width="240" height="120" align="right" alt="" src="/assets/media/sponsors/logo-2commit.jpg">
-2Commit<br />
-Prins Boudewijnlaan 43<br />
-2650 Edegem<br />
+Cronos NV - 2Commit<br />
+Veldkant 33A<br />
+2550 Kontich<br />
 Belgium
 
 ## Register via EventBrite
