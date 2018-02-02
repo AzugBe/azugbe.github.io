@@ -14,9 +14,6 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**2018-02-05 - Enter The Matrix: Securing Microsoft Azure’s assets** - Mike Martin dives into Azure’s security measures, helping you get an idea on how to monitor and react to threats that have been noticed or unnoticed. [Register here!](/events/2018/02/05/Enter-The-Matrix-Securing-Microsoft-Azure-Assets){: .btn .btn--success}
-{: .notice--info}
-
 **2018-04-21 - Global Azure Bootcamp 2018** - AZUG is glad to support the 6th edition of the Global Azure Bootcamp by hosting an event on Saturday 21nd of April in Belgium. [Register here!](/events/2018-04-21---global-azure-bootcamp){: .btn .btn--success}
 {: .notice--info}
 
