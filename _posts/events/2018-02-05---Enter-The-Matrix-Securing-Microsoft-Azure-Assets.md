@@ -22,7 +22,7 @@ In the cloud no one can hear you scream… or can they. Even though Microsoft ha
 
 ## Practical details
 
-**Event date:** February 5, 2018 - you are welcome from 18:30, session starts 19:00
+**Event date:** February 5, 2018 - you are welcome from 18:00, session starts 18:30
 
 **Event location:**<br />
 <img width="240" height="120" align="right" alt="" src="/assets/media/sponsors/logo-2commit.jpg">
