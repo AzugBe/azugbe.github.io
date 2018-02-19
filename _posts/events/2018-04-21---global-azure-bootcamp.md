@@ -28,9 +28,9 @@ We will host a full day of Azure sessions, labs or just provide a workspace for 
 | 10:15 – 10:30   | *Break*                                                                                                     |
 | 10:30 – 11:30   | **Oh no... My organization just went Azure. What to do know?!?**  – Karim Vaes                              |
 | 11:30 – 11:45   | *Break*                                                                                                     |
-| 11:45 – 12:45   | **Build solutions leveraging the Artificial Intelligence Services in Microsoft Azure** – Steef-Jan Wiggers  |
+| 11:45 – 12:45   | **Get started with Azure Machine Learning** – Nico Jacobs                                                   |
 | 12:45 – 13:30   | *Lunch*                                                                                                     |
-| 13:30 – 14:30   | **Get started with Azure Machine Learning** – Nico Jacobs                                                   |
+| 13:30 – 14:30   | **Build solutions leveraging the Artificial Intelligence Services in Microsoft Azure** – Steef-Jan Wiggers  |
 | 14:30 – 14:45   | *Break*                                                                                                     |
 | 14:45 – 15:45   | **My most complex ARM template - story from the trenches** – Nills Franssens                                |
 | 15:45 – 16:00   | *Break*                                                                                                     |
