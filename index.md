@@ -17,6 +17,9 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 **2018-04-21 - Global Azure Bootcamp 2018** - AZUG is glad to support the 6th edition of the Global Azure Bootcamp by hosting an event on Saturday 21nd of April in Belgium. [Register here!](/events/2018-04-21---global-azure-bootcamp){: .btn .btn--success}
 {: .notice--info}
 
+**2018-05-07 - BUILD 2018 live stream** - AZUG, [MADN](http://www.madn.be), [OWIC](http://www.owic.be) and [VISUG](http://www.visug.be) are organizing a local live stream event for Microsoft //BUILD. [Register here!](/events/2018-05-07---build-2018-live-stream){: .btn .btn--success}
+{: .notice--info}
+
 <hr />
 
 ## About AZUG
