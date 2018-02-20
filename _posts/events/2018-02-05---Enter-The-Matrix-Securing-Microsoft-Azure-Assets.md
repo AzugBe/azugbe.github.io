@@ -1,7 +1,11 @@
 ---
 layout: single
 title: "2018-02-05 - Enter The Matrix: Securing Microsoft Azure’s assets"
+<<<<<<< HEAD
+date: 2018-02-05 13:37:00 +0000
+=======
 date: 2018-02-05 13:39:00 +0000
+>>>>>>> upstream/master
 comments: true
 published: true
 categories: ["events"]
@@ -14,7 +18,6 @@ redirect_from:
 ---
 
 ## Sessions
-
 ### Securing Microsoft Azure’s assets
 In the cloud no one can hear you scream… or can they. Even though Microsoft has a tremendous army of gadgets (besides the sharks with freakin lasers that is) in place for defending your environments, sometimes you need that additional little thing. The goal of the session is to provide you some guidance and an overview of Azure’s security measures, either out of the box activated or the additional ones you can foresee. Next to that you’ll get an idea on how to monitor and react to threats that have been noticed or unnoticed. Expect some PowerShell, Azure architecture, and service tweaks which can help you settle at ease in your new condominium with panic room.
 
