@@ -127,7 +127,7 @@ The data controller shall process and store the personal data of the data subjec
 
 If the storage purpose is not applicable, or if a storage period prescribed by the European legislator or another competent legislator expires, the personal data are routinely blocked or erased in accordance with legal requirements.
 
-### 8. Rights of the data subject</h4>
+### 8. Rights of the data subject
 
 #### a) Right of confirmation
 Each data subject shall have the right granted by the European legislator to obtain from the controller the confirmation as to whether or not personal data concerning him or her are being processed. If a data subject wishes to avail himself of this right of confirmation, he or she may, at any time, contact the controller.
