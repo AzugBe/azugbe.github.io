@@ -2,8 +2,17 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
 
 <script>
+// Cookie consent stuff
 window['ga-disable-{{ site.analytics.google.tracking_id }}'] = false;
- 
+
+var trackPageView = function(consentGiven) {
+  window['ga-disable-{{ site.analytics.google.tracking_id }}'] = !consentGiven;
+  if (!window['ga-disable-{{ site.analytics.google.tracking_id }}']) {
+    ga('create', '{{ site.analytics.google.tracking_id }}', 'auto');
+    ga('send', 'pageview');
+  }
+};
+
 window.addEventListener("load", function(){
   window.cookieconsent.initialise({
     "palette": { "popup": { "background": "#f2f3f3", "text": "#4a4f53" },
@@ -19,25 +28,13 @@ window.addEventListener("load", function(){
       "href": "https://cookiesandyou.com"
     },
     onInitialise: function (status) {
-      window['ga-disable-{{ site.analytics.google.tracking_id }}'] = this.options.type == 'opt-out' && !this.hasConsented();
-      if (!window['ga-disable-{{ site.analytics.google.tracking_id }}']) {
-        ga('create', '{{ site.analytics.google.tracking_id }}', 'auto');
-        ga('send', 'pageview');
-      }
+      trackPageView(this.options.type == 'opt-out' && !this.hasConsented());
 	},
     onStatusChange: function(status, chosenBefore) {
-      window['ga-disable-{{ site.analytics.google.tracking_id }}'] = this.options.type == 'opt-out' && !this.hasConsented();
-      if (!window['ga-disable-{{ site.analytics.google.tracking_id }}']) {
-        ga('create', '{{ site.analytics.google.tracking_id }}', 'auto');
-        ga('send', 'pageview');
-      }
+      trackPageView(this.options.type == 'opt-out' && !this.hasConsented());
 	},
     onRevokeChoice: function() {
-      window['ga-disable-{{ site.analytics.google.tracking_id }}'] = this.options.type == 'opt-out';
-      if (!window['ga-disable-{{ site.analytics.google.tracking_id }}']) {
-        ga('create', '{{ site.analytics.google.tracking_id }}', 'auto');
-        ga('send', 'pageview');
-      }
+      trackPageView(this.options.type == 'opt-out');
 	}
   })
 });
