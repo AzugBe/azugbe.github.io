@@ -20,16 +20,25 @@ window.addEventListener("load", function(){
     },
     onInitialise: function (status) {
       window['ga-disable-{{ site.analytics.google.tracking_id }}'] = this.options.type == 'opt-out' && !this.hasConsented();
-    },
+      if (!window['ga-disable-{{ site.analytics.google.tracking_id }}']) {
+        ga('create', '{{ site.analytics.google.tracking_id }}', 'auto');
+        ga('send', 'pageview');
+      }
+	},
     onStatusChange: function(status, chosenBefore) {
       window['ga-disable-{{ site.analytics.google.tracking_id }}'] = this.options.type == 'opt-out' && !this.hasConsented();
-    },
+      if (!window['ga-disable-{{ site.analytics.google.tracking_id }}']) {
+        ga('create', '{{ site.analytics.google.tracking_id }}', 'auto');
+        ga('send', 'pageview');
+      }
+	},
     onRevokeChoice: function() {
       window['ga-disable-{{ site.analytics.google.tracking_id }}'] = this.options.type == 'opt-out';
-    }
+      if (!window['ga-disable-{{ site.analytics.google.tracking_id }}']) {
+        ga('create', '{{ site.analytics.google.tracking_id }}', 'auto');
+        ga('send', 'pageview');
+      }
+	}
   })
-  
-  ga('create', '{{ site.analytics.google.tracking_id }}', 'auto');
-  ga('send', 'pageview');
 });
 </script>
