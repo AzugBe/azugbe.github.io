@@ -71,7 +71,7 @@ Controller for the purposes of the General Data Protection Regulation (GDPR), ot
     2910 Essen
     Belgium
     Email: getintouchwithus@azug.be
-    Website: [www.azug.be](http://www.azug.be)
+    Website: www.azug.be
 
 ### 3. Cookies
 
@@ -109,7 +109,7 @@ Newsletter data processing is handled by a third party, where the data subject's
     Atlanta, GA 30308
     USA
     Email: privacy@mailchimp.com
-    Website: [www.mailchimp.com](https://www.mailchimp.com)
+    Website: www.mailchimp.com
 
 The [MailChimp Privacy Policy](https://mailchimp.com/legal/privacy/) is applicable to AZUG vzw newsletter subscribers.
 
@@ -268,7 +268,7 @@ When registering for an event organized by AZUG vzw, event registration processi
     San Francisco, CA 94103
     USA
     Email: privacy@eventbrite.com
-    Website: [www.eventbrite.com](https://www.eventbrite.com)
+    Website: www.eventbrite.com
 
 The [EventBrite Privacy Policy](https://www.eventbrite.com/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy?lg=en_US) is applicable to data subjects registering for events organized by AZUG vzw.
 
