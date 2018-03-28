@@ -7,6 +7,8 @@ permalink: /privacy
 
 ## Privacy Policy
 
+*This policy was last updated: March 28, 2018.*
+
 Data protection is of a particularly high priority for the management of AZUG vzw. The use of the Internet pages of AZUG vzw is possible without any indication of personal data; however, if a data subject wants to participate in events or subscribe to our newsletter, processing of personal data could become necessary.
 
 The processing of personal data, such as the name, address, e-mail address, or telephone number of a data subject shall always be in line with the General Data Protection Regulation (GDPR), and in accordance with the country-specific data protection regulations applicable to AZUG vzw. By means of this data protection declaration, our enterprise would like to inform the general public of the nature, scope, and purpose of the personal data we collect, use and process. Furthermore, data subjects are informed, by means of this data protection declaration, of the rights to which they are entitled.
