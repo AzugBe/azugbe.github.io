@@ -83,7 +83,7 @@ author:
   bio              : "Azure User Group Belgium"
   location         : "Belgium"
   email            : "getintouchwithus@azug.be"
-  uri              : "http://www.azug.be"
+  uri              : "https://www.azug.be"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -106,7 +106,7 @@ author:
   weibo            :
   xing             :
   youtube          : "https://www.youtube.com/user/azugbe"
-  other           : "http://azug.us2.list-manage.com/subscribe/post?u=47e1708de98684b0f393d63b3&amp;id=9463ee7106"
+  other           : "https://azug.us2.list-manage.com/subscribe/post?u=47e1708de98684b0f393d63b3&amp;id=9463ee7106"
 
 # Reading Files
 include:
