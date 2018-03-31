@@ -74,7 +74,7 @@ Becoming a member of AZUG is free! Events are organized and announced through:
 
 Join our newsletter and be among the first to hear about new events and meetups.
 
-<div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="http://azug.us2.list-manage.com/subscribe/post?u=47e1708de98684b0f393d63b3&amp;id=9463ee7106" method="post"> 
+<div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="https://azug.us2.list-manage.com/subscribe/post?u=47e1708de98684b0f393d63b3&amp;id=9463ee7106" method="post"> 
 <table border="0" cellspacing="2" cellpadding="2">
 <tbody>
 <tr>
