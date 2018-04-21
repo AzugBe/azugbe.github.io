@@ -23,7 +23,6 @@ We will host a full day of Azure sessions, labs or just provide a workspace for 
 |:----------------|:------------------------------------------------------------------------------------------------------------|
 | 08:30 – 09:00   | Breakfast & Coffee                                                                                          |
 | 09:00 – 09:15   | Welcome + Lab instructions                                                                                  |
-| 09:20 – 09:30   | *Break*                                                                                                     |
 | 09:15 – 10:15   | **Captain Webhook is conquering the serverless space!** – Toon Vanhoutte                                    |
 | 10:15 – 10:30   | *Break*                                                                                                     |
 | 10:30 – 11:30   | **Oh no... My organization just went Azure. What to do now?!?**  – Karim Vaes                               |
