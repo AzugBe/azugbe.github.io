@@ -12,13 +12,6 @@ header:
 excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networking around development and architecture of Microsoft’s Azure cloud platform."
 ---
 
-## Upcoming events
-
-**2018-05-07 - BUILD 2018 live stream** - AZUG, [MADN](http://www.madn.be), [OWIC](http://www.owic.be) and [VISUG](http://www.visug.be) are organizing a local live stream event for Microsoft //BUILD. [Register here!](/events/2018-05-07---build-2018-live-stream){: .btn .btn--success}
-{: .notice--info}
-
-<hr />
-
 ## About AZUG
 
 AZUG is a Belgian user group with focus on development and architecture of Microsoft's Azure cloud platform. Our goal is to share knowledge and experiences with the .NET community on working with and developing for this platform. We do this by bringing together developers, architects, consultants and enthusiasts and give them the opportunity to gather knowledge and insights from industry speakers, both local and international.
