@@ -35,6 +35,8 @@ In 2015, Tom Kerkhove joined AZUG as a volunteer, helping the day-to-day working
 
 In 2017, Salma Haidar joined the AZUG crew as a volunteer.
 
+In 2018, Glenn Colpaert joined the AZUG crew as a volunteer.
+
 ## Crew
 
 ### Yves Goeleven
