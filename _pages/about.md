@@ -83,3 +83,10 @@ Tom Kerkhove works for Codit as an Azure Consultant, is a member of the AZUG cre
 ![](/assets/media/crew/salma-haidar.jpg)
 
 Salma Haidar joined the azug crew in 2017. Dedicated to banking & finance, her domain & enthusiasm. Social, friendly, active and competitive. Her blog is currently under construction at [salmahaidar.com](http://www.salmahaidar.com). In the meantime one can check out her [professional background](https://www.linkedin.com/in/salmahaidar).
+
+### Glenn Colpaert
+
+![](/assets/media/crew/glenn-colpaert.jpg)
+
+Glenn is Azure & IoT Domain Lead at Codit, where he ensures the day to day operations of the Azure and IoT domain within Codit. Since 2014 he is a Microsoft Azure MVP and Microsoft Azure Advisor, in 2018 he joined the Azug Crew. Glenn has been integrating businesses with BizTalk, Cloud & Microsoft technologies for more than 9 years. He has gained a lot of hand-on experience during his projects and likes to share it with colleagues and the community.
+His blog can be found at <a href="https://glenncolpaert.wordpress.com/">https://glenncolpaert.wordpress.com/</a>.
