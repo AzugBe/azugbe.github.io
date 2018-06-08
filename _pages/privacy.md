@@ -5,9 +5,25 @@ tagline: Azure User Group Belgium
 permalink: /privacy
 ---
 
+## Summary
+
+As a user group, AZUG vzw has to store and process some of your personal information.
+
+This page describes our privacy policy, including full details on third-party data processors. In case you prefer a summary, here's what we collect and use your data for:
+
+* AZUG vzw can use non-essential cookies on [www.azug.be](https://www.azug.be) only when you consent
+* AZUG vzw may store your full name and e-mail address in order to be able to identify you when attendign events
+* In addition, AZUG vzw may share your full name and e-mail address with third-party data processors:
+  * MailChimp, only when you consent to receive our newsletter.
+  * EventBrite, only when you register for an event. Your personal data will also be used to send event updates when needed, and may be used to print name badges at the venue location.
+
+Historically, AZUG vzw has gone great lengths to ensure your personal information is not only secure but is used appropriately and only with your consent, and that only minimal, essential information is captured - a healthy approach to working with your personal information.
+
+We'll keep using the same principles we have been using over the past years, but in case you have any questions do get in touch!
+
 ## Privacy Policy
 
-*This policy was last updated: March 28, 2018.*
+*This policy was last updated: April 28, 2018.*
 
 Data protection is of a particularly high priority for the management of AZUG vzw. The use of the Internet pages of AZUG vzw is possible without any indication of personal data; however, if a data subject wants to participate in events or subscribe to our newsletter, processing of personal data could become necessary.
 
@@ -260,23 +276,23 @@ Twitter receives information via the Twitter component that the data subject has
 
 The applicable data protection provisions of Twitter may be accessed under [https://twitter.com/privacy?lang=en](https://twitter.com/privacy?lang=en).
 
-### 11. Data protection provisions about the application and use of EventBrite
+### 11. Data protection provisions about the application and use of Pretix
 
 When registering for an event organized by AZUG vzw, event registration processing is handled by a third-party data processor:
 
-    Eventbrite, Inc.
-    Attn: Privacy Officer
-    155 5th Street, Floor 7
-    San Francisco, CA 94103
-    USA
-    Email: privacy@eventbrite.com
-    Website: www.eventbrite.com
+    Pretix - Raphael Michel
+    rami.io Software development
+    Rathausstraße 19/2
+    69126 Heidelberg
+    Germany
+    Email: privacy@pretix.eu
+    Website: www.pretix.eu
 
-The [EventBrite Privacy Policy](https://www.eventbrite.com/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy?lg=en_US) is applicable to data subjects registering for events organized by AZUG vzw.
+The [Pretix Privacy Policy](https://pretix.eu/about/en/privacy) is applicable to data subjects registering for events organized by AZUG vzw.
 
 The event registration process captures at least the data subject's full name and e-mail address. This data is used for sending out event registration confirmation, event reminders and a post-event survey. The data may be used to print name badges that the data subject can wear during the event.
 
-For paid events, additional payment data may be collected. More information about the purpose of that data collection is available in the [EventBrite Privacy Policy](https://www.eventbrite.com/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy?lg=en_US).
+For paid events, additional payment data may be collected in order to properly handle payment. If you pay for your ticket using a service like PayPal, Stripe, Wirecard, or Sofort, we transfer only the minimal necessary amount of data to these services.
 
 ### 12. Legal basis for the processing
 
