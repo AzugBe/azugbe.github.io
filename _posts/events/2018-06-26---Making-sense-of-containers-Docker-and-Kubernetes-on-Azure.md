@@ -40,6 +40,8 @@ Belgium
 
 ## Register via Pretix
 
+**If the below form does not load correctly, [use this direct link to register for this event](https://pretix.eu/azug/20180626/). We are working on it.**
+
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/azug/20180626/widget/v1.css">
 <script type="text/javascript" src="https://pretix.eu/widget/v1.en.js" async></script>
 <div class="pretix-widget-compat" event="https://pretix.eu/azug/20180626/"></div>
