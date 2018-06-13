@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "2018-10-12 + 13 - CloudBrew 2018 - Two days of Microsoft Azure"
-date: 2017-11-25 14:20:00 +0000
+date: 2018-10-12 14:20:00 +0000
 comments: true
 published: true
 categories: ["events"]
