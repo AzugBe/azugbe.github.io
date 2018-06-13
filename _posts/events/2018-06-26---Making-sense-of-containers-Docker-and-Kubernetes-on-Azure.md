@@ -40,8 +40,6 @@ Belgium
 
 ## Register via Pretix
 
-<link rel="stylesheet" type="text/css" href="https://pretix.eu/azug/20180626/widget/v1.css">
-<script type="text/javascript" src="https://pretix.eu/widget/v1.en.js" async></script>
 <div class="pretix-widget-compat" event="https://pretix.eu/azug/20180626/"></div>
 <noscript>
    <div class="pretix-widget">
