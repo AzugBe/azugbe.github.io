@@ -9,6 +9,8 @@ tags: ["Events"]
 author: Maarten Balliauw
 ---
 
+Nills Franssens will provide us with a demo-rich session that covers containers, Docker and Kubernetes. On Azure, of course!
+
 ## Sessions
 
 ### Making sense of containers, Docker and Kubernetes on Azure
@@ -20,7 +22,9 @@ The final part will highlight some new container evolutions to pay attention to.
  
 The complete session will hover between a level 200 and level 300 presentation with multiple demos. Due to the amount of content we'll cover there won’t be room for a hands-on lab, but who knows what might follow in the future…
 
-<img src="/assets/media/speakers/nills-franssens.jpg" alt="Nills Franssens" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker:** *Nills Franssens - Cloud Solution Architect @ Microsoft. Beer lover, board game geek, runner. Nills is a Cloud Solution Architect (or CSA) at Microsoft Belgium. With a lot of experience in IaaS and networking, he is expanding his knowledge domain into the wonderful domain of Docker and Kubernetes. In his spare time, he enjoys the occasional beer; plays a lot a board games (never bored) and runs often (1114km in 2017). *
+<img src="/assets/media/speakers/nills-franssens.jpg" alt="Nills Franssens" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker:** Nills Franssens - Cloud Solution Architect @ Microsoft. Beer lover, board game geek, runner. Nills is a Cloud Solution Architect (or CSA) at Microsoft Belgium. With a lot of experience in IaaS and networking, he is expanding his knowledge domain into the wonderful domain of Docker and Kubernetes. In his spare time, he enjoys the occasional beer; plays a lot a board games (never bored) and runs often (1114km in 2017).
+
+<br />
 
 ## Practical details
 
