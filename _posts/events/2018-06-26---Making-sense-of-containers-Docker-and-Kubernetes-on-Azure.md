@@ -14,6 +14,7 @@ Nills Franssens will provide us with a demo-rich session that covers containers,
 ## Sessions
 
 ### Making sense of containers, Docker and Kubernetes on Azure
+
 Containers are getting more and more popular. After being popularized by Docker, the interest in the packaging format has been rising. Orchestrators like swarm and kubernetes have added additional capabilities to the mix; but also add a lot of complexity. During this session, we'll make sense of containers, Docker and Kubernetes; show you some demos of a container in action and show you how Azure can become your container platform. 
  
 During the first half we'll focus on containers themselves. Who are they, what do they do, what drives them? We'll explore what a container is - what the benefits are of using them - how you can integrate them in your CICD pipeline - and how MSFT tools can help in working with containers.
@@ -39,9 +40,6 @@ Schaliënhoevedreef 20J<br />
 Belgium
 
 ## Register via Pretix
-
-**!!! If the below form does not load correctly, [use this direct link to register for this event](https://pretix.eu/azug/20180626/). We are working on it. !!!**
-
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/azug/20180626/widget/v1.css">
 <script type="text/javascript" src="https://pretix.eu/widget/v1.en.js" async></script>
 <div class="pretix-widget-compat" event="https://pretix.eu/azug/20180626/"></div>
