@@ -18,9 +18,23 @@ AZUG is glad to support the 6th edition of the Global Azure Bootcamp by hosting 
 We will host a full day of Azure sessions, labs or just provide a workspace for people who have been thinking of a side project but are looking for a partner in crime.
 
 ## Agenda
-We are looking for your interesting sessions to build our agenda.
 
-Feel free to submit them on our [call for paper](https://sessionize.com/global-azure-bootcamp-2018-azug/)!
+| Timeslot        | Session                                                                                                     |
+|:----------------|:------------------------------------------------------------------------------------------------------------|
+| 08:30 – 09:00   | Breakfast & Coffee                                                                                          |
+| 09:00 – 09:15   | Welcome + Lab instructions                                                                                  |
+| 09:15 – 10:15   | **Captain Webhook is conquering the serverless space!** – Toon Vanhoutte                                    |
+| 10:15 – 10:30   | *Break*                                                                                                     |
+| 10:30 – 11:30   | **Oh no... My organization just went Azure. What to do now?!?**  – Karim Vaes                               |
+| 11:30 – 11:45   | *Break*                                                                                                     |
+| 11:45 – 12:45   | **Get started with Azure Machine Learning** – Nico Jacobs                                                   |
+| 12:45 – 13:30   | *Lunch*                                                                                                     |
+| 13:30 – 14:30   | **Build solutions leveraging the Artificial Intelligence Services in Microsoft Azure** – Steef-Jan Wiggers  |
+| 14:30 – 14:45   | *Break*                                                                                                     |
+| 14:45 – 15:45   | **My most complex ARM template - story from the trenches** – Nills Franssens                                |
+| 15:45 – 16:00   | *Break*                                                                                                     |
+| 16:00 – 17:00   | **Breaking down IoT barriers with Microsoft IoT Central!** – Glenn Colpaert                                 |
+| 17:00 – ...     |  Closing speech, prize draw (sponsor giveaway)                                                              |
 
 ## Practical details
 **Event date:** April 21, 2018

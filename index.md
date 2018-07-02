@@ -6,7 +6,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /assets/media/splash.jpg
+  overlay_image: https://www.azug.be/assets/media/splash.jpg
   cta_label: "Join our user group!"
   cta_url: "#join-us-stay-informed"
 excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networking around development and architecture of Microsoft’s Azure cloud platform."
@@ -14,10 +14,14 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
+<<<<<<< HEAD
 **2018-04-21 - Global Azure Bootcamp 2018** - AZUG is glad to support the 6th edition of the Global Azure Bootcamp by hosting an event on Saturday 21nd of April in Belgium. [Register here!](/events/2018-04-21---global-azure-bootcamp){: .btn .btn--success}
 {: .notice--info}  
 
 **2018-05-07 - //BUILD live stream event** - AZUG, MADN, OWIC and VISUG are partnering together to organize the //BUILD live stream at Microsoft Belgium. [Register here!](/events/2018-05-07---build-2018-live-stream){: .btn .btn--success}
+=======
+**2018-05-07 - BUILD 2018 live stream** - AZUG, [MADN](http://www.madn.be), [OWIC](http://www.owic.be) and [VISUG](http://www.visug.be) are organizing a local live stream event for Microsoft //BUILD. [Register here!](/events/2018-05-07---build-2018-live-stream){: .btn .btn--success}
+>>>>>>> upstream/master
 {: .notice--info}
 
 <hr />
@@ -43,7 +47,7 @@ There are many benefits to participating in AZUG:
 <a href="http://www.barracuda.com"><img alt="" src="/assets/media/sponsors/logo-barracuda.jpg" class="sponsor-gold" vspace="10" /></a>&nbsp;
 <br />
 <a href="https://www.be.capgemini.com/"><img alt="" src="/assets/media/sponsors/logo-capgemini.jpg" class="sponsor-gold" vspace="10" /></a>&nbsp;
-<a href="http://www.codit.be"><img alt="" src="/assets/media/sponsors/logo-codit.jpg" class="sponsor-gold" vspace="10" /></a>&nbsp;
+<a href="https://www.codit.eu"><img alt="" src="/assets/media/sponsors/logo-codit.png" class="sponsor-gold" vspace="10" /></a>&nbsp;
 <a href="http://www.cronos.be"><img alt="" src="/assets/media/sponsors/logo-cronos.jpg" class="sponsor-gold" vspace="10" /></a>&nbsp;
 <a href="http://www.euri.com"><img alt="" src="/assets/media/sponsors/logo-euricom.jpg" class="sponsor-gold" vspace="10" /></a>&nbsp;
 <br />
@@ -74,7 +78,7 @@ Becoming a member of AZUG is free! Events are organized and announced through:
 
 Join our newsletter and be among the first to hear about new events and meetups.
 
-<div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="http://azug.us2.list-manage.com/subscribe/post?u=47e1708de98684b0f393d63b3&amp;id=9463ee7106" method="post"> 
+<div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="https://azug.us2.list-manage.com/subscribe/post?u=47e1708de98684b0f393d63b3&amp;id=9463ee7106" method="post"> 
 <table border="0" cellspacing="2" cellpadding="2">
 <tbody>
 <tr>

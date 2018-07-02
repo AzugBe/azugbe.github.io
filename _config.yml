@@ -11,7 +11,7 @@ title                    : "AZUG"
 title_separator          : "-"
 name                     : "AZUG"
 description              : "Azure User Group Belgium"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.azug.be"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -83,7 +83,7 @@ author:
   bio              : "Azure User Group Belgium"
   location         : "Belgium"
   email            : "getintouchwithus@azug.be"
-  uri              : "http://www.azug.be"
+  uri              : "https://www.azug.be"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -106,7 +106,7 @@ author:
   weibo            :
   xing             :
   youtube          : "https://www.youtube.com/user/azugbe"
-  other           : "http://azug.us2.list-manage.com/subscribe/post?u=47e1708de98684b0f393d63b3&amp;id=9463ee7106"
+  other           : "https://azug.us2.list-manage.com/subscribe/post?u=47e1708de98684b0f393d63b3&amp;id=9463ee7106"
 
 # Reading Files
 include:
