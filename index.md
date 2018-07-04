@@ -36,7 +36,7 @@ There are many benefits to participating in AZUG:
 
 <hr />
 
-		<p style="text-align: center;">
+<p style="text-align: center;">
 		<a href="https://www.2commit.be/"><img alt="" src="/assets/media/sponsors/logo-2commit.jpg" class="sponsor-gold" vspace="10" /></a>&nbsp;
 		<a href="http://www.ae.be"><img alt="" src="/assets/media/sponsors/logo-ae.jpg" class="sponsor-gold" vspace="10" /></a>&nbsp;
 		<a href="http://www.axxes.com"><img alt="" src="/assets/media/sponsors/logo-axxes.jpg" class="sponsor-gold" vspace="10" /></a>&nbsp;
@@ -61,7 +61,7 @@ There are many benefits to participating in AZUG:
 		<a href="http://www.synergics.be"><img alt="" src="/assets/media/sponsors/logo-synergics.jpg" class="sponsor-gold" vspace="10" /></a>&nbsp;
 		<a href="http://www.tobania.be/"><img alt="" src="/assets/media/sponsors/logo-tobania.jpg" class="sponsor-gold" vspace="10" /></a>&nbsp;
 		<a href="http://www.xylos.be"><img alt="" src="/assets/media/sponsors/logo-xylos.jpg" class="sponsor-gold" vspace="10" /></a>
-		</p>
+</p>
 
 <hr />
 
