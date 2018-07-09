@@ -40,7 +40,7 @@ There are many benefits to participating in AZUG:
 		<a href="http://www.barracuda.com"><img alt="" src="/assets/media/sponsors/logo-barracuda.jpg" class="sponsor-gold" vspace="10" /></a>&nbsp;
 		<br />
 		<a href="https://www.be.capgemini.com/"><img alt="" src="/assets/media/sponsors/logo-capgemini.jpg" class="sponsor-gold" vspace="10" /></a>&nbsp;
-		<a href="https://www.cheops.com"><img alt="" src="/assets/media/sponsors/logo-cheops.png" class="sponsor-gold" vspace="10" /></a>&nbsp;
+		<a href="https://www.cheops.com"><img alt="" src="/assets/media/sponsors/logo-cheops.jpg" class="sponsor-gold" vspace="10" /></a>&nbsp;
 		<a href="https://www.codit.eu"><img alt="" src="/assets/media/sponsors/logo-codit.png" class="sponsor-gold" vspace="10" /></a>&nbsp;
 		<a href="http://www.cronos.be"><img alt="" src="/assets/media/sponsors/logo-cronos.jpg" class="sponsor-gold" vspace="10" /></a>
 		<br />
