@@ -78,7 +78,7 @@ His main interest goes to highly scalable and available, multi tenant and multi 
 
 ![](/assets/media/crew/tom-kerkhove.jpg)
 
-Tom Kerkhove works for Codit as an Azure Consultant, is a member of the AZUG crew and has been a Microsoft MVP & Azure Advisor since 2014. He turns coffee into scaleable & secure cloud systems and writes about his adventures on his blog - <a href="https://blog.tomkerkhove.be" target="_blank">blog.tomkerkhove.be</a>
+Tom Kerkhove works for Codit as an Azure Architect, is a member of the AZUG crew and has been a Microsoft MVP & Azure Advisor since 2014. He turns coffee into scaleable & secure cloud systems and writes about his adventures on his blog - <a href="https://blog.tomkerkhove.be" target="_blank">blog.tomkerkhove.be</a>
 
 ### Salma Haidar
 
