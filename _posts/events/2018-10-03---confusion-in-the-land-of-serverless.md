@@ -47,5 +47,14 @@ Belgium
 *The event takes place on the 3rd floor in the Esplanade building and is accessible via the parking or the back entrance.<br />
 [Here's how you can drive to Codit.](../../../../assets/media/documents/driving-to-codit.pdf)*
 
-## Registrations
-Coming soon!
+## Register via Pretix
+<link rel="stylesheet" type="text/css" href="https://pretix.eu/azug/20181003/widget/v1.css">
+<script type="text/javascript" src="https://pretix.eu/widget/v1.en.js" async></script>
+<pretix-widget event="https://pretix.eu/azug/20181003/"></pretix-widget>
+<noscript>
+   <div class="pretix-widget">
+        <div class="pretix-widget-info-message">
+            JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://pretix.eu/azug/20181003/">click here</a>.
+        </div>
+    </div>
+</noscript>
