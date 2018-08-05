@@ -30,7 +30,7 @@ How does your attitude to security change?
 
 By the end of the talk you should have a firm grasp of what serverless computing really can offer, cut through some of the hype, and get an understanding about where and how you can use it in your own organisations.
 
-<img src="/assets/media/speakers/sam-newman.png" alt="Sam Newman" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker:** Sam Newman is an independent consultant based in London, working with clients all over the world. He works in the cloud and continuous delivery space, more recently focusing on the use of microservice architectures and is the author of ["Building Microservices"](https://samnewman.io/books/building_microservices/).*
+<img src="/assets/media/speakers/sam-newman.png" alt="Sam Newman" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker:** *Sam Newman is an independent consultant based in London, working with clients all over the world. He works in the cloud and continuous delivery space, more recently focusing on the use of microservice architectures and is the author of ["Building Microservices"](https://samnewman.io/books/building_microservices/).*
 
 ## Practical details
 
