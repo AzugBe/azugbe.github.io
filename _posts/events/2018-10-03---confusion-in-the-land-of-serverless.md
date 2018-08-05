@@ -45,7 +45,7 @@ Gaston Crommenlaan 14<br />
 Belgium
 
 *The event takes place on the 3rd floor in the Esplanade building and is accessible via the parking or the back entrance.<br />
-[Here's how you can drive to Codit.](../../../../assets/media/documents/driving-to-codit.pdf)*
+[Here's how you can drive to Codit.](/assets/media/documents/driving-to-codit.pdf)*
 
 ## Register via Pretix
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/azug/20181003/widget/v1.css">
