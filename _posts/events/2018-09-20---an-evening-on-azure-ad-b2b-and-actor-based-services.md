@@ -26,8 +26,6 @@ A story about (scalable) actor systems, where actors never die. The goal is to i
 
 *Co-founder of Splitvice, a revolutionary project portfolio mangement tool. *
 
-<br />
-
 ### External collaboration with Azure B2B
 Collaboration between organizations becomes more and more important these days. Azure Business to Business (B2B) offers an out-of-the-box platform which can be used for secure collaboration with external users. With Azure B2B organizations can provide access to documents, resources, and applications to their partners, while maintaining complete control over their own corporate data. 
 
@@ -36,8 +34,6 @@ This session will give you insights on how to control and manage access to your 
 <img src="/assets/media/speakers/sjoukje-zaal.jpg" alt="Sjoukje Zaal" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker:** *Sjoukje Zaal - Sjoukje Zaal is a Principal Expert Microsoft and Microsoft Azure MVP with over 15 years of experience providing architecture, development, consultancy and design expertise. She works at Ordina, a system integrator based in the Netherlands.*
 
 *She is active in the Microsoft community as a co-founder of SP&C NL and MixUG, writer, public speaker and on MSDN.*
-
-<br />
 
 ## Practical details
 
