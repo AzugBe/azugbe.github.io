@@ -21,7 +21,9 @@ A story about (scalable) actor systems, where actors never die. The goal is to i
 *Two quotes apply:*
 * *Imagination is more important than knowledge*
 * *Per aspera ad astra*
+
 *Co-founder of XQTING, a company focussed on complex software architectures and integration solutions.*
+
 *Co-founder of Splitvice, a revolutionary project portfolio mangement tool. *
 
 <br />
