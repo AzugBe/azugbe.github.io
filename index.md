@@ -17,7 +17,7 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 **2018-09-20 - An evening on Azure AD B2B and Actor based Services** - Interested in an evening on Azure AD B2B and Actor based Services? Wim Van Houts will cover (scalable) actor systems, where actors never die. Sjoukje Zaal will dive into external collaboration with Azure B2B. [Register here!](https://www.azug.be/events/2018/09/20/an-evening-on-azure-ad-b2b-and-actor-based-services){: .btn .btn--success}
 {: .notice--info}
 
-**2018-10-03 - Confusion In The Land Of The Serverless** - Serverless is everywhere and promises to solve all your problems! However, is this really true? Come join and listen to Sam Newman, the author of "Building Microservices", and learn what it exactly is and how you can use it! [Register here!](https://www.azug.be/events/2018/10/03/confusion-in-the-land-of-serverless){: .btn .btn--success}
+**2018-10-03 - Confusion In The Land Of The Serverless & Macro challenges of a microservice architecture** - Serverless is everywhere and promises to solve all your problems! However, is this really true? And what are these microservices we keep hearing about and what are the macro challenges? Come join and listen to Sam Newman, the author of "Building Microservices", and Cornell Knulst to learn more about this! [Register here!](https://www.azug.be/events/2018/10/03/confusion-in-the-land-of-serverless){: .btn .btn--success}
 {: .notice--info}
 
 **2018-10-12 + 13 - CloudBrew 2018** - Two days of Microsoft Azure! We will have some local and international speakers who will share their knowledge and experience. Two days and lots of sessions! [Register here!](https://www.cloudbrew.be){: .btn .btn--success}

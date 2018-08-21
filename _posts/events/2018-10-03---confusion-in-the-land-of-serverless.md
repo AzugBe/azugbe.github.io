@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "2018-10-03 - Confusion In The Land Of The Serverless"
+title: "2018-10-03 - Confusion In The Land Of The Serverless & Macro challenges of a microservice architecture"
 date: 2018-10-03 13:37:00 +0000
 comments: true
 published: true
@@ -12,7 +12,9 @@ redirect_from:
  - /events/2018-10-03-confusion-in-the-land-of-serverless.html
 ---
 
-Serverless is everywhere and promises to solve all your problems! However, is this really true? Come join and listen to Sam Newman, the author of "Building Microservices", and learn what it exactly is and how you can use it!
+Serverless is everywhere and promises to solve all your problems! However, is this really true? And what are these microservices we keep hearing about and what are the macro challenges?
+
+Come join and listen to Sam Newman and Cornell Knulst to learn more about this!
 
 ## Agenda
 
@@ -31,6 +33,17 @@ How does your attitude to security change?
 By the end of the talk you should have a firm grasp of what serverless computing really can offer, cut through some of the hype, and get an understanding about where and how you can use it in your own organisations.
 
 <img src="/assets/media/speakers/sam-newman.png" alt="Sam Newman" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker:** *Sam Newman is an independent consultant based in London, working with clients all over the world. He works in the cloud and continuous delivery space, more recently focusing on the use of microservice architectures and is the author of ["Building Microservices"](https://samnewman.io/books/building_microservices/).*
+
+<br />
+
+### The macro challenges of a microservice architecture
+Microservices are hot. Many companies are adopting this top level architectural style. Over the past few years we faced some interesting challenges in implementing a microservice architecture at different customers.
+
+How to deal for example with cross-cutting concerns like monitoring and logging? How to implement reliable messaging for a non-event sourced microservice? What about graph based authorization versus decoupled services? How to ensure GDPR compliancy in services that are implemented in an eventsourced way?
+
+Just some questions we'll answer in this practical session about advanced microservice issues.
+
+<img src="/assets/media/speakers/cornell-knulst.png" alt="Cornell Knulst" align="left" height="100" style="margin-right: 20px;">**Speaker:** *Cornell is a Lead Architect at The Learning Network. He enables companies to deliver software faster, cheaper and better by supplying guidance on adopting DevOps practices and migrating to modern, cloud-native architectures. He is passionate about new technologies and is continuously diving into the latest technologies. He actively maintains a personal blog, speaks regularly at both national and international industry events and regularly publishes articles in national trade magazines.*
 
 <br />
 
