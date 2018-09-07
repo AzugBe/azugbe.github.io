@@ -62,9 +62,10 @@ There are many benefits to participating in AZUG:
 		<br />
 		<a href="http://www.realdolmen.com"><img alt="" src="/assets/media/sponsors/logo-realdolmen.jpg" class="sponsor-gold" vspace="10" /></a>&nbsp;
 		<a href="http://www.shiftz.be/"><img alt="" src="/assets/media/sponsors/logo-shiftz.png" class="sponsor-gold" vspace="10" /></a>&nbsp;
-		<a href="http://www.stylelabs.com/"><img alt="" src="/assets/media/sponsors/logo-stylelabs.jpg" class="sponsor-gold" vspace="10" /></a>&nbsp;
-		<a href="http://www.synergics.be"><img alt="" src="/assets/media/sponsors/logo-synergics.jpg" class="sponsor-gold" vspace="10" /></a>
-		<br />
+		<a href="http://www.spikes.be/"><img alt="" src="/assets/media/sponsors/logo-spikes.png" class="sponsor-gold" vspace="10" /></a>&nbsp;
+		<a href="http://www.stylelabs.com/"><img alt="" src="/assets/media/sponsors/logo-stylelabs.jpg" class="sponsor-gold" vspace="10" /></a>
+		<br />		
+		<a href="http://www.synergics.be"><img alt="" src="/assets/media/sponsors/logo-synergics.jpg" class="sponsor-gold" vspace="10" /></a>&nbsp;
 		<a href="http://www.tobania.be/"><img alt="" src="/assets/media/sponsors/logo-tobania.jpg" class="sponsor-gold" vspace="10" /></a>&nbsp;
 		<a href="http://www.xylos.be"><img alt="" src="/assets/media/sponsors/logo-xylos.jpg" class="sponsor-gold" vspace="10" /></a>
 </p>
