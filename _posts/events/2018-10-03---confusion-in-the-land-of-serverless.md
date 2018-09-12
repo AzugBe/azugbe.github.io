@@ -52,13 +52,12 @@ Just some questions we'll answer in this practical session about advanced micros
 **Event date:** October 3, 2018 - you are welcome from 18:00, session starts 18:30
 
 **Event location:**<br />
-<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-codit.jpg">Codit<br />
-Gaston Crommenlaan 14<br />
-9050 Gent<br />
+<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-codit.png">3Square - Gent sponsored by [Codit](https://codit.eu)<br />
+Rijvisschestraat 124<br />
+9052 Zwijnaarde<br />
 Belgium
 
-*The event takes place on the 3rd floor in the Esplanade building and is accessible via the parking or the back entrance.<br />
-[Here's how you can drive to Codit.](/assets/media/documents/driving-to-codit.pdf)*
+
 
 ## Register via Pretix
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/azug/20181003/widget/v1.css">
