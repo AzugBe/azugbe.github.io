@@ -42,7 +42,7 @@ There are many benefits to participating in AZUG:
 <p style="text-align: center;">
 		<a href="https://www.2commit.be/"><img alt="" src="/assets/media/sponsors/logo-2commit.jpg" class="sponsor-gold" vspace="10" /></a>&nbsp;
 		<a href="http://www.ae.be"><img alt="" src="/assets/media/sponsors/logo-ae.jpg" class="sponsor-gold" vspace="10" /></a>&nbsp;
-		<a href="https://www.arxus.eu"><img alt="" src="/assets/media/sponsors/logo-arxus.jpg" class="sponsor-gold" vspace="10" /></a>&nbsp;
+		<a href="https://www.arxus.eu"><img alt="" src="/assets/media/sponsors/logo-arxus.png" class="sponsor-gold" vspace="10" /></a>&nbsp;
 		<a href="http://www.axxes.com"><img alt="" src="/assets/media/sponsors/logo-axxes.jpg" class="sponsor-gold" vspace="10" /></a>
 		<br />
 		<a href="http://www.barracuda.com"><img alt="" src="/assets/media/sponsors/logo-barracuda.jpg" class="sponsor-gold" vspace="10" /></a>&nbsp;
