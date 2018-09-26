@@ -52,7 +52,7 @@ Just some questions we'll answer in this practical session about advanced micros
 **Event date:** October 3, 2018 - you are welcome from 18:00, session starts 18:30
 
 **Event location:**<br />
-<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-codit.png">**3Square - Gent** _(sponsored by [Codit](https://codit.eu)<br />_
+<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-codit.png">**3Square - Gent** _(sponsored by [Codit](https://codit.eu))<br />_
 Rijvisschestraat 124<br />
 9052 Zwijnaarde<br />
 Belgium
