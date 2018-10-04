@@ -14,9 +14,6 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**2018-10-03 - Confusion In The Land Of The Serverless & Macro challenges of a microservice architecture** - Serverless is everywhere and promises to solve all your problems! However, is this really true? And what are these microservices we keep hearing about and what are the macro challenges? Come join and listen to Sam Newman, the author of "Building Microservices", and Cornell Knulst to learn more about this! [Register here!](https://www.azug.be/events/2018/10/03/confusion-in-the-land-of-serverless){: .btn .btn--success}
-{: .notice--info}
-
 **2018-10-12 + 13 - CloudBrew 2018** - Two days of Microsoft Azure! We will have some local and international speakers who will share their knowledge and experience. Two days and lots of sessions! [Register here!](https://www.cloudbrew.be){: .btn .btn--success}
 {: .notice--info}
 
