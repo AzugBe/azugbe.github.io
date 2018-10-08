@@ -35,7 +35,7 @@ Second slot to be announced.
 **Event date:** November 22, 2018 - you are welcome from 18:00, session starts 18:30
 
 **Event location:**<br />
-<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-2commit.png">**2Commit**<br />_
+<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-2commit.png">2Commit<br />
 Prins Boudewijnlaan 43<br />
 2650 Edegem<br />
 Belgium
