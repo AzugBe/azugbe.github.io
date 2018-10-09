@@ -14,7 +14,8 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-No events are currently announced.
+**2018-11-22 - Developing a NextGen .NET Core WebApp** - Come learn how you can build NextGen Web applications with .NET Core & ASP.NET Boilerplate framework! [Register here!](https://www.azug.be/events/2018/11/22/developing-next-get-web-apps){: .btn .btn--success}
+{: .notice--info}
 
 <hr />
 
