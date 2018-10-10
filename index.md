@@ -14,7 +14,7 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**2018-11-22 - Developing a NextGen .NET Core WebApp** - Come learn how you can build NextGen Web applications with .NET Core & ASP.NET Boilerplate framework! [Register here!](https://www.azug.be/events/2018/11/22/developing-next-gen-web-apps){: .btn .btn--success}
+**2018-11-22 - Developing a next-gen .NET Core web app with ASP.NET Boilerplate framework** - In this session we would like to present a case study made for a hospital in Belgium. Technologies used are .NET Core, Angular 4, RabbitMQ and IdentityServer 4, all of this is running on Azure. [Register here!](https://www.azug.be/events/2018/11/22/developing-next-gen-web-apps){: .btn .btn--success}
 {: .notice--info}
 
 <hr />
