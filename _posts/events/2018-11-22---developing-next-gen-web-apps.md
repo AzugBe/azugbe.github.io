@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "2018-11-22 - Developing a Next-Gen .NET Core Web App with ASP.NET Boilerplate framework"
+title: "2018-11-22 - Developing a next-gen .NET Core web app with ASP.NET Boilerplate framework"
 date: 2018-11-22 13:37:00 +0000
 comments: false
 published: true
@@ -15,7 +15,7 @@ redirect_from:
 
 ## Agenda
 
-### Developing a Next-Gen .NET Core Web App with ASP.NET Boilerplate framework
+### Developing a next-gen .NET Core web app with ASP.NET Boilerplate framework
 In this session we would like to present a case study made for a hospital in Belgium. The WebApp is a reservation and planning system for operation room's and surgeons. It prevents double bookings of the OR's and will automatically cancel reservations when surgeons are taking holidays. Technologies used are .NET Core, Angular 4, RabbitMQ and IdentityServer 4, all of this is running on Azure.
 
 The focus in this sessions will be on the use of the ASP.NET Boilerplate framework. The framework allowed us to do Rapid Application Development and to have a very solid base framework that uses all of the patterns we find in modern development. As an extra we would like to briefly show also the use of Retrace and Stackify on Azure. Those are the debugging and monitoring tools we used for this WebApp.
