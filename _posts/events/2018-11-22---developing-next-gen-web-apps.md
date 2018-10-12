@@ -26,10 +26,7 @@ This session is a technical deep-dive for architects and developers as we will l
 
 <br />
 
-### TBA
-Second slot to be announced.
 
-<br />
 
 ## Practical details
 
