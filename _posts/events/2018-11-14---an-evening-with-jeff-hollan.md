@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Azure Functions – performance and patterns beyond ‘hello world’"
+title: "2018-11-14 An evening with Jeff Hollan"
 date: 2018-11-14 13:37:00 +0000
 comments: true
 published: true
@@ -10,7 +10,10 @@ alias: ["/events/2018-11-14-an-evening-with-jeff-hollan"]
 author: Tom Kerkhove
 redirect_from:
  - 2018-11-14-an-evening-with-jeff-hollan.html
+ - 2018/11/14/an-evening-with-jeff-hollan.html
 ---
+
+Come learn about the internals of the Azure Functions runtime and service, and showcase some best practices and patterns to help you build scalable applications.
 
 ## Agenda
 
