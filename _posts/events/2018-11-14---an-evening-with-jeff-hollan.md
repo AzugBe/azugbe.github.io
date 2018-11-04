@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "2018-11-14 An evening with Jeff Hollan"
+title: "2018-11-14 - An evening with Jeff Hollan"
 date: 2018-11-14 13:37:00 +0000
 comments: true
 published: true
@@ -37,4 +37,13 @@ To be announced<br />
 Are you willing to have us in your office, <a href="mailto:kerkhove.tom@gmail.com">contact us</a>!
 
 ## Register via Pretix
-Maarten will provide this!
+<link rel="stylesheet" type="text/css" href="https://pretix.eu/azug/20181114/widget/v1.css">
+<script type="text/javascript" src="https://pretix.eu/widget/v1.en.js" async></script>
+<pretix-widget event="https://pretix.eu/azug/20181114/"></pretix-widget>
+<noscript>
+   <div class="pretix-widget">
+        <div class="pretix-widget-info-message">
+            JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://pretix.eu/azug/20181114/">click here</a>.
+        </div>
+    </div>
+</noscript>
