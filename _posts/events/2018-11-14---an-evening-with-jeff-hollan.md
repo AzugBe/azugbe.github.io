@@ -29,7 +29,7 @@ Product lead for Azure Functions will cover the internals of the Azure Functions
 **Event date:** November 14, 2018 - you are welcome from 18:00, session starts 18:30
 
 **Event location:**<br />
-<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-codit.png">To be announced<br />
+To be announced<br />
 
 Are you willing to have us in your office, <a href="mailto:kerkhove.tom@gmail.com">contact us</a>!
 
