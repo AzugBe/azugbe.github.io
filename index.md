@@ -14,6 +14,9 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
+**2018-11-14 - An evening with Jeff Hollan** - Come learn about the internals of the Azure Functions runtime and service, and showcase some best practices and patterns to help you build scalable applications. [Register here!](https://www.azug.be/events/2018/11/14/an-evening-with-jeff-hollan){: .btn .btn--success}
+{: .notice--info}
+
 **2018-11-22 - Developing a next-gen .NET Core web app with ASP.NET Boilerplate framework** - In this session we would like to present a case study made for a hospital in Belgium. Technologies used are .NET Core, Angular 4, RabbitMQ and IdentityServer 4, all of this is running on Azure. [Register here!](https://www.azug.be/events/2018/11/22/developing-next-gen-web-apps){: .btn .btn--success}
 {: .notice--info}
 
