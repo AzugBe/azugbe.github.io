@@ -17,9 +17,6 @@ Come learn about the internals of the Azure Functions runtime and service, and s
 
 ## Agenda
 
-### Session #1 - To be announced
-To be announced
-
 ### Azure Functions – performance and patterns beyond ‘hello world’
 Product lead for Azure Functions will cover the internals of the Azure Functions runtime and service, and showcase some best practices and patterns to help leverage functions to get optimal performance, reliability, and performance.  Includes a glimpse into the product roadmap of Azure Functions.
 
@@ -27,14 +24,16 @@ Product lead for Azure Functions will cover the internals of the Azure Functions
 
 <br />
 
+### Second session
+
+To be announced.
+
 ## Practical details
 
 **Event date:** November 14, 2018 - you are welcome from 18:00, session starts 18:30
 
 **Event location:**<br />
-To be announced<br />
-
-Are you willing to have us in your office, <a href="mailto:kerkhove.tom@gmail.com">contact us</a>!
+To be announced.
 
 ## Register via Pretix
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/azug/20181114/widget/v1.css">
