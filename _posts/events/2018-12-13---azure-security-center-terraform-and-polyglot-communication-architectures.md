@@ -42,6 +42,8 @@ This talk is for you if you want to know more about Terraform or if you still wo
 
 ### Architecture of a Polyglot Communication Platform 
 
+This speaker has not provided us with an abstract yet.
+
 <img src="/assets/media/speakers/gaston-verelst.jpg" alt="Gaston Verelst" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker:** *Gaston Verelst - MCT since 1995. With many Microsoft Certificates, applied at major customers in various Azure and Cloud related projects, Gaston has gathered deep insights into building scalable systems.*
 
 ## Practical details
