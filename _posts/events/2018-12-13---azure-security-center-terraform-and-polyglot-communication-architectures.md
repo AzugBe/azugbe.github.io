@@ -10,9 +10,9 @@ author: Kristof Rennen
 ---
 
 An evening packed with 3 speakers, 3 sessions and 3 very diverse topics. 
-Want to learn what Azure Security Center is about? 
-Interested in finding out whether Terraform is something for you? 
-Or want to design your next polyglot communication platform? 
+* Want to learn what Azure Security Center is about? 
+* Interested in finding out whether Terraform is something for you? 
+* Or want to design your next polyglot communication platform? 
 
 Then this evening is for you!
 
