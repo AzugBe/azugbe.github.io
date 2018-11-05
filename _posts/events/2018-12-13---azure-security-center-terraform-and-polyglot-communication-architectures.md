@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "2018-12-13 - Stay Safe with Azure Security Center, Should you switch to Terraform and Architecture of a Polyglot Communication Platform"
+title: "2018-12-13 - Three talks, Three topics: Azure Security Center, Terraform & Polyglot Architectures"
 date: 2018-12-13 18:00:00 +0000
 comments: true
 published: true
