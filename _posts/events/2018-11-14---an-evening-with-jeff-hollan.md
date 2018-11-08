@@ -30,7 +30,7 @@ To be announced.
 
 ## Practical details
 
-**Event date:** November 14, 2018 - you are welcome from 18:00, session starts 19:00
+**Event date:** November 14, 2018 - you are welcome from 18:00, session starts 18:45
 
 **Event location:**
 <img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-axxes.jpg">Axxess<br />
