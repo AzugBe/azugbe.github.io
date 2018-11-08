@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "2018-11-14 An evening with Jeff Hollan"
+title: "2018-11-14 - An evening with Jeff Hollan"
 date: 2018-11-14 13:37:00 +0000
 comments: true
 published: true
@@ -17,15 +17,16 @@ Come learn about the internals of the Azure Functions runtime and service, and s
 
 ## Agenda
 
-### Session #1 - To be announced
-To be announced
-
 ### Azure Functions – performance and patterns beyond ‘hello world’
 Product lead for Azure Functions will cover the internals of the Azure Functions runtime and service, and showcase some best practices and patterns to help leverage functions to get optimal performance, reliability, and performance.  Includes a glimpse into the product roadmap of Azure Functions.
 
 <img src="/assets/media/speakers/jeff-hollan.jpg" alt="Jeff Hollan" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker:** *Jeff Hollan is product manager lead for Azure Functions.  He was one of the original members on the Azure serverless team and a key member of the global serverless community.*
 
 <br />
+
+### Second session
+
+To be announced.
 
 ## Practical details
 
@@ -38,4 +39,13 @@ Entrepotkaai 10A<br />
 Belgium
 
 ## Register via Pretix
-Maarten will provide this!
+<link rel="stylesheet" type="text/css" href="https://pretix.eu/azug/20181114/widget/v1.css">
+<script type="text/javascript" src="https://pretix.eu/widget/v1.en.js" async></script>
+<pretix-widget event="https://pretix.eu/azug/20181114/"></pretix-widget>
+<noscript>
+   <div class="pretix-widget">
+        <div class="pretix-widget-info-message">
+            JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://pretix.eu/azug/20181114/">click here</a>.
+        </div>
+    </div>
+</noscript>
