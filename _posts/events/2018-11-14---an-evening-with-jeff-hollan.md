@@ -29,12 +29,13 @@ Product lead for Azure Functions will cover the internals of the Azure Functions
 
 ## Practical details
 
-**Event date:** November 14, 2018 - you are welcome from 18:00, session starts 18:30
+**Event date:** November 14, 2018 - you are welcome from 18:00, session starts 19:00
 
-**Event location:**<br />
-To be announced<br />
-
-Are you willing to have us in your office, <a href="mailto:kerkhove.tom@gmail.com">contact us</a>!
+**Event location:**
+<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-axxes.jpg">Axxess<br />
+Entrepotkaai 10A<br />
+2000 Antwerpen<br />
+Belgium
 
 ## Register via Pretix
 Maarten will provide this!
