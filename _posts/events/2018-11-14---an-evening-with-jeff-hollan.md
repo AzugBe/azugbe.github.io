@@ -33,7 +33,7 @@ To be announced.
 **Event date:** November 14, 2018 - you are welcome from 18:00, session starts 18:45
 
 **Event location:**
-<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-axxes.jpg">Axxess<br />
+<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-axxes.jpg">Axxes<br />
 Entrepotkaai 10A<br />
 2000 Antwerpen<br />
 Belgium
