@@ -30,10 +30,13 @@ To be announced.
 
 ## Practical details
 
-**Event date:** November 14, 2018 - you are welcome from 18:00, session starts 18:30
+**Event date:** November 14, 2018 - you are welcome from 18:00, session starts 18:45
 
-**Event location:**<br />
-To be announced.
+**Event location:**
+<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-axxes.jpg">Axxess<br />
+Entrepotkaai 10A<br />
+2000 Antwerpen<br />
+Belgium
 
 ## Register via Pretix
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/azug/20181114/widget/v1.css">
