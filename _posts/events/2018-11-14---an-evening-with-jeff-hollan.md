@@ -20,7 +20,7 @@ Come learn about the internals of the Azure Functions runtime and service, and s
 ### Current (and future) roadmap of Java on App Service
 Jason will recap the team’s most recent Java announcements and what they mean for Java developers using Azure App Service. Following some demos, there will be a sneak-peak of our newest platform improvement that we are announcing here at Devoxx.
 
-<img src="/assets/media/speakers/jason-freeberg.jpg" alt="Jason Freeberg" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker:** *Jason is a Program Manager on the App Service team. He drives new features and improvements for Java support on the PaaS platform.*
+<img src="/assets/media/speakers/jason-freeberg.jpg" alt="Jason Freeberg" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker:** *Jason Freeberg is a Program Manager on the App Service team. He drives new features and improvements for Java support on the PaaS platform.*
 
 <br />
 
