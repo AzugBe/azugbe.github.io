@@ -17,16 +17,19 @@ Come learn about the internals of the Azure Functions runtime and service, and s
 
 ## Agenda
 
+### Current (and future) roadmap of Java on App Service
+Jason will recap the team’s most recent Java announcements and what they mean for Java developers using Azure App Service. Following some demos, there will be a sneak-peak of our newest platform improvement that we are announcing here at Devoxx.
+
+<img src="/assets/media/speakers/jason-freeberg.jpg" alt="Jason Freeberg" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker:** *Jason is a Program Manager on the App Service team. He drives new features and improvements for Java support on the PaaS platform.*
+
+<br />
+
 ### Azure Functions – performance and patterns beyond ‘hello world’
 Product lead for Azure Functions will cover the internals of the Azure Functions runtime and service, and showcase some best practices and patterns to help leverage functions to get optimal performance, reliability, and performance.  Includes a glimpse into the product roadmap of Azure Functions.
 
 <img src="/assets/media/speakers/jeff-hollan.jpg" alt="Jeff Hollan" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker:** *Jeff Hollan is product manager lead for Azure Functions.  He was one of the original members on the Azure serverless team and a key member of the global serverless community.*
 
 <br />
-
-### Second session
-
-To be announced.
 
 ## Practical details
 
