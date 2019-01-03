@@ -14,8 +14,7 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**2018-12-13 - Three talks, Three topics: Azure Security Center, Terraform & Polyglot Architectures** - Want to learn what Azure Security Center is about? Interested in finding out whether Terraform is something for you? Or want to design your next polyglot communication platform? If you answered yes to any of these, it's time to register for this event! [Register here!](https://www.azug.be/events/2018/12/13/azure-security-center-terraform-and-polyglot-communication-architectures){: .btn .btn--success}
-{: .notice--info}
+No events are currently planned. Keep an eye on our newsletter (see below to subscribe).
 
 <hr />
 
