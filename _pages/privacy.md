@@ -23,7 +23,7 @@ We'll keep using the same principles we have been using over the past years, but
 
 ## Privacy Policy
 
-*This policy was last updated: April 28, 2018.*
+*This policy was last updated: January 07, 2018. An overview of changes is available [from the git history](https://github.com/AzugBe/azugbe.github.io/commits/master/_pages/privacy.md).*
 
 Data protection is of a particularly high priority for the management of AZUG vzw. The use of the Internet pages of AZUG vzw is possible without any indication of personal data; however, if a data subject wants to participate in events or subscribe to our newsletter, processing of personal data could become necessary.
 
@@ -85,8 +85,8 @@ Consent of the data subject is any freely given, specific, informed and unambigu
 Controller for the purposes of the General Data Protection Regulation (GDPR), other data protection laws applicable in Member states of the European Union and other provisions related to data protection is:
 
     AZUG vzw
-    Hemelrijkweg 16
-    2910 Essen
+    Brusselsesteenweg 389 bus 2
+    2800 Mechelen
     Belgium
     Email: getintouchwithus@azug.be
     Website: www.azug.be
