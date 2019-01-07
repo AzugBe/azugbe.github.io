@@ -88,6 +88,8 @@ Controller for the purposes of the General Data Protection Regulation (GDPR), ot
     Brusselsesteenweg 389 bus 2
     2800 Mechelen
     Belgium
+    
+    KBO number: BE0806400986
     Email: getintouchwithus@azug.be
     Website: www.azug.be
 
