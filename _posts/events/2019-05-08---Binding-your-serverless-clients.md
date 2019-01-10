@@ -29,6 +29,8 @@ His main focus is on developing highly performant and scalable solutions using t
 
 Whenever Jan finds something interesting to write about, he shares his findings on [his blog](https://jan-v.nl).*
 
+<br />
+
 ### Slot II - To be confirmed
 To be confirmed
 
@@ -40,4 +42,4 @@ To be confirmed
 To be confirmed
 
 ## Register via Pretix
-Thank you Maarten!
+Registrations will open later on.
