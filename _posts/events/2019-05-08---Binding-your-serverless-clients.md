@@ -13,9 +13,7 @@ author: Tom Kerkhove
 
 ### Binding your serverless clients
 
-Scaling your services to hundreds of instances without breaking a sweat is probably the main reason you want to develop a serverless solution. But what about connecting to services which aren't supported out of the box? 
-
-Are you creating your own `HttpClient`, `SqlConnection` or connecting via some obscure third-party client?  
+Scaling your services to hundreds of instances without breaking a sweat is probably the main reason you want to develop a serverless solution. But what about connecting to services which aren't supported out of the box? Are you creating your own `HttpClient`, `SqlConnection` or connecting via some obscure third-party client?  
 
 During this session, I'll be covering how you can create your own Azure Function custom binding types.
 
