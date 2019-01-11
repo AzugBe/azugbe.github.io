@@ -44,4 +44,5 @@ Edward Pecherstraat 28-30<br />
 Belgium
 
 ## Register via Pretix
+
 Registrations will open later on.
