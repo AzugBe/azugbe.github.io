@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "2019-05-08 - Binding your serverless clients"
-date: 2019-05-08 18:00:00 +0000
+title: "2019-05-07 - Binding your serverless clients"
+date: 2019-05-07 18:00:00 +0000
 comments: true
 published: true
 categories: ["events"]
@@ -35,7 +35,7 @@ To be confirmed
 
 ## Practical details
 
-**Event date:** May 8, 2019 - you are welcome from 18:00, session starts 18:30
+**Event date:** May 7, 2019 - you are welcome from 18:00, session starts 18:30
 
 **Event location:**<br />
 <img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-emenka.png">Emenka<br />
