@@ -9,6 +9,8 @@ tags: ["Events"]
 author: Tom Kerkhove
 ---
 
+Want to learn how you can write your own Azure Function bindings? Join us and Jan de Vries and Thijs Schreijer for an interesting evening!
+
 ## Agenda
 
 ### Binding your serverless clients
