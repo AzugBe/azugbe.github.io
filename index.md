@@ -14,7 +14,8 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-No events are currently planned. Keep an eye on our newsletter (see below to subscribe).
+**2019-05-07 - Binding your serverless clients** - Want to learn how you can write your own Azure Function bindings? Then this event is for you! [Register here!](https://www.azug.be/events/2019/05/07/binding-your-serverless-clients){: .btn .btn--success}
+{: .notice--info}
 
 <hr />
 
