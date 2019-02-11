@@ -7,9 +7,6 @@ published: true
 categories: ["events"]
 tags: ["Events"]
 author: Kris van der Mast
-redirect_from:
- - /events/2019/02/25/binding-your-serverless-clients.html
- - /events/2019/02/25/binding-your-serverless-clients
 ---
 
 Want to learn about autonomous driving  
@@ -32,9 +29,10 @@ His main interest goes to highly scalable and available, multi tenant and multi 
 **Event date:** February 25, 2019 - you are welcome from 18:00, session starts 18:30
 
 **Event location:**<br />
-<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-tobania.png">Emenka<br />
-Edward Pecherstraat 28-30<br />
-2000 Antwerpen<br />
+<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-tobania.png">Tobania<br />
+Heizel Business Park - building II<br />
+Romeinsesteenweg 564-4<br />
+1853 Strombeek-Bever<br />
 Belgium
 
 ## Register via Pretix
