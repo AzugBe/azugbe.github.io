@@ -7,33 +7,33 @@ permalink: /privacy
 
 ## Summary
 
-As a user group, AZUG vzw has to store and process some of your personal information.
+As a user group, AZUG (BUG - Initiative vzw) has to store and process some of your personal information.
 
 This page describes our privacy policy, including full details on third-party data processors. In case you prefer a summary, here's what we collect and use your data for:
 
-* AZUG vzw can use non-essential cookies on [www.azug.be](https://www.azug.be) only when you consent
-* AZUG vzw may store your full name and e-mail address in order to be able to identify you when attendign events
-* In addition, AZUG vzw may share your full name and e-mail address with third-party data processors:
+* AZUG (BUG - Initiative vzw) can use non-essential cookies on [www.azug.be](https://www.azug.be) only when you consent
+* AZUG (BUG - Initiative vzw) may store your full name and e-mail address in order to be able to identify you when attendign events
+* In addition, AZUG (BUG - Initiative vzw) may share your full name and e-mail address with third-party data processors:
   * MailChimp, only when you consent to receive our newsletter.
   * EventBrite, only when you register for an event. Your personal data will also be used to send event updates when needed, and may be used to print name badges at the venue location.
 
-Historically, AZUG vzw has gone great lengths to ensure your personal information is not only secure but is used appropriately and only with your consent, and that only minimal, essential information is captured - a healthy approach to working with your personal information.
+Historically, AZUG (BUG - Initiative vzw) has gone great lengths to ensure your personal information is not only secure but is used appropriately and only with your consent, and that only minimal, essential information is captured - a healthy approach to working with your personal information.
 
 We'll keep using the same principles we have been using over the past years, but in case you have any questions do get in touch!
 
 ## Privacy Policy
 
-*This policy was last updated: April 28, 2018.*
+*This policy was last updated: January 07, 2018. An overview of changes is available [from the git history](https://github.com/AzugBe/azugbe.github.io/commits/master/_pages/privacy.md).*
 
-Data protection is of a particularly high priority for the management of AZUG vzw. The use of the Internet pages of AZUG vzw is possible without any indication of personal data; however, if a data subject wants to participate in events or subscribe to our newsletter, processing of personal data could become necessary.
+Data protection is of a particularly high priority for the management of AZUG (BUG - Initiative vzw). The use of the Internet pages of AZUG (BUG - Initiative vzw) is possible without any indication of personal data; however, if a data subject wants to participate in events or subscribe to our newsletter, processing of personal data could become necessary.
 
-The processing of personal data, such as the name, address, e-mail address, or telephone number of a data subject shall always be in line with the General Data Protection Regulation (GDPR), and in accordance with the country-specific data protection regulations applicable to AZUG vzw. By means of this data protection declaration, our enterprise would like to inform the general public of the nature, scope, and purpose of the personal data we collect, use and process. Furthermore, data subjects are informed, by means of this data protection declaration, of the rights to which they are entitled.
+The processing of personal data, such as the name, address, e-mail address, or telephone number of a data subject shall always be in line with the General Data Protection Regulation (GDPR), and in accordance with the country-specific data protection regulations applicable to AZUG (BUG - Initiative vzw). By means of this data protection declaration, our enterprise would like to inform the general public of the nature, scope, and purpose of the personal data we collect, use and process. Furthermore, data subjects are informed, by means of this data protection declaration, of the rights to which they are entitled.
 
-As the controller, AZUG vzw has implemented numerous technical and organizational measures to ensure the most complete protection of personal data processed through this website. However, Internet-based data transmissions may in principle have security gaps, so absolute protection may not be guaranteed.
+As the controller, AZUG (BUG - Initiative vzw) has implemented numerous technical and organizational measures to ensure the most complete protection of personal data processed through this website. However, Internet-based data transmissions may in principle have security gaps, so absolute protection may not be guaranteed.
 
 ### 1. Definitions
 
-The data protection declaration of AZUG vzw is based on the terms used by the European legislator for the adoption of the General Data Protection Regulation (GDPR). Our data protection declaration should be legible and understandable for the general public, as well as our user group members and business partners. To ensure this, we would like to first explain the terminology used.
+The data protection declaration of AZUG (BUG - Initiative vzw) is based on the terms used by the European legislator for the adoption of the General Data Protection Regulation (GDPR). Our data protection declaration should be legible and understandable for the general public, as well as our user group members and business partners. To ensure this, we would like to first explain the terminology used.
 
 In this data protection declaration, we use, inter alia, the following terms:
 
@@ -84,20 +84,22 @@ Consent of the data subject is any freely given, specific, informed and unambigu
 
 Controller for the purposes of the General Data Protection Regulation (GDPR), other data protection laws applicable in Member states of the European Union and other provisions related to data protection is:
 
-    AZUG vzw
-    Hemelrijkweg 16
-    2910 Essen
+    AZUG (BUG - Initiative vzw)
+    Brusselsesteenweg 389 bus 2
+    2800 Mechelen
     Belgium
+    
+    KBO number: BE0806400986
     Email: getintouchwithus@azug.be
     Website: www.azug.be
 
 ### 3. Cookies
 
-The Internet pages of AZUG vzw use cookies. Cookies are text files that are stored in a computer system via an Internet browser.
+The Internet pages of AZUG (BUG - Initiative vzw) use cookies. Cookies are text files that are stored in a computer system via an Internet browser.
 
 Many Internet sites and servers use cookies. Many cookies contain a so-called cookie ID. A cookie ID is a unique identifier of the cookie. It consists of a character string through which Internet pages and servers can be assigned to the specific Internet browser in which the cookie was stored. This allows visited Internet sites and servers to differentiate the individual browser of the dats subject from other Internet browsers that contain other cookies. A specific Internet browser can be recognized and identified using the unique cookie ID.
 
-Through the use of cookies, AZUG vzw can provide the users of this website with more user-friendly services that would not be possible without the cookie setting.
+Through the use of cookies, AZUG (BUG - Initiative vzw) can provide the users of this website with more user-friendly services that would not be possible without the cookie setting.
 
 By means of a cookie, the information and offers on our website can be optimized with the user in mind. Cookies allow us, as previously mentioned, to recognize our website users. The purpose of this recognition is to make it easier for users to utilize our website. The website user that uses cookies, e.g. does not have to enter access data each time the website is accessed, because this is taken over by the website, and the cookie is thus stored on the user's computer system. Another example could be the cookie of a shopping cart in an online shop. The online store remembers the articles that a customer has placed in the virtual shopping cart via a cookie.
 
@@ -105,15 +107,15 @@ The data subject may, at any time, prevent the setting of cookies through our we
 
 ### 4. Collection of general data and information
 
-The website of AZUG vzw collects a series of general data and information when a data subject or automated system calls up the website. This general data and information are stored in the server log files. Collected may be (1) the browser types and versions used, (2) the operating system used by the accessing system, (3) the website from which an accessing system reaches our website (so-called referrers), (4) the sub-websites, (5) the date and time of access to the Internet site, (6) an Internet protocol address (IP address), (7) the Internet service provider of the accessing system, and (8) any other similar data and information that may be used in the event of attacks on our information technology systems.
+The website of AZUG (BUG - Initiative vzw) collects a series of general data and information when a data subject or automated system calls up the website. This general data and information are stored in the server log files. Collected may be (1) the browser types and versions used, (2) the operating system used by the accessing system, (3) the website from which an accessing system reaches our website (so-called referrers), (4) the sub-websites, (5) the date and time of access to the Internet site, (6) an Internet protocol address (IP address), (7) the Internet service provider of the accessing system, and (8) any other similar data and information that may be used in the event of attacks on our information technology systems.
 
-When using these general data and information, AZUG vzw does not draw any conclusions about the data subject. Rather, this information is needed to (1) deliver the content of our website correctly, (2) optimize the content of our website as well as its advertisement, (3) ensure the long-term viability of our information technology systems and website technology, and (4) provide law enforcement authorities with the information necessary for criminal prosecution in case of a cyber-attack. Therefore, AZUG vzw analyzes anonymously collected data and information statistically, with the aim of increasing the data protection and data security of our enterprise, and to ensure an optimal level of protection for the personal data we process. The anonymous data of the server log files are stored separately from all personal data provided by a data subject.
+When using these general data and information, AZUG (BUG - Initiative vzw) does not draw any conclusions about the data subject. Rather, this information is needed to (1) deliver the content of our website correctly, (2) optimize the content of our website as well as its advertisement, (3) ensure the long-term viability of our information technology systems and website technology, and (4) provide law enforcement authorities with the information necessary for criminal prosecution in case of a cyber-attack. Therefore, AZUG (BUG - Initiative vzw) analyzes anonymously collected data and information statistically, with the aim of increasing the data protection and data security of our enterprise, and to ensure an optimal level of protection for the personal data we process. The anonymous data of the server log files are stored separately from all personal data provided by a data subject.
 
 ### 5. Subscription to our newsletters
 
-On the website of AZUG vzw, users are given the opportunity to subscribe to our user group's newsletter. The input mask used for this purpose determines what personal data are transmitted, as well as when the newsletter is ordered from the controller.
+On the website of AZUG (BUG - Initiative vzw), users are given the opportunity to subscribe to our user group's newsletter. The input mask used for this purpose determines what personal data are transmitted, as well as when the newsletter is ordered from the controller.
 
-AZUG vzw informs its members and business partners regularly by means of a newsletter. The newsletter may only be received by the data subject if (1) the data subject has a valid e-mail address and (2) the data subject registers for the newsletter shipping. A confirmation e-mail will be sent to the e-mail address registered by a data subject for the first time for newsletter shipping, for legal reasons, in the double opt-in procedure. This confirmation e-mail is used to prove whether the owner of the e-mail address as the data subject is authorized to receive the newsletter.
+AZUG (BUG - Initiative vzw) informs its members and business partners regularly by means of a newsletter. The newsletter may only be received by the data subject if (1) the data subject has a valid e-mail address and (2) the data subject registers for the newsletter shipping. A confirmation e-mail will be sent to the e-mail address registered by a data subject for the first time for newsletter shipping, for legal reasons, in the double opt-in procedure. This confirmation e-mail is used to prove whether the owner of the e-mail address as the data subject is authorized to receive the newsletter.
 
 During the registration for the newsletter, we also store the IP address of the computer system assigned by the Internet service provider (ISP) and used by the data subject at the time of the registration, as well as the date and time of the registration. The collection of this data is necessary in order to understand the (possible) misuse of the e-mail address of a data subject at a later date, and it therefore serves the aim of the legal protection of the controller.
 
@@ -129,13 +131,13 @@ Newsletter data processing is handled by a third party, where the data subject's
     Email: privacy@mailchimp.com
     Website: www.mailchimp.com
 
-The [MailChimp Privacy Policy](https://mailchimp.com/legal/privacy/) is applicable to AZUG vzw newsletter subscribers.
+The [MailChimp Privacy Policy](https://mailchimp.com/legal/privacy/) is applicable to AZUG (BUG - Initiative vzw) newsletter subscribers.
 
 ### 6. Newsletter-Tracking
 
-The newsletter of AZUG vzw contains so-called tracking pixels. A tracking pixel is a miniature graphic embedded in such e-mails, which are sent in HTML format to enable log file recording and analysis. This allows a statistical analysis of the success or failure of online marketing campaigns. Based on the embedded tracking pixel, AZUG vzw may see if and when an e-mail was opened by a data subject, and which links in the e-mail were called up by data subjects.
+The newsletter of AZUG (BUG - Initiative vzw) contains so-called tracking pixels. A tracking pixel is a miniature graphic embedded in such e-mails, which are sent in HTML format to enable log file recording and analysis. This allows a statistical analysis of the success or failure of online marketing campaigns. Based on the embedded tracking pixel, AZUG (BUG - Initiative vzw) may see if and when an e-mail was opened by a data subject, and which links in the e-mail were called up by data subjects.
 
-Such personal data collected in the tracking pixels contained in the newsletters are stored and analyzed by the controller in order to optimize the shipping of the newsletter, as well as to adapt the content of future newsletters even better to the interests of the data subject. These personal data will not be passed on to third parties. Data subjects are at any time entitled to revoke the respective separate declaration of consent issued by means of the double-opt-in procedure. After a revocation, these personal data will be deleted by the controller. AZUG vzw automatically regards a withdrawal from the receipt of the newsletter as a revocation.
+Such personal data collected in the tracking pixels contained in the newsletters are stored and analyzed by the controller in order to optimize the shipping of the newsletter, as well as to adapt the content of future newsletters even better to the interests of the data subject. These personal data will not be passed on to third parties. Data subjects are at any time entitled to revoke the respective separate declaration of consent issued by means of the double-opt-in procedure. After a revocation, these personal data will be deleted by the controller. AZUG (BUG - Initiative vzw) automatically regards a withdrawal from the receipt of the newsletter as a revocation.
 
 ### 7. Routine erasure and blocking of personal data
 
@@ -182,9 +184,9 @@ Each data subject shall have the right granted by the European legislator to obt
 * The personal data must be erased for compliance with a legal obligation in Union or Member State law to which the controller is subject.
 * The personal data have been collected in relation to the offer of information society services referred to in Article 8(1) of the GDPR.
 
-If one of the aforementioned reasons applies, and a data subject wishes to request the erasure of personal data stored by AZUG vzw, he or she may, at any time, contact the controller. AZUG vzw shall promptly ensure that the erasure request is complied with immediately.
+If one of the aforementioned reasons applies, and a data subject wishes to request the erasure of personal data stored by AZUG (BUG - Initiative vzw), he or she may, at any time, contact the controller. AZUG (BUG - Initiative vzw) shall promptly ensure that the erasure request is complied with immediately.
 
-Where the controller has made personal data public and is obliged pursuant to Article 17(1) to erase the personal data, the controller, taking account of available technology and the cost of implementation, shall take reasonable steps, including technical measures, to inform other controllers processing the personal data that the data subject has requested erasure by such controllers of any links to, or copy or replication of, those personal data, as far as processing is not required. AZUG vzw will arrange the necessary measures in individual cases.
+Where the controller has made personal data public and is obliged pursuant to Article 17(1) to erase the personal data, the controller, taking account of available technology and the cost of implementation, shall take reasonable steps, including technical measures, to inform other controllers processing the personal data that the data subject has requested erasure by such controllers of any links to, or copy or replication of, those personal data, as far as processing is not required. AZUG (BUG - Initiative vzw) will arrange the necessary measures in individual cases.
 
 #### e) Right of restriction of processing
 
@@ -195,7 +197,7 @@ Each data subject shall have the right granted by the European legislator to obt
 * The controller no longer needs the personal data for the purposes of the processing, but they are required by the data subject for the establishment, exercise or defence of legal claims.
 * The data subject has objected to processing pursuant to Article 21(1) of the GDPR pending the verification whether the legitimate grounds of the controller override those of the data subject.
 
-If one of the aforementioned conditions is met, and a data subject wishes to request the restriction of the processing of personal data stored by AZUG vzw, he or she may at any time contact the controller. AZUG vzw will arrange the restriction of the processing.
+If one of the aforementioned conditions is met, and a data subject wishes to request the restriction of the processing of personal data stored by AZUG (BUG - Initiative vzw), he or she may at any time contact the controller. AZUG (BUG - Initiative vzw) will arrange the restriction of the processing.
 
 #### f) Right to data portability
 
@@ -203,33 +205,33 @@ Each data subject shall have the right granted by the European legislator, to re
 
 Furthermore, in exercising his or her right to data portability pursuant to Article 20(1) of the GDPR, the data subject shall have the right to have personal data transmitted directly from one controller to another, where technically feasible and when doing so does not adversely affect the rights and freedoms of others.
 
-In order to assert the right to data portability, the data subject may at any time contact AZUG vzw.
+In order to assert the right to data portability, the data subject may at any time contact AZUG (BUG - Initiative vzw).
 
 #### g) Right to object
 
 Each data subject shall have the right granted by the European legislator to object, on grounds relating to his or her particular situation, at any time, to processing of personal data concerning him or her, which is based on point (e) or (f) of Article 6(1) of the GDPR. This also applies to profiling based on these provisions.
 
-AZUG vzw shall no longer process the personal data in the event of the objection, unless we can demonstrate compelling legitimate grounds for the processing which override the interests, rights and freedoms of the data subject, or for the establishment, exercise or defence of legal claims.
+AZUG (BUG - Initiative vzw) shall no longer process the personal data in the event of the objection, unless we can demonstrate compelling legitimate grounds for the processing which override the interests, rights and freedoms of the data subject, or for the establishment, exercise or defence of legal claims.
 
-If AZUG vzw processes personal data for direct marketing purposes, the data subject shall have the right to object at any time to processing of personal data concerning him or her for such marketing. This applies to profiling to the extent that it is related to such direct marketing. If the data subject objects to AZUG vzw to the processing for direct marketing purposes, AZUG vzw will no longer process the personal data for these purposes.
+If AZUG (BUG - Initiative vzw) processes personal data for direct marketing purposes, the data subject shall have the right to object at any time to processing of personal data concerning him or her for such marketing. This applies to profiling to the extent that it is related to such direct marketing. If the data subject objects to AZUG (BUG - Initiative vzw) to the processing for direct marketing purposes, AZUG (BUG - Initiative vzw) will no longer process the personal data for these purposes.
 
-In addition, the data subject has the right, on grounds relating to his or her particular situation, to object to processing of personal data concerning him or her by AZUG vzw for scientific or historical research purposes, or for statistical purposes pursuant to Article 89(1) of the GDPR, unless the processing is necessary for the performance of a task carried out for reasons of public interest.
+In addition, the data subject has the right, on grounds relating to his or her particular situation, to object to processing of personal data concerning him or her by AZUG (BUG - Initiative vzw) for scientific or historical research purposes, or for statistical purposes pursuant to Article 89(1) of the GDPR, unless the processing is necessary for the performance of a task carried out for reasons of public interest.
 
-In order to exercise the right to object, the data subject may contact AZUG vzw. In addition, the data subject is free in the context of the use of information society services, and notwithstanding Directive 2002/58/EC, to use his or her right to object by automated means using technical specifications.
+In order to exercise the right to object, the data subject may contact AZUG (BUG - Initiative vzw). In addition, the data subject is free in the context of the use of information society services, and notwithstanding Directive 2002/58/EC, to use his or her right to object by automated means using technical specifications.
 
 #### h) Automated individual decision-making, including profiling
 
 Each data subject shall have the right granted by the European legislator not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her, or similarly significantly affects him or her, as long as the decision (1) is not is necessary for entering into, or the performance of, a contract between the data subject and a data controller, or (2) is not authorised by Union or Member State law to which the controller is subject and which also lays down suitable measures to safeguard the data subject's rights and freedoms and legitimate interests, or (3) is not based on the data subject's explicit consent.
 
-If the decision (1) is necessary for entering into, or the performance of, a contract between the data subject and a data controller, or (2) it is based on the data subject's explicit consent, AZUG vzw shall implement suitable measures to safeguard the data subject's rights and freedoms and legitimate interests, at least the right to obtain human intervention on the part of the controller, to express his or her point of view and contest the decision.
+If the decision (1) is necessary for entering into, or the performance of, a contract between the data subject and a data controller, or (2) it is based on the data subject's explicit consent, AZUG (BUG - Initiative vzw) shall implement suitable measures to safeguard the data subject's rights and freedoms and legitimate interests, at least the right to obtain human intervention on the part of the controller, to express his or her point of view and contest the decision.
 
-If the data subject wishes to exercise the rights concerning automated individual decision-making, he or she may, at any time, contact AZUG vzw.
+If the data subject wishes to exercise the rights concerning automated individual decision-making, he or she may, at any time, contact AZUG (BUG - Initiative vzw).
 
 #### i) Right to withdraw data protection consent
 
 Each data subject shall have the right granted by the European legislator to withdraw his or her consent to processing of his or her personal data at any time.
 
-If the data subject wishes to exercise the right to withdraw the consent, he or she may, at any time, contact AZUG vzw.
+If the data subject wishes to exercise the right to withdraw the consent, he or she may, at any time, contact AZUG (BUG - Initiative vzw).
 
 ### 9. Data protection provisions about the application and use of Google Analytics (with anonymization function)
 
@@ -278,7 +280,7 @@ The applicable data protection provisions of Twitter may be accessed under [http
 
 ### 11. Data protection provisions about the application and use of Pretix
 
-When registering for an event organized by AZUG vzw, event registration processing is handled by a third-party data processor:
+When registering for an event organized by AZUG (BUG - Initiative vzw), event registration processing is handled by a third-party data processor:
 
     Pretix - Raphael Michel
     rami.io Software development
@@ -288,7 +290,7 @@ When registering for an event organized by AZUG vzw, event registration processi
     Email: privacy@pretix.eu
     Website: www.pretix.eu
 
-The [Pretix Privacy Policy](https://pretix.eu/about/en/privacy) is applicable to data subjects registering for events organized by AZUG vzw.
+The [Pretix Privacy Policy](https://pretix.eu/about/en/privacy) is applicable to data subjects registering for events organized by AZUG (BUG - Initiative vzw).
 
 The event registration process captures at least the data subject's full name and e-mail address. This data is used for sending out event registration confirmation, event reminders and a post-event survey. The data may be used to print name badges that the data subject can wear during the event.
 
@@ -315,7 +317,7 @@ We clarify that the provision of personal data is partly required by law (e.g. t
 
 Sometimes it may be necessary to conclude a contract that the data subject provides us with personal data, which must subsequently be processed by us. The data subject is, for example, obliged to provide us with personal data when our company signs a contract with him or her. The non-provision of the personal data would have the consequence that the contract with the data subject could not be concluded.
 
-Before personal data is provided by the data subject, the data subject must contact AZUG vzw. AZUG vzw clarifies to the data subject whether the provision of the personal data is required by law or contract or is necessary for the conclusion of the contract, whether there is an obligation to provide the personal data and the consequences of non-provision of the personal data.
+Before personal data is provided by the data subject, the data subject must contact AZUG (BUG - Initiative vzw). AZUG (BUG - Initiative vzw) clarifies to the data subject whether the provision of the personal data is required by law or contract or is necessary for the conclusion of the contract, whether there is an obligation to provide the personal data and the consequences of non-provision of the personal data.
 
 ### 16. Existence of automated decision-making
 
