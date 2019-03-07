@@ -14,6 +14,11 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
+**2019-04-27 - Global Azure Bootcamp 2019** - [Register here!](https://www.azug.be/events/2019/04/27/global-azure-bootcamp){: .btn .btn--success}
+{: .notice--info}
+
+<hr />
+
 **2019-05-07 - Binding your serverless clients & 6 years of Bootstrapping a SaaS on Azure** - Want to learn how you can write your own Azure Function bindings from Jan de Vries? Or hear Maarten Balliauw talk about 6 years of Bootstrapping a SaaS on Azure? Then this event is for you! [Register here!](https://www.azug.be/events/2019/05/07/binding-your-serverless-clients){: .btn .btn--success}
 {: .notice--info}
 

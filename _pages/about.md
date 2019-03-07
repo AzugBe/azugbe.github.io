@@ -92,3 +92,14 @@ Salma Haidar joined the azug crew in 2017. Dedicated to banking & finance, her d
 
 Glenn is Azure & IoT Domain Lead at Codit, where he ensures the day to day operations of the Azure and IoT domain within Codit. Since 2014 he is a Microsoft Azure MVP and Microsoft Azure Advisor, in 2018 he joined the Azug Crew. Glenn has been integrating businesses with BizTalk, Cloud & Microsoft technologies for more than 9 years. He has gained a lot of hand-on experience during his projects and likes to share it with colleagues and the community.
 His blog can be found at <a href="https://glenncolpaert.wordpress.com/">https://glenncolpaert.wordpress.com/</a>.
+
+## Alumni
+
+Since the beginning of AZUG several highly appreciated people helped out as board or crew members and helped shape the Belgian Azure Community as we know it today.
+
+### Kurt Claeys
+![](/assets/media/alumni/kurt-claeys2.jpg)
+### Sam Vanhoutte
+![](/assets/media/alumni/sam-vanhoutte.jpg)
+### Panagiotis Kefalidis
+![](/assets/media/alumni/panagiotis-kefalidis.jpg)
