@@ -19,8 +19,6 @@ We will host a full day of Azure sessions, labs or just provide a workspace for 
 
 ## Agenda
 
-TBD  
-
 Want to speak, showcase your demo, talk about how you started with Azure or why you chose Azure over other vendors? Fill in the [__Call For Papers__](https://sessionize.com/global-azure-bootcamp-belgium-2019/)!
 
 Want to learn more about Global Azure Bootcamp? Check out the [official page](https://global.azurebootcamp.net/)
