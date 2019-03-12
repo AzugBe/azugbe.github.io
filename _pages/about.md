@@ -5,9 +5,9 @@ tagline: Azure User Group Belgium
 permalink: /about
 ---
 
-AZUG is a Belgian user group with focus on development and architecture of Microsoft's Azure&nbsp;cloud platform. Our goal is to share knowledge and experiences with the .NET community on&nbsp;working with and developing for this&nbsp;platform. We do this by bringing together developers, architects, consultants and enthusiasts and give them the opportunity to gather knowledge and&nbsp;insights from industry speakers, both local and international.
+AZUG is a Belgian user group with focus on development and architecture of Microsoft's Azure cloud platform. Our goal is to share knowledge and experiences with the .NET community on working with and developing for this platform. We do this by bringing together developers, architects, consultants and enthusiasts and give them the opportunity to gather knowledge and insights from industry speakers, both local and international.
 
-The Azure User Group comes together every few weeks, typically hosting one or two speakers for an evening session around Azure. The evening begins and ends with ample opportunity to network wirh peers and share knowledge and insights. AZUG tries to organize one bigger event every year: we've done hackatons, an Azure barbecue, CloudBrew (a full-day Azure event combined&nbsp;with beer sampling), ...
+The Azure User Group comes together every few weeks, typically hosting one or two speakers for an evening session around Azure. The evening begins and ends with ample opportunity to network wirh peers and share knowledge and insights. AZUG tries to organize one bigger event every year: we've done hackatons, an Azure barbecue, CloudBrew (a full-day Azure event combined with beer sampling), ...
 
 There are many benefits to participating in AZUG:
 
@@ -21,7 +21,7 @@ Want to stay up to date? <a href="http://azug.us2.list-manage.com/subscribe/?u=4
 
 ## Board
 
-The current board is <a href="http://cloudshaper.wordpress.com"><span style="color: #455f9c;">Yves Goeleven</span></a>, <a href="http://blog.krisvandermast.com/"><span style="color: #455f9c;">Kris van der Mast</span></a>&nbsp;and <a href="http://blog.maartenballiauw.be/"><span style="color: #455f9c;">Maarten Balliauw</span></a>.
+The current board is <a href="http://cloudshaper.wordpress.com"><span style="color: #455f9c;">Yves Goeleven</span></a>, <a href="http://blog.krisvandermast.com/"><span style="color: #455f9c;">Kris van der Mast</span></a> and <a href="http://blog.maartenballiauw.be/"><span style="color: #455f9c;">Maarten Balliauw</span></a>.
 
 ## History
 
