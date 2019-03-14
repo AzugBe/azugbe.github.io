@@ -24,13 +24,14 @@ Want to speak, showcase your demo, talk about how you started with Azure or why 
 Want to learn more about Global Azure Bootcamp? Check out the [official page](https://global.azurebootcamp.net/)
 
 ## Practical details
+
 **Event date:** April 27, 2019
 
-**Event location:**  
-itnetX  
-Ruisstraat 226  
-9140 Temse  
-Belgium  
+**Event location:**<br />
+<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/dexmach-logo.png">DexMach<br />
+Ruisstraat 226<br />
+9140 Temse<br />
+Belgium
 
 ## Register via Pretix
 
