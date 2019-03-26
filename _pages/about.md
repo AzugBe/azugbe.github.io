@@ -98,13 +98,8 @@ His blog can be found at <a href="https://glenncolpaert.wordpress.com/">https://
 Since the beginning of AZUG, several highly appreciated people helped out as board or crew members and helped shape the Belgian Azure Community as we know it today.
 
 ### Kurt Claeys
-
 ![Kurt Claeys](/assets/media/alumni/kurt-claeys2.jpg)
-
 ### Sam Vanhoutte
-
 ![Sam Vanhoutte](/assets/media/alumni/sam-vanhoutte.jpg)
-
 ### Panagiotis Kefalidis
-
 ![Panagiotis Kefalidis](/assets/media/alumni/panagiotis-kefalidis.jpg)
