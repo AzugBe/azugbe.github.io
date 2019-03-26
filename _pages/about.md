@@ -5,9 +5,9 @@ tagline: Azure User Group Belgium
 permalink: /about
 ---
 
-AZUG is a Belgian user group with focus on development and architecture of Microsoft's Azure&nbsp;cloud platform. Our goal is to share knowledge and experiences with the .NET community on&nbsp;working with and developing for this&nbsp;platform. We do this by bringing together developers, architects, consultants and enthusiasts and give them the opportunity to gather knowledge and&nbsp;insights from industry speakers, both local and international.
+AZUG is a Belgian user group with focus on development and architecture of Microsoft's Azure cloud platform. Our goal is to share knowledge and experiences with the .NET community on working with and developing for this platform. We do this by bringing together developers, architects, consultants and enthusiasts and give them the opportunity to gather knowledge and insights from industry speakers, both local and international.
 
-The Azure User Group comes together every few weeks, typically hosting one or two speakers for an evening session around Azure. The evening begins and ends with ample opportunity to network wirh peers and share knowledge and insights. AZUG tries to organize one bigger event every year: we've done hackatons, an Azure barbecue, CloudBrew (a full-day Azure event combined&nbsp;with beer sampling), ...
+The Azure User Group comes together every few weeks, typically hosting one or two speakers for an evening session around Azure. The evening begins and ends with ample opportunity to network wirh peers and share knowledge and insights. AZUG tries to organize one bigger event every year: we've done hackatons, an Azure barbecue, CloudBrew (a full-day Azure event combined with beer sampling), ...
 
 There are many benefits to participating in AZUG:
 
@@ -21,7 +21,7 @@ Want to stay up to date? <a href="http://azug.us2.list-manage.com/subscribe/?u=4
 
 ## Board
 
-The current board is <a href="http://cloudshaper.wordpress.com"><span style="color: #455f9c;">Yves Goeleven</span></a>, <a href="http://blog.krisvandermast.com/"><span style="color: #455f9c;">Kris van der Mast</span></a>&nbsp;and <a href="http://blog.maartenballiauw.be/"><span style="color: #455f9c;">Maarten Balliauw</span></a>.
+The current board is <a href="http://cloudshaper.wordpress.com"><span style="color: #455f9c;">Yves Goeleven</span></a>, <a href="http://blog.krisvandermast.com/"><span style="color: #455f9c;">Kris van der Mast</span></a> and <a href="http://blog.maartenballiauw.be/"><span style="color: #455f9c;">Maarten Balliauw</span></a>.
 
 ## History
 
@@ -34,6 +34,8 @@ In 2012, Sam Vanhoutte, Kristof Rennen, Mike Martin and Panagiotis Kefalidis joi
 In 2015, Tom Kerkhove joined AZUG as a volunteer, helping the day-to-day working. Sam Vanhoutte decided to focus on other things, while Panagiotis Kefalidis moved to the USA.
 
 In 2017, Salma Haidar joined the AZUG crew as a volunteer.
+
+In 2018, Glenn Colpaert joined the AZUG crew as a volunteer.
 
 ## Crew
 
@@ -76,10 +78,33 @@ His main interest goes to highly scalable and available, multi tenant and multi 
 
 ![](/assets/media/crew/tom-kerkhove.jpg)
 
-Tom Kerkhove works for Codit as an Azure Consultant, is a member of the AZUG crew and has been a Microsoft MVP & Azure Advisor since 2014. He turns coffee into scaleable & secure cloud systems and writes about his adventures on his blog - <a href="https://blog.tomkerkhove.be" target="_blank">blog.tomkerkhove.be</a>
+Tom Kerkhove works for Codit as an Azure Architect, is a member of the AZUG crew and has been a Microsoft MVP & Azure Advisor since 2014. He turns coffee into scaleable & secure cloud systems and writes about his adventures on his blog - <a href="https://blog.tomkerkhove.be" target="_blank">blog.tomkerkhove.be</a>
 
 ### Salma Haidar
 
 ![](/assets/media/crew/salma-haidar.jpg)
 
 Salma Haidar joined the azug crew in 2017. Dedicated to banking & finance, her domain & enthusiasm. Social, friendly, active and competitive. Her blog is currently under construction at [salmahaidar.com](http://www.salmahaidar.com). In the meantime one can check out her [professional background](https://www.linkedin.com/in/salmahaidar).
+
+### Glenn Colpaert
+
+![](/assets/media/crew/glenn-colpaert.jpg)
+
+Glenn is Azure & IoT Domain Lead at Codit, where he ensures the day to day operations of the Azure and IoT domain within Codit. Since 2014 he is a Microsoft Azure MVP and Microsoft Azure Advisor, in 2018 he joined the Azug Crew. Glenn has been integrating businesses with BizTalk, Cloud & Microsoft technologies for more than 9 years. He has gained a lot of hand-on experience during his projects and likes to share it with colleagues and the community.
+His blog can be found at <a href="https://glenncolpaert.wordpress.com/">https://glenncolpaert.wordpress.com/</a>.
+
+## Alumni
+
+Since the beginning of AZUG, several highly appreciated people helped out as board or crew members and helped shape the Belgian Azure Community as we know it today.
+
+### Kurt Claeys
+
+![Kurt Claeys](/assets/media/alumni/kurt-claeys2.jpg)
+
+### Sam Vanhoutte
+
+![Sam Vanhoutte](/assets/media/alumni/sam-vanhoutte.jpg)
+
+### Panagiotis Kefalidis
+
+![Panagiotis Kefalidis](/assets/media/alumni/panagiotis-kefalidis.jpg)

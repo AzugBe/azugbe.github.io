@@ -5,6 +5,8 @@
 $standard-width: 240px;
 $standard-max-height: 120px;
 
+$narrow-factor: 0.7;
+
 img.sponsor-bronze {
   width: $standard-width * 0.5;
   height: $standard-height * 0.5;
@@ -20,4 +22,21 @@ img.sponsor-gold {
 img.sponsor-platinum {
   width: $standard-width * 1.25;
   height: $standard-height * 1.25;
+}
+
+.partners-narrow img.sponsor-bronze {
+  width: $standard-width * 0.5 * $narrow-factor;
+  height: $standard-height * 0.5 * $narrow-factor;
+}
+.partners-narrow img.sponsor-silver {
+  width: $standard-width * 0.75 * $narrow-factor;
+  height: $standard-height * 0.75 * $narrow-factor;
+}
+.partners-narrow img.sponsor-gold {
+  width: $standard-width * $narrow-factor;
+  height: $standard-height * $narrow-factor;
+}
+.partners-narrow img.sponsor-platinum {
+  width: $standard-width * 1.25 * $narrow-factor;
+  height: $standard-height * 1.25 * $narrow-factor;
 }
