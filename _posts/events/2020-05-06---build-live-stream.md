@@ -27,11 +27,10 @@ Don't miss this opportunity to join the community and learn together. Additional
 **Catering:** Yes!
 
 **Event location:**  
-![Microsoft Belgium](/assets/media/sponsors/logo-microsoft.jpg)  
 
-Microsoft Belgium  
-Brussels National Airport, 1K  
-1930 Zaventem  
+<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-microsoft.jpg">Microsoft Belgium <br />
+Brussels National Airport, 1K<br />
+1930 Zaventem<br />
 Belgium
 
 ## Register via Pretix
