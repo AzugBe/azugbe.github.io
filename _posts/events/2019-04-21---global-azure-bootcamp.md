@@ -24,14 +24,24 @@ Want to speak, showcase your demo, talk about how you started with Azure or why 
 Want to learn more about Global Azure Bootcamp? Check out the [official page](https://global.azurebootcamp.net/)
 
 ## Practical details
+
 **Event date:** April 27, 2019
 
-**Event location:**  
-itnetX  
-Ruisstraat 226  
-9140 Temse  
-Belgium  
+**Event location:**<br />
+<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/dexmach-logo.png">DexMach<br />
+Ruisstraat 226<br />
+9140 Temse<br />
+Belgium
 
 ## Register via Pretix
 
-Registration page will be opened soon
+<link rel="stylesheet" type="text/css" href="https://pretix.eu/azug/gab-2019/widget/v1.css">
+<script type="text/javascript" src="https://pretix.eu/widget/v1.en.js" async></script>
+<pretix-widget event="https://pretix.eu/azug/gab-2019/"></pretix-widget>
+<noscript>
+   <div class="pretix-widget">
+        <div class="pretix-widget-info-message">
+            JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://pretix.eu/azug/gab-2019/">click here</a>.
+        </div>
+    </div>
+</noscript>
