@@ -14,10 +14,21 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+**2018-04-21 - Global Azure Bootcamp 2018** - AZUG is glad to support the 6th edition of the Global Azure Bootcamp by hosting an event on Saturday 21nd of April in Belgium. [Register here!](/events/2018-04-21---global-azure-bootcamp){: .btn .btn--success}
+{: .notice--info}  
+
+**2018-05-07 - //BUILD live stream event** - AZUG, MADN, OWIC and VISUG are partnering together to organize the //BUILD live stream at Microsoft Belgium. [Register here!](/events/2018-05-07---build-2018-live-stream){: .btn .btn--success}
+=======
+**2018-05-07 - BUILD 2018 live stream** - AZUG, [MADN](http://www.madn.be), [OWIC](http://www.owic.be) and [VISUG](http://www.visug.be) are organizing a local live stream event for Microsoft //BUILD. [Register here!](/events/2018-05-07---build-2018-live-stream){: .btn .btn--success}
+>>>>>>> upstream/master
+=======
 **2019-04-27 - Global Azure Bootcamp 2019** - AZUG is glad to support the 7th edition of the Global Azure Bootcamp by hosting the Belgian event. [Register here!](https://www.azug.be/events/2019/04/27/global-azure-bootcamp){: .btn .btn--success}
 {: .notice--info}
 
 **2019-05-07 - Binding your serverless clients & 6 years of Bootstrapping a SaaS on Azure** - Want to learn how you can write your own Azure Function bindings from Jan de Vries? Or hear Maarten Balliauw talk about 6 years of Bootstrapping a SaaS on Azure? Then this event is for you! [Register here!](https://www.azug.be/events/2019/05/07/binding-your-serverless-clients){: .btn .btn--success}
+>>>>>>> 72d316dea79638f6c24ed10c73214c989fcffe24
 {: .notice--info}
 
 <hr />
