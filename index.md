@@ -79,4 +79,4 @@ Next to our [newsletter](#newsletter), we have a [Slack team](https://join.slack
 
 The Microsoft Azure platform is a flexible cloud–computing platform that lets you focus on solving business problems and addressing customer needs. No need to invest upfront on expensive infrastructure. Pay only for what you use, scale up when you need capacity and pull it back when you don’t.
 
-&raquo; Find out more on [www.azure.com](http://www.azure.com)
+&raquo; Find out more on [www.azure.com](https://www.azure.com)
