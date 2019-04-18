@@ -19,7 +19,23 @@ We will host a full day of Azure sessions, labs or just provide a workspace for 
 
 ## Agenda
 
-Want to speak, showcase your demo, talk about how you started with Azure or why you chose Azure over other vendors? Fill in the [__Call For Papers__](https://sessionize.com/global-azure-bootcamp-belgium-2019/)!
+| Timeslot        | Session                                                                                                     |
+|:----------------|:------------------------------------------------------------------------------------------------------------|
+| 08:30 – 09:00   | Breakfast & Coffee                                                                                          |
+| 09:00 – 09:15   | Welcome + Lab instructions                                                                                  |
+| 09:15 – 10:15   | **Awesome Azure Active Directory** – Emanuel van der Aalst                                                  |
+| 10:15 – 10:30   | *Break*                                                                                                     |
+| 10:30 – 11:30   | **Azure Data Factory, your data pipeline in the cloud**  – Nico Jacobs                                      |
+| 11:30 – 11:45   | *Break*                                                                                                     |
+| 11:45 – 12:45   | **Container Deployment Made Easy: Azure Kubernetes Service (AKS)** – Els Putzeys                            |
+| 12:45 – 13:30   | *Lunch*                                                                                                     |
+| 13:30 – 14:30   | **Deep inspecting your Azure network traffic using Azure Network Watcher** – Peter De Tender                |
+| 14:30 – 14:45   | *Break*                                                                                                     |
+| 14:45 – 15:45   | **Moving from App Services to Azure Functions** – Michelangelo van Dam                                      |
+| 15:45 – 16:00   | *Break*                                                                                                     |
+| 16:00 – 17:00   | **Moving from Azure IaaS to PaaS, my own story** – Dennie Declercq                                          |
+| 17:00 – ...     |  Closing speech, prize draw (sponsor giveaway)                                                              |
+
 
 Want to learn more about Global Azure Bootcamp? Check out the [official page](https://global.azurebootcamp.net/)
 
