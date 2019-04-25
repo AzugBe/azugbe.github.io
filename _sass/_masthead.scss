@@ -30,9 +30,12 @@
     }
 	
 	a.logo {
-	  background-image: url(/assets/media/azug-logo.png);
-	  width: 195px;
+	  background-image: url(/assets/media/azug-logo.svg);
+	  width: 240px;
 	  height: 120px;
+	  background-size: contain;
+	  background-repeat: no-repeat;
+	  background-position-y: center;
 	  text-indent: -9999px;
 	}
   }
