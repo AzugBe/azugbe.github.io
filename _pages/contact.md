@@ -7,8 +7,8 @@ permalink: /contact
 
 Want to become a speaker? Have a suggestion for a session? We'd love to hear from you!
 
-Want to become a sponsor? We like that!
+Want to become a sponsor? [Learn more and get in touch!](https://www.azug.be/partners)
 
-Simply want to get in touch with us? That's fine too!
+Simply want to get in touch and say hi? That's fine too!
 
 E-mail us at the following address: [getintouchwithus@azug.be](mailto:getintouchwithus@azug.be)
