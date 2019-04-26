@@ -11,7 +11,7 @@ AZUG, the Belgium Azure User Group focuses on knowledge sharing and networking a
 
 If you would like to speak at an AZUG evening event, submit one or more sessions about a topic you are passionate about. Related to Microsoft Azure, IoT, big data, architecture, scalability, distributed systems, war stories, ...
 
-<a href="https://sessionize.com/azug" class="btn btn--light-outline btn--large">&raquo; To the Call for Speakers</a>
+<a href="https://sessionize.com/azug" class="btn btn--outline btn--large">&raquo; To the Call for Speakers</a>
 
 This [Call for Speakers](https://sessionize.com/azug) is open permanently. We are organizing 3-4 events each year, and are open to providing a podium to present for our members.
 
