@@ -7,7 +7,7 @@ permalink: /about
 
 AZUG is a Belgian user group with focus on development and architecture of Microsoft's Azure cloud platform. Our goal is to share knowledge and experiences with the .NET community on working with and developing for this platform. We do this by bringing together developers, architects, consultants and enthusiasts and give them the opportunity to gather knowledge and insights from industry speakers, both local and international.
 
-The Azure User Group comes together every few weeks, typically hosting one or two speakers for an evening session around Azure. The evening begins and ends with ample opportunity to network wirh peers and share knowledge and insights. AZUG tries to organize one bigger event every year: we've done hackatons, an Azure barbecue, CloudBrew (a full-day Azure event combined with beer sampling), ...
+The Azure User Group comes together every few months, typically hosting one or two speakers for an evening session around Azure. The evening begins and ends with ample opportunity to network wirh peers and share knowledge and insights. AZUG tries to organize one bigger event every year: we've done hackatons, an Azure barbecue, [CloudBrew](https://www.cloudbrew.be) (a full-day Azure event combined with beer sampling), ...
 
 There are many benefits to participating in AZUG:
 
