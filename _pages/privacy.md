@@ -12,10 +12,10 @@ As a user group, AZUG (BUG - Initiative vzw) has to store and process some of yo
 This page describes our privacy policy, including full details on third-party data processors. In case you prefer a summary, here's what we collect and use your data for:
 
 * AZUG (BUG - Initiative vzw) can use non-essential cookies on [www.azug.be](https://www.azug.be) only when you consent
-* AZUG (BUG - Initiative vzw) may store your full name and e-mail address in order to be able to identify you when attendign events
+* AZUG (BUG - Initiative vzw) may store your full name and e-mail address in order to be able to identify you when attending events
 * In addition, AZUG (BUG - Initiative vzw) may share your full name and e-mail address with third-party data processors:
   * MailChimp, only when you consent to receive our newsletter.
-  * EventBrite, only when you register for an event. Your personal data will also be used to send event updates when needed, and may be used to print name badges at the venue location.
+  * Pretix, only when you register for an event. Your personal data will also be used to send event updates when needed, and may be used to print name badges at the venue location.
 
 Historically, AZUG (BUG - Initiative vzw) has gone great lengths to ensure your personal information is not only secure but is used appropriately and only with your consent, and that only minimal, essential information is captured - a healthy approach to working with your personal information.
 

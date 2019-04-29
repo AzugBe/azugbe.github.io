@@ -8,7 +8,7 @@ main:
     url: /about
   - title: "Contact"
     url: /contact
-  - title: "Partners"
-    url: /partners
   - title: "Speakers"
     url: /speakers
+  - title: "Partners"
+    url: /partners
