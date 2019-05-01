@@ -52,6 +52,8 @@ Belgium
 
 ## Register via Pretix
 
+<link rel="stylesheet" type="text/css" href="https://pretix.eu/azug/20190507/widget/v1.css">
+<script type="text/javascript" src="https://pretix.eu/widget/v1.en.js" async></script>
 <pretix-widget event="https://pretix.eu/azug/20190507/"></pretix-widget>
 <noscript>
    <div class="pretix-widget">
