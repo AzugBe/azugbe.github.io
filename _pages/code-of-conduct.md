@@ -5,7 +5,7 @@ tagline: Azure User Group Belgium
 permalink: /code-of-conduct
 ---
 
-All attendees, speakers, sponsors and volunteers at our user group events and conferences are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
+All attendees, speakers, sponsors and volunteers at our user group events and conferences are required to agree with the following code of conduct. AZUG will enforce this code throughout user group events and conferences. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
 ## The Quick Version
 
