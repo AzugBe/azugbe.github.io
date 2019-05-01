@@ -52,4 +52,11 @@ Belgium
 
 ## Register via Pretix
 
-Registration is closed.
+<pretix-widget event="https://pretix.eu/azug/20190507/"></pretix-widget>
+<noscript>
+   <div class="pretix-widget">
+        <div class="pretix-widget-info-message">
+            JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://pretix.eu/azug/20190507/">click here</a>.
+        </div>
+    </div>
+</noscript>
