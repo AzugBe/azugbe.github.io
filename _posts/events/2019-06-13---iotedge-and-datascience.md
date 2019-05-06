@@ -22,7 +22,7 @@ How can you effectively do model management and versioning? How can you deploy t
 How do you monitor and manage our deployed model without being a DevOps engineer?
 
 <img src="/assets/media/speakers/nathan-bijnens.jpg" alt="Nathan Bijnens" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker:** Nathan Bijnens is a Cloud Solution Architect, Advanced Analytics + AI, Microsoft, driving high priority customer initiatives, leveraging Microsoft AI on Azure to solve the biggest and most complex data and IoT challenges.
-
+<br />
 <img src="/assets/media/speakers/wesley-backelant.jpg" alt="Wesley Backelant" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker:** esley Backelant works at Microsoft as a Cloud Solution Architect Data & AI at Microsoft. He is passionate about all things data, big or small.
 
 ### Going into production: The Good, the Bad and the Ugly of Azure IoT Edge
@@ -34,7 +34,7 @@ This presentation introduces you to the various encountered pitfalls and princip
 Sander will highlight the most common challenges he experienced during several IoT Edge projects, how to avoid them and he will introduce a more mature way of looking about your IoT solutions.
 Attendees will learn the most important concepts of a successful IoT Project in this interactive session.
 
-<img src="/assets/media/speakers/sander-vandevelde.png" alt="Sander Van De Velde" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker:** Sander is involved in the IoT Platform part of Azure (eg. IoT Hubs, IoT Edge, Stream Analytics, Azure Functions, Mobile Apps, EventHubs, Universal Apps, etc) and Azure in general. He started as an IT consultant in 1993. He likes to gets his hands dirty with software innovations and he tries to implement these in his daily work. For Sander, it is important to share knowledge. And he is committed doing so by writing blogs, articles for magazines and giving lots of presentations. When offline, he likes cutting down trees using Gränsfors Bruks axes, sailing, motorcycling or geocaching with his wife and sons.
+<img src="/assets/media/speakers/sander-vandevelde.jpg" alt="Sander Van De Velde" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker:** Sander is involved in the IoT Platform part of Azure (eg. IoT Hubs, IoT Edge, Stream Analytics, Azure Functions, Mobile Apps, EventHubs, Universal Apps, etc) and Azure in general. He started as an IT consultant in 1993. He likes to gets his hands dirty with software innovations and he tries to implement these in his daily work. For Sander, it is important to share knowledge. And he is committed doing so by writing blogs, articles for magazines and giving lots of presentations. When offline, he likes cutting down trees using Gränsfors Bruks axes, sailing, motorcycling or geocaching with his wife and sons.
 
 ## Practical details
 
