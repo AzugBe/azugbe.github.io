@@ -14,10 +14,10 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**2019-05-06 - //BUILD Live stream** - Join with your peers and watch the //BUILD 2019 live stream together. [Register here!](https://www.azug.be/events/2019/05/06/build-live-stream){: .btn .btn--success}
+**2019-05-07 - Binding your serverless clients & 6 years of Bootstrapping a SaaS on Azure** - Want to learn how you can write your own Azure Function bindings from Jan de Vries? Or hear Maarten Balliauw talk about 6 years of Bootstrapping a SaaS on Azure? Then this event is for you! [Register here!](https://www.azug.be/events/2019/05/07/binding-your-serverless-clients){: .btn .btn--success}
 {: .notice--info}
 
-**2019-05-07 - Binding your serverless clients & 6 years of Bootstrapping a SaaS on Azure** - Want to learn how you can write your own Azure Function bindings from Jan de Vries? Or hear Maarten Balliauw talk about 6 years of Bootstrapping a SaaS on Azure? Then this event is for you! [Register here!](https://www.azug.be/events/2019/05/07/binding-your-serverless-clients){: .btn .btn--success}
+**2019-06-13 - IoT Edge and Data Science in Production** - Want to learn everything about going into production with IoT Edge and Data Science? Join us and Nathan Bijnens, Wesley Backelant and Sander Van De Velde for an evening packed with their experiences in IoT Edge and Data Science. [Register here!](https://www.azug.be/events/2019/06/13/iotedge-and-datascience){: .btn .btn--success}
 {: .notice--info}
 
 <hr />
