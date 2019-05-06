@@ -9,6 +9,8 @@ tags: ["Events"]
 author: Maarten Balliauw
 ---
 
+A two-day conference by AZUG, the Belgium Microsoft Azure User Group on Friday, December 13, 2019 and Saturday, December 14, 2019.
+
 ## Microsoft Azure
 
 Two full days of Microsoft Azure! We will have some local and international speakers who will share their knowledge and experience.
