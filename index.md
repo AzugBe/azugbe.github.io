@@ -14,8 +14,9 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**2019-12-13 & 14 - CloudBrew 2019** - Two days of Azure, beers and networking! [Register here!](https://www.cloudbrew.be/){: .btn .btn--success}
-{: .notice--info}
+**2019-06-13 - IoT Edge and Data Science in Production** - Want to learn everything about going into production with IoT Edge and Data Science? Join us and Nathan Bijnens, Wesley Backelant and Sander Van De Velde for an evening packed with their experiences in IoT Edge and Data Science. [Register here!](https://www.azug.be/events/2019/06/13/iotedge-and-datascience){: .btn .btn--success}
+
+**2019-12-13 & 14 - CloudBrew 2019** - Two days of Azure, beers and networking! [More info](https://www.cloudbrew.be/){: .btn .btn--success}
 
 <hr />
 
