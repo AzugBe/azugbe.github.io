@@ -25,7 +25,7 @@ How do you monitor and manage our deployed model without being a DevOps engineer
 
 <br /><br />
 
-<img src="/assets/media/speakers/wesley-backelant.jpg" alt="Wesley Backelant" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker:** esley Backelant works at Microsoft as a Cloud Solution Architect Data & AI at Microsoft. He is passionate about all things data, big or small.
+<img src="/assets/media/speakers/wesley-backelant.jpg" alt="Wesley Backelant" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker:** Wesley Backelant works at Microsoft as a Cloud Solution Architect Data & AI at Microsoft. He is passionate about all things data, big or small.
 
 <br /><br />
 
