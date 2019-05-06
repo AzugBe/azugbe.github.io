@@ -9,7 +9,7 @@ tags: ["Events"]
 author: Glenn Colpaert
 ---
 
-Want to learn everything about going into production with IoT Edge and Data Science? Join this session and learn all about it.
+Want to learn everything about going into production with IoT Edge and Data Science? Join us and Nathan Bijnens, Wesley Backelant and Sander Van De Velde for an evening packed with their experiences in IoT Edge and Data Science.
 
 ## Agenda
 
