@@ -27,7 +27,9 @@ How do you monitor and manage our deployed model without being a DevOps engineer
 
 <img src="/assets/media/speakers/wesley-backelant.jpg" alt="Wesley Backelant" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker:** esley Backelant works at Microsoft as a Cloud Solution Architect Data & AI at Microsoft. He is passionate about all things data, big or small.
 
-<br />
+<br /><br />
+
+
 ### Going into production: The Good, the Bad and the Ugly of Azure IoT Edge
 
 Azure IoT Edge is the perfect IoT solution when sensors are not allowed to connect to the cloud, the amount of IoT messages sent must be limited, a local feedback loop to actuators is needed, etc.
