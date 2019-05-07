@@ -48,9 +48,9 @@ Attendees will learn the most important concepts of a successful IoT Project in 
 **Event date:** June 13, 2019 - you are welcome from 18:00, session starts 18:30
 
 **Event location:**<br />
-<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-uptime.png">Uptime Group<br />
-Prins Boudewijnlaan 41<br />
-2650 Edegem<br />
+<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-arxus.png">Arxus<br />
+Veldkant 33A<br />
+2550 Kontich <br />
 Belgium
 
 ## Register via Pretix
