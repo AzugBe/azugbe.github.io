@@ -29,14 +29,28 @@
       text-decoration: none;
     }
 	
-	a.logo {
-	  background-image: url(/assets/media/azug-logo.svg);
-	  width: 240px;
-	  height: 120px;
-	  background-size: contain;
-	  background-repeat: no-repeat;
-	  background-position-y: center;
-	  text-indent: -9999px;
+	@media(min-width: 450px) {
+		a.logo {
+		  background-image: url(/assets/media/azug-logo.svg);
+		  width: 240px;
+		  height: 120px;
+		  background-size: contain;
+		  background-repeat: no-repeat;
+		  background-position-y: center;
+		  text-indent: -9999px;
+		}
+	}
+	
+	@media(max-width: 450px) {
+		a.logo {
+		  background-image: url(/assets/media/azug-logo.svg);
+		  width: 120px;
+		  height: 60px;
+		  background-size: contain;
+		  background-repeat: no-repeat;
+		  background-position-y: center;
+		  text-indent: -9999px;
+		}
 	}
   }
 }
