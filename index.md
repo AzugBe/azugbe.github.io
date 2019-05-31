@@ -68,7 +68,9 @@ Next to our [newsletter](#newsletter), we have a [Slack team](https://join.slack
 
 <hr />
 
-{% include partners.html %}
+<div class="partners">
+	{% include partners.html %}
+</div>
 
 <hr />
 
