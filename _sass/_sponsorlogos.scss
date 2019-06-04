@@ -36,3 +36,20 @@ $narrow-factor: 1;
 	  height: $standard-height * $silver-factor * $narrow-factor;
 	}
 }
+
+.partners table, .partners-narrow table {
+	width: 100%;
+	border: 0;
+	
+	tbody, td { border: 0; }
+	tr { border-bottom: 1px solid #eee; }
+	tr:last-child { border: 0; }
+	
+	td {
+		text-align: left;
+	}
+	
+	td:first-child {
+		width: $standard-width * $platinum-factor;
+	}
+}

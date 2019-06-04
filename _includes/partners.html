@@ -1,8 +1,40 @@
-{% if page.url == "/partners" %}
-	<!-- partners page -->
-{% endif %}
-
 <h2>Platinum partners</h2>
+{% if page.url == "/partners" %}
+<!-- partners page: with text -->
+<table>
+	<tr>
+		<td><a href="https://www.ae.be"><img src="/assets/media/sponsors/logo-ae.jpg" class="sponsor-platinum" vspace="10" /></a></td>
+		<td>
+			<p><a href="https://www.ae.be">AE</a> helps companies get fit for their digital future. Co-creation is the core of our approach. We'll work together with you and your customers to help you get you where you need to be on a business, organisational and technological level.</p>
+
+			<p>With over 20 years of experience in business architecture, software engineering and change management we are a trusted partner in reshaping business critical solutions and services for over 150 customers. And counting.</p>
+		</td>
+	</tr>
+	<tr>
+		<td><a href="https://www.arxus.eu"><img src="/assets/media/sponsors/logo-arxus.png" class="sponsor-platinum" vspace="10" /></a></td>
+		<td>
+			<p><a href="https://www.arxus.eu">Arxus</a>, founded in 2008, is a Managed Services Provider made up of 40+ cloud enthusiasts with unique cloud expertise and sector specific knowledge.</p>
+
+			<p>From our headquarters in Kontich, our certified team provides tailored Azure, Azure Stack, Office 365, and Microsoft 365 solutions, changing the complex challenge of modernising your infrastructure into an opportunity to create a truly future-proof business with managed public and private cloud solutions.</p>
+		</td>
+	</tr>
+	<tr>
+		<td><a href="https://www.codit.eu"><img src="/assets/media/sponsors/logo-codit.png" class="sponsor-platinum" vspace="10" /></a></td>
+		<td>
+			<p><a href="https://www.codit.eu">Codit</a> is an innovative IT company which provides next-level consultancy, technology, and managed services to leading brands worldwide. We successfully help companies reduce operational costs, improve efficiency and enhance communication by integrating people, applications, and things, using a wide range of Microsoft technologies.</p>
+
+			<p>Codit employs more than 180 people in Belgium, France, Portugal, Switzerland, United Kingdom, The Netherlands, and Malta. Since 2000, we have successfully implemented over 500 integration solutions worldwide.</p>
+		</td>
+	</tr>
+	<tr>
+		<td><a href="https://www.microsoft.be"><img src="/assets/media/sponsors/logo-microsoft.jpg" class="sponsor-platinum" vspace="10" /></a></td>
+		<td>
+			<p><a href="https://www.microsoft.be">Microsoft</a> enables digital transformation for the era of an intelligent cloud and an intelligent edge. Its mission is to empower every person and every organization on the planet to achieve more.</p>
+		</td>
+	</tr>
+</table>
+	
+{% else %}
 <!-- note: 2 columns -->
 
 <a href="https://www.ae.be"><img src="/assets/media/sponsors/logo-ae.jpg" class="sponsor-platinum" vspace="10" /></a>&nbsp;
@@ -10,6 +42,7 @@
 <br />
 <a href="https://www.codit.eu"><img src="/assets/media/sponsors/logo-codit.png" class="sponsor-platinum" vspace="10" /></a>&nbsp;
 <a href="https://www.microsoft.be"><img src="/assets/media/sponsors/logo-microsoft.jpg" class="sponsor-platinum" vspace="10" /></a>
+{% endif %}
 
 <h2>Gold partners</h2>
 <!-- note: 3 columns -->
