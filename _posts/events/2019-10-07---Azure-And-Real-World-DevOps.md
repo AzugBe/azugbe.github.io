@@ -34,11 +34,13 @@ We touch on modern technologies and techniques. From Infrastructure as Code to s
 **Event location:**  
 
 <img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-microsoft.jpg">Microsoft Belgium <br />
-Brussels National Airport, 1K<br />
+Brussels National Airport, 1K (*)<br />
 1930 Zaventem<br />
 Belgium
 
 **Important note regarding parking!** Microsoft will only validate parking cards for parkings P2 and P3 at Brussels Airport.
+
+_(*) When you exit P2/P3, at takeoff level, you'll see the building on your right across the road_
 
 ## Register via Pretix
 
