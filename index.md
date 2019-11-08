@@ -14,9 +14,6 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**2019-10-07 - Azure And Real World DevOps** - The worlds of Azure and DevOps collide at this meetup with Microsoft's number one rockstar: Abel Wang. He will build the infrastucture and deployment for a complex modern application - starting with an empty folder on his laptop. [Register here!](https://www.azug.be/events/2019/10/07/Azure-And-Real-World-DevOps){: .btn .btn--success}
-{: .notice--info}
-
 **2019-12-13 & 14 - CloudBrew 2019** - Two days of Azure, beers and networking! [More info](https://www.cloudbrew.be/){: .btn .btn--success}
 {: .notice--info}
 
