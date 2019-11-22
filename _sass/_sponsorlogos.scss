@@ -50,7 +50,11 @@ $narrow-factor: 1;
 		vertical-align: top;
 	}
 	
-	td:first-child {
+	td.sponsor-platinum {
 		width: $standard-width * $platinum-factor;
+	}
+	
+	td.sponsor-gold {
+		width: $standard-width * $gold-factor;
 	}
 }
