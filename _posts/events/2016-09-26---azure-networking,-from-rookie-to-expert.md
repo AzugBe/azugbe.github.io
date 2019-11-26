@@ -19,16 +19,16 @@ redirect_from:
 <p>In the end, you will receive an overview of the reference implementation, and the final architecture implemented at the customer.</p>
 <p>Take this opportunity to learn Azure Networking and grow from a Rookie to Expert, to become a true Azure Networking Master!</p>
 <p style="margin-bottom: 50px; width: 450px;"><em><img src="/assets/media/speakers/nills-franssens.jpg" alt="" align="left" width="100" height="100" style="margin-right: 20px;"><strong>Speaker:</strong> Nills Franssens (<a href="https://twitter.com/nillsf">@NillsF</a>) - Cloud Solution Architect at Microsoft - IT Enthusiast - Entrepreneur - Zythologist (which means I love beer)</em></p>
-<p style="margin-bottom: 30px; width: 450px;"><em><img src="/assets/media/speakers/kristof-rennen2.png" alt="" align="left" width="100" height="100" style="margin-right: 20px;"><strong>Speaker:</strong> Kristof Rennen (<a href="http://twitter.com/kristofrennen">@kristofrennen</a>) -&nbsp;Senior Technical Evangelist at Microsoft | Sharing my passion for technology with the world | Proud father of Lucas | Guitar God</em></p>
+<p style="margin-bottom: 30px; width: 450px;"><em><img src="/assets/media/speakers/kristof-rennen2.png" alt="" align="left" width="100" height="100" style="margin-right: 20px;"><strong>Speaker:</strong> Kristof Rennen (<a href="https://twitter.com/kristofrennen">@kristofrennen</a>) -&nbsp;Senior Technical Evangelist at Microsoft | Sharing my passion for technology with the world | Proud father of Lucas | Guitar God</em></p>
 <h2>Agenda</h2>
 <p>Everyone's welcome from 18:00. Here's the agenda:</p>
 <p>18:00 - Welcome<br>18:30&nbsp;-&nbsp;Azure Networking, from Rookie to Expert<br>19:30&nbsp;-&nbsp;Azure Networking Design Session<br>20:30&nbsp;- Drinks</p>
 <h2>Practical details</h2>
 <p><strong>Event date:</strong>&nbsp;September 26, 2016 - 18:00- 21:30<br><strong>Catering:</strong>&nbsp;drinks and pizza</p>
-<p><strong><a href="http://www.microsoft.be" target="_blank"><img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-microsoft.jpg"></a>Event location:<br></strong>Microsoft Belgium<br>Albatros (9th floor)<br>Leonardo da Vincilaan 3<br>Zaventem<br>Belgium<strong><br></strong></p>
+<p><strong><a href="https://www.microsoft.be" target="_blank"><img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-microsoft.jpg"></a>Event location:<br></strong>Microsoft Belgium<br>Albatros (9th floor)<br>Leonardo da Vincilaan 3<br>Zaventem<br>Belgium<strong><br></strong></p>
 <h2>Register via EventBrite</h2>
 <div style="width: 100%; text-align: left;"><iframe src="//eventbrite.com/tickets-external?eid=27250269289&amp;ref=etckt" frameborder="0" height="260" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
-<div style="font-family: Helvetica, Arial; font-size: 10px; padding: 5px 0 5px; margin: 2px; width: 100%; text-align: left;"><a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/l/registration-online/">Powered by Eventbrite</a></div>
+<div style="font-family: Helvetica, Arial; font-size: 10px; padding: 5px 0 5px; margin: 2px; width: 100%; text-align: left;"><a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" target="_blank" href="https://www.eventbrite.com/l/registration-online/">Powered by Eventbrite</a></div>
 </div>
 <p style="font-size: 13px; font-weight: normal;">Note that&nbsp;we can&nbsp;<em>not</em>&nbsp;guarantee the availability of the live stream. If no streaming is possible from the location, you'll not be able to follow this session live.</p>
 

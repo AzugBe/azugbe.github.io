@@ -16,7 +16,7 @@ redirect_from:
 Two days of Microsoft Azure! We will have some local and international speakers who will share their knowledge and experience. Two days and lots of sessions!
 
 ## Beer sampling
-The event takes place <a href="http://lamot-mechelen.be/">in a former brewery</a>. We'll have a lunch buffet and some beers. But no worries! We'll have plenty of coffee and soda, too.
+The event takes place <a href="https://lamot-mechelen.be/">in a former brewery</a>. We'll have a lunch buffet and some beers. But no worries! We'll have plenty of coffee and soda, too.
 
 ## Small scale
 We intentionally keep CloudBrew small-scale. This gives the event a more intimate feeling. It also allows us to keep the cost low, providing a day of learning that's really worth everyone's valuable time.
@@ -25,4 +25,4 @@ We intentionally keep CloudBrew small-scale. This gives the event a more intimat
 
 Organized by AZUG, the Belgium Microsoft Azure User Group, CloudBrew originates from the community. Both you and our speakers are part of it. Ideal to network with peers!
 
-**Check <a href="http://www.cloudbrew.be">www.cloudbrew.be</a> for more information!**
+**Check <a href="https://www.cloudbrew.be">www.cloudbrew.be</a> for more information!**

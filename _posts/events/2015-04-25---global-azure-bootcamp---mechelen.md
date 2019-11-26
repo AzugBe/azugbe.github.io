@@ -13,7 +13,7 @@ redirect_from:
  - /2015-04-25---global-azure-bootcamp---mechelen.html
 ---
 
-<p>The third <a href="http://global.azurebootcamp.net">Global Azure Bootcamp</a> is around the corner! On the 25th of April the global Azure community gets together. In Belgium AZUG, IAMCT and Info Support have teamed up to organise a free day for Belgian enthusiasts. Join one of the sessions, hack away on the global lab or join the unconference. There's something for everyone to enjoy.</p>
+<p>The third <a href="https://global.azurebootcamp.net">Global Azure Bootcamp</a> is around the corner! On the 25th of April the global Azure community gets together. In Belgium AZUG, IAMCT and Info Support have teamed up to organise a free day for Belgian enthusiasts. Join one of the sessions, hack away on the global lab or join the unconference. There's something for everyone to enjoy.</p>
 <h2>Sessions</h2>
 <h3>Leveraging the power of Microsoft Azure to build your Hyper-V disaster recovery datacenter</h3>
 <p>Peter De Tender&nbsp;</p>
