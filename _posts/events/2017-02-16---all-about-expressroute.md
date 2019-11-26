@@ -26,13 +26,13 @@ redirect_from:
 <p>What is this ExpressRoute? How does it work and how do you set it up? How is it implemented to support global and massive scale? What about security? What about multi-tenancy? How does customer isolation work? How is it high available?</p>
 <p>Interested in finding an answer to all these questions? Then join us for a deep dive on Azure ExpressRoute!</p>
 <div><em><img src="/assets/media/speakers/kristof-rennen2.png" alt="" align="left" width="100" height="100" style="margin-right: 20px;"></em></div>
-<p style="margin-bottom: 30px; width: 450px;"><em> <em><strong>Speaker:</strong>&nbsp;Kristof Rennen (<a href="http://twitter.com/kristofrennen">@kristofrennen</a>) -&nbsp;Senior Technical Evangelist at Microsoft | Sharing my passion for technology with the world | Proud father of Lucas | Guitar God</em></em></p>
+<p style="margin-bottom: 30px; width: 450px;"><em> <em><strong>Speaker:</strong>&nbsp;Kristof Rennen (<a href="https://twitter.com/kristofrennen">@kristofrennen</a>) -&nbsp;Senior Technical Evangelist at Microsoft | Sharing my passion for technology with the world | Proud father of Lucas | Guitar God</em></em></p>
 <h2>Practical details</h2>
 <p><strong>Event date:</strong>&nbsp;February 16, 2017 - you are welcome from 18:00, session starts 18:15 - 18:30<br><strong>Catering:</strong>&nbsp;pizza</p>
 <p><img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-colt.jpg"><strong>Event location:<br></strong>Colt Technology Services<br> Culliganlaan 2H<br> 1831 Diegem<br> Belgium</p>
 <h2>Register via EventBrite</h2>
 <div style="width: 100%; text-align: left;"><iframe src="//eventbrite.com/tickets-external?eid=31226260586&amp;ref=etckt" frameborder="0" height="360" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
-<div style="font-family: Helvetica, Arial; font-size: 12px; padding: 10px 0 5px; margin: 2px; width: 100%; text-align: left;"><a class="powered-by-eb" style="color: #adb0b6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div>
+<div style="font-family: Helvetica, Arial; font-size: 12px; padding: 10px 0 5px; margin: 2px; width: 100%; text-align: left;"><a class="powered-by-eb" style="color: #adb0b6; text-decoration: none;" target="_blank" href="https://www.eventbrite.com/">Powered by Eventbrite</a></div>
 </div>
 <p>Note that&nbsp;we can&nbsp;<em>not</em>&nbsp;guarantee the availability of the live stream. If no streaming is possible from the location, you'll not be able to follow this session live.</p>
 </div>
