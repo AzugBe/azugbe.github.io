@@ -17,7 +17,7 @@ Two full days of Microsoft Azure! We will have some local and international spea
 
 ## Beer sampling
 
-The event takes place <a href="http://lamot-mechelen.be/">in a former brewery</a>. We'll have a great lunch buffet and beers. But no worries! We'll have plenty of coffee and soda, too.
+The event takes place <a href="https://lamot-mechelen.be/">in a former brewery</a>. We'll have a great lunch buffet and beers. But no worries! We'll have plenty of coffee and soda, too.
 
 ## Small scale
 

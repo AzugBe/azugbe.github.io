@@ -13,7 +13,7 @@ redirect_from:
  - /events/2016-04-16---global-azure-bootcamp---huizingen.html
 ---
 
-<p>The fourth&nbsp;<a href="http://global.azurebootcamp.net">Global Azure Bootcamp</a>&nbsp;is around the corner! On April 16, the global Azure community gets together. In Belgium AZUG and RealDolmen have teamed up to organise a free day for Belgian enthusiasts. Join one of the sessions or hack away on the global lab! There's something for everyone to enjoy.</p>
+<p>The fourth&nbsp;<a href="https://global.azurebootcamp.net">Global Azure Bootcamp</a>&nbsp;is around the corner! On April 16, the global Azure community gets together. In Belgium AZUG and RealDolmen have teamed up to organise a free day for Belgian enthusiasts. Join one of the sessions or hack away on the global lab! There's something for everyone to enjoy.</p>
 <h2>Sessions</h2>
 <table border="0" cellspacing="5">
 <tbody>
@@ -76,13 +76,13 @@ redirect_from:
 </tbody>
 </table>
 <p>
-<p>The full agenda is also available on our dedicated Global Azure Bootcamp website - <a href="http://huizingen-be.azurebootcamp.net/">http://huizingen-be.azurebootcamp.net/</a>.</p>
+<p>The full agenda is also available on our dedicated Global Azure Bootcamp website - <a href="https://huizingen-be.azurebootcamp.net/">https://huizingen-be.azurebootcamp.net/</a>.</p>
 <h2>Practical details</h2>
 <p><strong>Event date:</strong>&nbsp;Saturday, April 16, 2016 - full day, starts at 9:00 AM</p>
-<p><a href="http://www.realdolmen.com"><img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-realdolmen.jpg"></a><strong>Event location:<br></strong>RealDolmen<br>A. Vaucampslaan 42<br>1654 Huizingen<br>Belgium</p>
+<p><a href="https://www.realdolmen.com"><img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-realdolmen.jpg"></a><strong>Event location:<br></strong>RealDolmen<br>A. Vaucampslaan 42<br>1654 Huizingen<br>Belgium</p>
 <h2>Register via EventBrite</h2>
 <div style="width: 100%; text-align: left;"><iframe width="100%" height="214" src="//eventbrite.com/tickets-external?eid=21449025613&amp;ref=etckt" frameborder="0" marginwidth="5" marginheight="5" scrolling="auto" vspace="0" hspace="0" allowtransparency="true"></iframe>
-<div style="font-family: Helvetica, Arial; font-size: 10px; padding: 5px 0 5px; margin: 2px; width: 100%; text-align: left;"><a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" href="http://www.eventbrite.com/r/etckt" target="_blank">Powered by Eventbrite</a></div>
+<div style="font-family: Helvetica, Arial; font-size: 10px; padding: 5px 0 5px; margin: 2px; width: 100%; text-align: left;"><a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" href="https://www.eventbrite.com/r/etckt" target="_blank">Powered by Eventbrite</a></div>
 </div>
 
 

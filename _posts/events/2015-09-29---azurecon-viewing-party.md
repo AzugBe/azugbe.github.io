@@ -26,7 +26,7 @@ redirect_from:
 <p>17:30 - 18:00 - Welcome<br>18:00 - 21:00 - Live keynote stream (4 keynotes)<br>21:00 - 22:00 - Networking and drinks</p>
 <h2>Practical details</h2>
 <p><strong>Event date:</strong>&nbsp;September 29, 2015 - 17:30 - 22:00<br><strong>Catering:</strong> yes</p>
-<p><strong><a href="http://www.microsoft.be" target="_blank"><img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-microsoft.jpg"></a>Event location:<br></strong>Microsoft Belgium<br>Albatros (9th floor)<br>Leonardo da Vincilaan 3<br>Zaventem<br>Belgium<strong><br></strong></p>
+<p><strong><a href="https://www.microsoft.be" target="_blank"><img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-microsoft.jpg"></a>Event location:<br></strong>Microsoft Belgium<br>Albatros (9th floor)<br>Leonardo da Vincilaan 3<br>Zaventem<br>Belgium<strong><br></strong></p>
 <h2>Register via Microsoft</h2>
 <p>Head over to the Microsoft website to <a href="https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032664866&amp;Culture=en-BE&amp;community=0">register for this event</a>.</p>
 

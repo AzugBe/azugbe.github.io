@@ -25,7 +25,7 @@ redirect_from:
 <div>More details on the prerequisites for Service Fabric can be found <strong><a href="https://azure.microsoft.com/en-us/documentation/articles/service-fabric-get-started/">here</a>.</strong></div>
 <div><strong></strong><b><br></b></div>
 <div>
-<p><b>Speaker:</b> <a href="http://www.twitter.com/yvesgoeleven">Yves Goeleven</a> -&nbsp;Founder of <a href="http://www.messagehandler.net">MessageHandler</a>, connecting everything through messaging and the cloud. Windows Azure MVP!</p>
+<p><b>Speaker:</b> <a href="https://www.twitter.com/yvesgoeleven">Yves Goeleven</a> -&nbsp;Founder of <a href="https://www.messagehandler.net">MessageHandler</a>, connecting everything through messaging and the cloud. Windows Azure MVP!</p>
 </div>
 <h2>Practical details</h2>
 <p><strong>Event date:</strong> November 17,&nbsp;2015 - you are welcome from 18:00, we'll start at 18:30<br><strong>Catering:&nbsp;</strong>sandwiches</p>
@@ -39,7 +39,7 @@ redirect_from:
 <p><img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-ae.jpg">AE NV/SA<br>Interleuvenlaan 27b<br>3001 Heverlee<br>Belgium</p>
 <h2>Register via EventBrite</h2>
 <div style="width: 100%; text-align: left;"><iframe width="100%" height="214" src="//eventbrite.com/tickets-external?eid=18669602283&amp;ref=etckt" frameborder="0" marginwidth="5" marginheight="5" scrolling="auto" vspace="0" hspace="0" allowtransparency="true"></iframe>
-<div style="font-family: Helvetica, Arial; font-size: 10px; padding: 5px 0 5px; margin: 2px; width: 100%; text-align: left;"><a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" href="http://www.eventbrite.com/r/etckt" target="_blank">Powered by Eventbrite</a></div>
+<div style="font-family: Helvetica, Arial; font-size: 10px; padding: 5px 0 5px; margin: 2px; width: 100%; text-align: left;"><a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" href="https://www.eventbrite.com/r/etckt" target="_blank">Powered by Eventbrite</a></div>
 </div>
 
 
