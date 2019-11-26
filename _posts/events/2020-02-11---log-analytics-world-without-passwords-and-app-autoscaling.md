@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "2020-02-XX - Application autoscaling, Log Analytics & a world without passwords"
-date: 2020-02-01 10:00:00 +0000
+title: "2020-02-11 - Application autoscaling, Log Analytics & a world without passwords"
+date: 2020-02-11 18:00:00 +0000
 comments: true
 published: true
 categories: ["events"]
