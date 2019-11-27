@@ -14,7 +14,7 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**2019-12-13 & 14 - CloudBrew 2019** - Two days of Azure, beers and networking! [More info](https://www.cloudbrew.be/){: .btn .btn--success}
+**2020 - To be announced** - To be announced [More info](https://www.azug.be/){: .btn .btn--success}
 {: .notice--info}
 
 <hr />
