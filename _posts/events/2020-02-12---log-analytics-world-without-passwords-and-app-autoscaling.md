@@ -49,7 +49,7 @@ Come learn how you can incorporate password-less authentication into your MFA st
 
 ## Practical details
 
-**Event date:** Date to be announced
+**Event date:** February 12, 2020 - you are welcome from 18:00, session starts 18:30
 
 **Event location:**<br />
 Location to be announced
