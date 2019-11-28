@@ -14,8 +14,8 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**2020-02-12 - Application autoscaling, Log Analytics & a world without passwords!** [More info](https://www.cloudbrew.be/){: .btn .btn--success}
-An evening packed with topics people tend to forget about - Application autoscaling, gain insights in your enviroments with Azure Log Analytics and building secure solutions without passwords!
+**2020-02-12 - Application autoscaling, Log Analytics & a world without passwords!** 
+An evening packed with topics people tend to forget about - Application autoscaling, gain insights in your enviroments with Azure Log Analytics and building secure solutions without passwords! [More info](https://www.cloudbrew.be/){: .btn .btn--success}
 {: .notice--info}
 
 **2019-12-13 & 14 - CloudBrew 2019** - Two days of Azure, beers and networking! [More info](https://www.cloudbrew.be/){: .btn .btn--success}
