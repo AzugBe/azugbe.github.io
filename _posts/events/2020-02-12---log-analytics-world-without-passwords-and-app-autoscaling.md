@@ -39,9 +39,9 @@ A not to miss session if you want to start exploring the vast possibilities Azur
 
 Passwords are the weakest link for security and your business. During this session, learn how we’ve been tackling the issue of passwords and how you can build a strategy for your organization to eliminate passwords from the day-to-day lives of your end-users.
 
-We’ll share the latest solutions and investments in this space, including Windows Hello, Microsoft Authenticator, and security keys.
+We’ll share the latest solutions and investments in this space, including Windows Hello, Microsoft Authenticator, and FIDO security keys.
 
-Come learn how you can incorporate password-less authentication into your MFA strategy and provide secure a **MISSING - TODO REPLACE**.
+Come learn how you can incorporate password-less authentication into your MFA strategy and provide secure authentication to your end users during this demo packed session.
 
 <img src="/assets/media/speakers/stefan-van-der-wiele.jpg" alt="Stefan van der Wiele" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker:** *With over 10 years of experience **Stefan van der Wiele** has proven himself an expert on all things identity. Thanks to his designing and implementing skills in complex identity solutions he knows how to translate a business case into a technical solution.*
 
