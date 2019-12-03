@@ -52,7 +52,10 @@ Come learn how you can incorporate password-less authentication into your MFA st
 **Event date:** February 12, 2020 - you are welcome from 18:00, session starts 18:30
 
 **Event location:**<br />
-Location to be announced
+<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-ae.jpg">
+AE - Architects for business & ICT<br />
+Interleuvenlaan 27b<br />
+3001 Heverlee
 
 ## Register via Pretix
 
