@@ -14,7 +14,8 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**2020 - To be announced** - To be announced [More info](https://www.azug.be/){: .btn .btn--success}
+**2020-02-12 - Application autoscaling, Log Analytics & a world without passwords!** 
+An evening packed with topics people tend to forget about - Application autoscaling, gain insights in your enviroments with Azure Log Analytics and building secure solutions without passwords! [Register here!](https://www.azug.be/events/2020/02/12/log-analytics-world-without-passwords-and-app-autoscaling){: .btn .btn--success}
 {: .notice--info}
 
 <hr />
