@@ -54,7 +54,7 @@ Come learn how you can incorporate password-less authentication into your MFA st
 **Event location:**<br />
 <img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-ae.jpg">
 AE - Architects for business & ICT<br />
-Interleuvenlaan 27b<br />
+Interleuvenlaan 74 _(AEtelier meeting center)_<br />
 3001 Heverlee
 
 ## Register via Pretix
