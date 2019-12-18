@@ -13,7 +13,7 @@ On this page, we will list the things we are doing, those that we consider and t
 
 Do provide us your feedback on these - if you are affected by these efforts, if you have relevant experiences, or if you are simply a bystander who cares, let us know what you would like to see us do differently.
 
-Please send your ideas or concerns to [getintouchwithus@azug.be](getintouchwithus@azug.be). We treat all submissions confidentially.
+Please send your ideas or concerns to [getintouchwithus@azug.be](getintouchwithus@azug.be). We treat all submissions confidentially and equally.
 
 ## Doing
 
@@ -26,7 +26,7 @@ We ask all participants, speakers, sponsors and volunteers to adhere to [our Cod
 Refer [our Code of Conduct](https://www.azug.be/code-of-conduct) for contact details regarding violations or questions.
 For general enquiries, ideas or concerns, e-mail us at [getintouchwithus@azug.be](getintouchwithus@azug.be).
 
-We treat all submissions confidentially.
+We treat all submissions confidentially and equally.
 
 ### Speaker Reimbursements
 
