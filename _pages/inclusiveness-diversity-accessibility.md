@@ -40,7 +40,7 @@ We encourage participants to speak English, even if you share another language w
 
 ### Speaker Diversity
 
-We put a lot of effort in curating the content we present at our user group events and conferences of the conference. Even though Microsoft Azure-related sessions are somewhat of a niche, we make additional research efforts to find relevant speakers from underrepresented groups.
+We put a lot of effort in curating the content we present at our user group events and conferences. Even though Microsoft Azure-related sessions are somewhat of a niche, we make additional research efforts to find relevant speakers from underrepresented groups.
 
 ### Gender-inclusive language
 
