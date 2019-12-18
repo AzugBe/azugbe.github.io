@@ -116,6 +116,16 @@ While we attempt to apply best-practices in creating our web content, there are 
 
 ## Not doing (for now)
 
+### Speaker quota
+
+We aim for an equal representation of women, people of color, and other minorities, a 50% speaker quota is hard to achieve for a niche user group and conference like ours.
+
+We do actively seek out speakers from underrepresented groups to grow towards having equal representation.
+
+### Blind CfP selection process
+
+We feel a title and an abstract alone are not sufficient to determine whether the presentation is suitable for the conference. We research candidate speakers by watching videos of earlier talks, reading blogs, having a conversation upfront... Therefore, blind selection is not possible.
+
 ### Audio loops
 
 Audio loops are not provided.
@@ -123,6 +133,10 @@ Audio loops are not provided.
 ### Live captioning or transcriptions
 
 Live captioning or transcriptions are not provided.
+
+### Sign language interpreter
+
+A sign language interpreter is not provided.
 
 ### Childcare
 
