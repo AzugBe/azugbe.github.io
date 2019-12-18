@@ -80,6 +80,10 @@ Animals are not allowed but we make an exception for assistance animals.
 
 ## Under consideration (or upon request)
 
+### Volunteers
+
+We are considering opening several spots on our volunteering team for our conferences. Volunteers would get conference access and reimbursements of reasonable travel expenses, in return for helping out at the conference for a short period. More on this when we have this crystal-clear.
+
 ### Presentation Support
 
 We do not offer official support to speakers who are new to public speaking, or who are developing new content.
