@@ -9,7 +9,9 @@ All attendees, speakers, sponsors and volunteers at our user group events and co
 
 ## The Quick Version
 
-Our user group events and conferences are dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from the user group event or conference without a refund at the discretion of AZUG.
+Our user group events and conferences are dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media.
+
+Participants violating these rules may be sanctioned or expelled from the user group event or conference without a refund at the discretion of AZUG.
 
 ## The Less Quick Version
 
