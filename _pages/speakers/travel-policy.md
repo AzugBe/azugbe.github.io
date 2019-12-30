@@ -2,7 +2,7 @@
 layout: single
 title: Travel Policy
 tagline: Azure User Group Belgium
-permalink: /travel-policy
+permalink: /speakers/travel-policy
 ---
 
 Please note that this travel policy is applicable exclusively for speakers at events organized by AZUG.
