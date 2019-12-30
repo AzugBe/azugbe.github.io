@@ -33,4 +33,4 @@ We expect participants to follow these rules at conference and workshop venues a
 
 Contact us via [getintouchwithus@azug.be](mailto:getintouchwithus@azug.be?subject=Code-of-conduct).
 
-Original source and credit: [http://confcodeofconduct.com/](http://confcodeofconduct.com/)
+Original source and credit: [https://confcodeofconduct.com/](https://confcodeofconduct.com/)
