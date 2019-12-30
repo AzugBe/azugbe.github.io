@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Inclusiveness, diversity and accessibility
+title: Feeling Welcome
 tagline: Azure User Group Belgium
-permalink: /inclusiveness-diversity-accessibility
+permalink: /feeling-welcome
 ---
 
 At AZUG, we care deeply about making our events a safe and welcoming space for everyone involved.
@@ -19,7 +19,7 @@ Please send your ideas or concerns to [getintouchwithus@azug.be](getintouchwithu
 
 ### Code of Conduct
 
-We ask all participants, speakers, sponsors and volunteers to adhere to [our Code of Conduct](https://www.azug.be/code-of-conduct) at all of our events. We also invite everyone to report any violations as soon as possible, so we can take appropriate action.
+We ask all participants, speakers, sponsors and volunteers to adhere to [our Code of Conduct](/code-of-conduct) at all of our events. We also invite everyone to report any violations as soon as possible, so we can take appropriate action.
 
 ### Contact Person
 
@@ -30,7 +30,7 @@ We treat all submissions confidentially and equally.
 
 ### Speaker Reimbursements
 
-Reasonable speaker expenses are reimbursed. For more information, check [our travel policy](https://www.azug.be/travel-policy).
+Reasonable speaker expenses are reimbursed. For more information, check [our travel policy]/speakers/travel-policy).
 
 Having limited means is not an objection to speak at our user group or conference. E-mail us at [getintouchwithus@azug.be](getintouchwithus@azug.be) if you have any questions around this, we will happily assist.
 
