@@ -32,8 +32,8 @@ We expect participants to follow these rules at conference and workshop venues a
 We care about making AZUG and our events a safe space for everyone. If you need help, want to report a Code of Conduct violations or want to get in touch about any related concerns, please use the following contact details:
 
 * E-mail: contact us via [help@azug.be](mailto:help@azug.be?subject=Code-of-conduct)
-* Phone/WhatsApp: contact us via TODO SET UP GROUP VIA TWLIO
+* Phone call (voice mail): contact us via +32460207230
 
-Both of these contact mechanisms will inform several people at once to ensure a timely response.
+This will inform several people at once to ensure a timely response.
 
 Based on [http://confcodeofconduct.com/](http://confcodeofconduct.com/).
