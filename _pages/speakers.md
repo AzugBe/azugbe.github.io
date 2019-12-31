@@ -17,8 +17,6 @@ This [Call for Speakers](https://sessionize.com/azug) is open permanently. We ar
 
 When we have a need for a speaker or see a session that our members have requested, we will reach out to you and work on scheduling something. Submitting to the Call for Speakers does not guarantee you will be contacted to speak at our user group.
 
-Note we have a limited budget and prefer local speakers. and will probably only accept speakers from nearby (Belgium and Europe).
-
 **As a speaker, we expect you to accept the terms outlined in our [speaker agreement](/speakers/agreement)**.
 
 <a href="https://sessionize.com/azug"><img width="234" height="60" src="https://sessionize.com/Assets/buttons/sessionize--button-234x60.png" alt="Sessionize.com - smart way to manage call for papers, speaker and agenda"></a>
