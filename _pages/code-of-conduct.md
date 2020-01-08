@@ -29,8 +29,13 @@ AZUG will be happy to help participants contact hotel/venue security or local la
 
 We expect participants to follow these rules at conference and workshop venues and related social events.
 
-## Need Help?
+## Need Help? Report an Issue?
 
-Contact us via [getintouchwithus@azug.be](mailto:getintouchwithus@azug.be?subject=Code-of-conduct).
+We care about making AZUG and our events a safe space for everyone. If you need help, want to report a Code of Conduct violations or want to get in touch about any related concerns, please use the following contact details:
 
-Original source and credit: [https://confcodeofconduct.com/](https://confcodeofconduct.com/)
+* E-mail: contact us via [help@azug.be](mailto:help@azug.be?subject=Code-of-conduct)
+* Phone call (voice mail): contact us via +32460207230
+
+This will inform several people at once.
+
+Based on [http://confcodeofconduct.com/](http://confcodeofconduct.com/).
