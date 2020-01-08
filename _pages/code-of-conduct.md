@@ -36,6 +36,6 @@ We care about making AZUG and our events a safe space for everyone. If you need 
 * E-mail: contact us via [help@azug.be](mailto:help@azug.be?subject=Code-of-conduct)
 * Phone call (voice mail): contact us via +32460207230
 
-This will inform several people at once to ensure a timely response.
+This will inform several people at once.
 
 Based on [http://confcodeofconduct.com/](http://confcodeofconduct.com/).

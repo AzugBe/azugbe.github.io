@@ -16,7 +16,7 @@ What is this ExpressRoute? How does it work and how do you set it up? How is it 
 
 Interested in finding an answer to all these questions? Then join us for a deep dive on Azure ExpressRoute!
 
-<img src="/assets/media/speakers/kristof-rennen2.png" alt="" align="left" width="100" height="100" style="margin-right: 20px;">***Speaker:** Kristof Rennen (<a href="http://twitter.com/kristofrennen">@kristofrennen</a>) -&nbsp;Senior Technical Evangelist at Microsoft - Sharing my passion for technology with the world - Proud father of Lucas - Guitar God*
+<img src="/assets/media/speakers/kristof-rennen2.png" alt="" align="left" width="100" height="100" style="margin-right: 20px;">***Speaker:** Kristof Rennen (<a href="https://twitter.com/kristofrennen">@kristofrennen</a>) -&nbsp;Senior Technical Evangelist at Microsoft - Sharing my passion for technology with the world - Proud father of Lucas - Guitar God*
 
 <br />
 

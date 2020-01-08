@@ -19,7 +19,7 @@ redirect_from:
 <p>In the end, you will receive an overview of the reference implementation, and the final architecture implemented at the customer.</p>
 <p>Take this opportunity to learn Azure Networking and grow from a Rookie to Expert, to become a true Azure Networking Master!</p>
 <p style="margin-bottom: 50px; width: 450px;"><em><img src="/assets/media/speakers/nills-franssens.jpg" alt="" align="left" width="100" height="100" style="margin-right: 20px;"><strong>Speaker:</strong>&nbsp;Nills Franssens (<a href="https://twitter.com/nillsf">@NillsF</a>) - Cloud Solution Architect at Microsoft - IT Enthusiast - Entrepreneur - Zythologist (which means I love beer)</em></p>
-<p style="margin-bottom: 30px; width: 450px;"><em><img src="/assets/media/speakers/kristof-rennen2.png" alt="" align="left" width="100" height="100" style="margin-right: 20px;"><strong>Speaker:</strong>&nbsp;Kristof Rennen (<a href="http://twitter.com/kristofrennen">@kristofrennen</a>) -&nbsp;Senior Technical Evangelist at Microsoft | Sharing my passion for technology with the world | Proud father of Lucas | Guitar God</em></p>
+<p style="margin-bottom: 30px; width: 450px;"><em><img src="/assets/media/speakers/kristof-rennen2.png" alt="" align="left" width="100" height="100" style="margin-right: 20px;"><strong>Speaker:</strong>&nbsp;Kristof Rennen (<a href="https://twitter.com/kristofrennen">@kristofrennen</a>) -&nbsp;Senior Technical Evangelist at Microsoft | Sharing my passion for technology with the world | Proud father of Lucas | Guitar God</em></p>
 
 <h2>Video</h2>
 <div>
