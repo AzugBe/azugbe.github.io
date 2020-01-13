@@ -50,4 +50,4 @@ Expense reports should be delivered to AZUG no later than 1 month (30 days) foll
 Please send AZUG the original receipts, as well as your name, IBAN bank account number, SWIFT/BIC code and the total amount in EUR.
 An invoice is preferred when possible, but not required.
 
-Contact e-mail address: [info@azug.be](mailto:info@azug.be?subject=Travel-Reimbursement)
+Contact e-mail address: [getintouchwithus@azug.be](mailto:getintouchwithus@azug.be?subject=Travel-Reimbursement)
