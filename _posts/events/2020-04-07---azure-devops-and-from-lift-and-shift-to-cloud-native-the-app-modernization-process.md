@@ -47,5 +47,13 @@ Kortrijksesteenweg 1146<br />
 Belgium
 
 ## Register via Pretix
-
-TODO
+<link rel="stylesheet" type="text/css" href="https://pretix.eu/azug/20200407/widget/v1.css">
+<script type="text/javascript" src="https://pretix.eu/widget/v1.en.js" async></script>
+<pretix-widget event="https://pretix.eu/azug/20200407/"></pretix-widget>
+<noscript>
+   <div class="pretix-widget">
+        <div class="pretix-widget-info-message">
+            JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://pretix.eu/azug/20200407/">click here</a>.
+        </div>
+    </div>
+</noscript>
