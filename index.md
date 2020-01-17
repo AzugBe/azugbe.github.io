@@ -18,6 +18,10 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 An evening packed with topics people tend to forget about - Application autoscaling, gain insights in your enviroments with Azure Log Analytics and building secure solutions without passwords! [Register here!](https://www.azug.be/events/2020/02/12/log-analytics-world-without-passwords-and-app-autoscaling){: .btn .btn--success}
 {: .notice--info}
 
+**2020-04-07 - Azure DevOps and From Lift-and-Shift to Cloud-Native - the app modernization process** 
+The cloud offers many treasures for those who dare to fully embrace it. But how do you start this journey, and how to get to your destination? Lorenz Pensaert and Jan Van Meirvenne will dive in. [Register here!](https://www.azug.be/events/2020/04/07/azure-devops-and-from-lift-and-shift-to-cloud-native-the-app-modernization){: .btn .btn--success}
+{: .notice--info}
+
 <hr />
 
 ## About AZUG
