@@ -37,7 +37,7 @@ In this session we will show you how to transform platforms, people and processe
 
 ## Practical details
 
-**Event date:** February 12, 2020 - you are welcome from 18:00, session starts 18:30
+**Event date:** April 7, 2020 - you are welcome from 18:00, session starts 18:30
 
 **Event location:**<br />
 <img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-loqutus.jpg">
