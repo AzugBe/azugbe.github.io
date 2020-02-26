@@ -18,7 +18,7 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 The cloud offers many treasures for those who dare to fully embrace it. But how do you start this journey, and how to get to your destination? Thomas Vandaele will cover moving on-premise TFS to a modern DevOps pipeline, Jan Van Meirvenne and Lorenz Pensaert will dive into cloud-native applications. [Register here!](https://www.azug.be/events/2020/04/07/azure-devops-and-from-lift-and-shift-to-cloud-native-the-app-modernization-process){: .btn .btn--success}
 {: .notice--info}
 
-**2020-04-25 - Global Azure Bootcamp 2020** - AZUG is glad to support the 7th edition of the Global Azure Bootcamp by hosting the Belgian event. [Register here!](https://www.azug.be/events/2020/04/25/global-azure-bootcamp){: .btn .btn--success}
+**2020-04-25 - Global Azure Bootcamp 2020** - AZUG is glad to support the 8th edition of the Global Azure Bootcamp by hosting the Belgian event. [Register here!](https://www.azug.be/events/2020/04/25/global-azure-bootcamp){: .btn .btn--success}
 {: .notice--info}
 
 <hr />
