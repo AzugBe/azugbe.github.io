@@ -37,14 +37,10 @@ In this session we will show you how to transform platforms, people and processe
 
 ## Practical details
 
-**Event date:** April 7, 2020 - you are welcome from 18:00, session starts 18:30
+**Event date:** April 7, 2020 - you are welcome to [<img src="/assets/media/icon-slack.png" width="16" height="16" /> hang out in our Slack team](https://join.slack.com/t/azugbe/shared_invite/MjE4MzI5NDM3OTM5LTE1MDExNDgyMzUtMzgwNjM2YmU0Zg) from 18:00, sessions start at 18:30
 
 **Event location:**<br />
-<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-loqutus.jpg">
-LoQutus NV<br />
-Kortrijksesteenweg 1146<br />
-9051 Sint-Denijs-Westrem<br />
-Belgium
+Online, details will be e-mailed closer to the event.
 
 ## Register via Pretix
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/azug/20200407/widget/v1.css">

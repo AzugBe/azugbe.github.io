@@ -1,4 +1,4 @@
-﻿---
+---
 layout: splash
 title: Welcome to AZUG!
 tagline: Azure User Group Belgium
@@ -14,11 +14,11 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
+**AZUG and Covid-19** - After careful consideration, we've decided to make the next AZUG meeting virtual, and cancel Global Azure Bootcamp in Belgium. [Read more!](https://www.azug.be/events/2020/03/13/azug-and-covid-19){: .btn .btn--warning}
+{: .notice--warning}
+
 **2020-04-07 - Azure DevOps and From Lift-and-Shift to Cloud-Native - the app modernization process** 
 The cloud offers many treasures for those who dare to fully embrace it. But how do you start this journey, and how to get to your destination? Thomas Vandaele will cover moving on-premise TFS to a modern DevOps pipeline, Jan Van Meirvenne and Lorenz Pensaert will dive into cloud-native applications. [Register here!](https://www.azug.be/events/2020/04/07/azure-devops-and-from-lift-and-shift-to-cloud-native-the-app-modernization-process){: .btn .btn--success}
-{: .notice--info}
-
-**2020-04-25 - Global Azure Bootcamp 2020** - AZUG is glad to support the 8th edition of the Global Azure Bootcamp by hosting the Belgian event. [Register here!](https://www.azug.be/events/2020/04/25/global-azure-bootcamp){: .btn .btn--success}
 {: .notice--info}
 
 <hr />
