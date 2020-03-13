@@ -54,7 +54,6 @@ permalink: /live
 </script>
 <div id="live" style="display: none; text-align: center;">
 <h1 id="title"></h1><h2 id="speaker"></h2>
-<h3>Questions? Comments? Tweet <a href="https://twitter.com/azugbe" target="_blank">@azugbe</a>!</h3>
 <iframe id="livestream" width="560" height="315" src="//www.youtube.com/embed/EYswcoCxE1s" frameborder="0" allowfullscreen></iframe>
 </div>
 <div id="notlive" style="text-align: center;">
@@ -64,29 +63,6 @@ permalink: /live
 
 <hr />
 
-<p style="text-align: center;">
-<a href="https://www.realdolmen.com"><img alt="" src="/assets/media/sponsors/logo-realdolmen.jpg" vspace="10" /></a>&nbsp;
-<a href="https://www.cronos.be"><img alt="" src="/assets/media/sponsors/logo-cronos.jpg" vspace="10" /></a>&nbsp;
-<a href="https://www.microsoft.be"><img alt="" src="/assets/media/sponsors/logo-microsoft.jpg" vspace="10" /></a>&nbsp;
-<a href="https://www.euri.com"><img alt="" src="/assets/media/sponsors/logo-euricom.jpg" vspace="10" /></a>
-
-<br />
-
-<a href="https://www.codit.be"><img alt="" src="/assets/media/sponsors/logo-codit.jpg" vspace="10" /></a>&nbsp;
-<a href="https://www.ae.be"><img alt="" src="/assets/media/sponsors/logo-ae.jpg" vspace="10" /></a>&nbsp;
-<a href="https://www.cnext.eu"><img alt="" src="/assets/media/sponsors/logo-cnext.jpg" vspace="10" /></a>&nbsp;
-<a href="https://www.barracuda.com"><img alt="" src="/assets/media/sponsors/logo-barracuda.jpg" vspace="10" /></a>
-
-<br />
-
-<a href="https://www.messagehandler.net"><img alt="" src="/assets/media/sponsors/logo-messagehandler.png" vspace="10" /></a>&nbsp;
-<a href="https://www.tobania.be/"><img alt="" src="/assets/media/sponsors/logo-tobania.jpg" vspace="10" /></a>&nbsp;
-<a href="https://www.synergics.be"><img alt="" src="/assets/media/sponsors/logo-synergics.jpg" vspace="10" /></a>&nbsp;
-<a href="https://www.be.capgemini.com/"><img alt="" src="/assets/media/sponsors/logo-capgemini.jpg" vspace="10" /></a>
-
-<br />
-
-<a href="https://www.stylelabs.com/"><img alt="" src="/assets/media/sponsors/logo-stylelabs.jpg" vspace="10" /></a>&nbsp;
-<a href="https://www.xylos.be"><img alt="" src="/assets/media/sponsors/logo-xylos.jpg" vspace="10" /></a>&nbsp;
-<a href="https://www.jetbrains.com"><img alt="" src="/assets/media/sponsors/logo-jetbrains.jpg" vspace="10" /></a>
-</p>
+<div class="partners-narrow">
+	{% include partners.html %}
+</div>
