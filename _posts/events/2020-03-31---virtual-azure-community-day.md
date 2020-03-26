@@ -13,14 +13,14 @@ Together with several other user groups, we're organizing the Virtual Azure Comm
 
 ## Agenda
 
-Streaming will start at 13:00 until 21:00. More information is available at [the Virtual Azure Community Day website](https://vacd.azurewebsites.net/).
+Streaming will start at 13:00 until 21:00. More information is available at [the Virtual Azure Community Day website](https://azureday.community/).
 
 ## Practical details
 
 **Event date:** March 31, 2020 - you are welcome to [<img src="/assets/media/icon-slack.png" width="16" height="16" /> hang out in our Slack team](https://join.slack.com/t/azugbe/shared_invite/MjE4MzI5NDM3OTM5LTE1MDExNDgyMzUtMzgwNjM2YmU0Zg), sessions start at 13:00
 
 **Event location:**<br />
-Online, on our [AZUG livestream page](/live) as well as [the Virtual Azure Community Day website](https://vacd.azurewebsites.net/).
+Online, on our [AZUG livestream page](/live) as well as [the Virtual Azure Community Day website](https://azureday.community/).
 
 ## Registration
 
