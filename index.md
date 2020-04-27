@@ -1,4 +1,4 @@
----
+﻿---
 layout: splash
 title: Welcome to AZUG!
 tagline: Azure User Group Belgium
@@ -16,6 +16,10 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 **AZUG and Covid-19** - After careful consideration, we've decided to make the next AZUG meeting virtual, and cancel Global Azure Bootcamp in Belgium. [Read more!](https://www.azug.be/events/2020/03/13/azug-and-covid-19){: .btn .btn--warning}
 {: .notice--warning}
+
+**2020-05-21 - Answering the million dollar question: What to use when in Azure?** 	
+Azure has grown to a cloud platform of more than 100+ services, but when do you use what?! Barry will guide the way! [Register here!](https://www.azug.be/events//2020/05/21/answering-the-million-dollar-question-what-to-use-when-in-azure){: .btn .btn--success}	
+{: .notice--info}
 
 <hr />
 
