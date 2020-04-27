@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "2020-05-21 - Answering the million dollar question: What to use when in Azure?"
-date: 2020-05-21 17:00:00 +0000
+title: "2020-05-27 - Answering the million dollar question: What to use when in Azure?"
+date: 2020-05-27 17:00:00 +0000
 comments: true
 published: true
 categories: ["events"]
@@ -23,7 +23,7 @@ In short, this session answers the question that everybody wants an answer to: W
 
 ## Practical details
 
-**Event date:** May 21, 2020 - you are welcome to [<img src="/assets/media/icon-slack.png" width="16" height="16" /> hang out in our Slack team](https://join.slack.com/t/azugbe/shared_invite/MjE4MzI5NDM3OTM5LTE1MDExNDgyMzUtMzgwNjM2YmU0Zg) or on the YouTube Live chat from 16:30, sessions start at 17:00
+**Event date:** May 27, 2020 - you are welcome to [<img src="/assets/media/icon-slack.png" width="16" height="16" /> hang out in our Slack team](https://join.slack.com/t/azugbe/shared_invite/MjE4MzI5NDM3OTM5LTE1MDExNDgyMzUtMzgwNjM2YmU0Zg) or on the YouTube Live chat from 16:30, sessions start at 17:00
 
 **Event location:**<br />
 Online at [www.azug.be/live](https://www.azug.be/live), details will be e-mailed closer to the event.
