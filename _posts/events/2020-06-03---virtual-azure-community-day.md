@@ -9,6 +9,13 @@ tags: ["Events"]
 author: Maarten Balliauw
 ---
 
+**The event has been postponed** - Check the following Tweet for more informaion.
+{: .notice--warning}
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Normally we would have kicked off Virtual Azure Community Day in a few hours. But this is not the time to talk about tech. <br><br>This is the time to stand up and support each other.<a href="https://twitter.com/hashtag/VACD?src=hash&amp;ref_src=twsrc%5Etfw">#VACD</a> <a href="https://t.co/OBl3Z6GaH1">https://t.co/OBl3Z6GaH1</a></p>&mdash; Henk Boelman 🥑 🏡 🇳🇱 (@hboelman) <a href="https://twitter.com/hboelman/status/1267811116198948870?ref_src=twsrc%5Etfw">June 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<hr />
+
 Where do all the sessions go when events and meetups are being cancelled all over the world? We thought it would be fun to create a platform where we, as a community, can virtually get together and enjoy those sessions you don't want to miss out on.
 
 Join us for the second Virtual Azure Community Day! No stickers or socks, but 24 hours of technical geekery. There's multiple streams hosted from around the world.
