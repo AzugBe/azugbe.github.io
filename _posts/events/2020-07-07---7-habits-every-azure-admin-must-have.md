@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["events"]
 tags: ["Events"]
-author: Tom Kerkhove
+author: Glenn Colpaert
 ---
 
 How will system administrators evolve into Cloud Administrators? Wim and Karel will tell you all about it.
