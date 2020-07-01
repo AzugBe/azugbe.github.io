@@ -20,6 +20,9 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 **July 7th 2020** - 7 habits every Azure Admin must have by **Wim Matthyssen** and **Karel De Winter** [Read more!](https://www.azug.be/events/2020/07/07/7-habits-every-azure-admin-must-have){: .btn .btn--info}
 {: .notice--info}
 
+**September 3rd 2020** - Orchestration in Event Driven architecture by **Stephane Eyskens** [Read more!](https://www.azug.be/events/2020/09/03/orchestration-in-event-driven-architecture){: .btn .btn--info}
+{: .notice--info}
+
 <hr />
 
 ## About AZUG
