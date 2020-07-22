@@ -78,7 +78,9 @@ His main interest goes to highly scalable and available, multi tenant and multi 
 
 ![](/assets/media/crew/tom-kerkhove.jpg)
 
-Tom Kerkhove works for Codit as an Azure Architect, is a member of the AZUG crew and has been a Microsoft MVP & Azure Advisor since 2014. He turns coffee into scaleable & secure cloud systems and writes about his adventures on his blog - <a href="https://blog.tomkerkhove.be" target="_blank">blog.tomkerkhove.be</a>
+Tom works for Codit as an Azure Architect and R&D Manager. He's been recognized as a Microsoft Azure MVP & Advisor since 2014 and a GitHub Star in 2020. You can find him around on GitHub maintaining KEDA, Promitor, Azure Deprecation & Arcus.
+
+He turns coffee into scalable & secure cloud systems and writes about his adventures on <a href="https://blog.tomkerkhove.be" target="_blank">blog.tomkerkhove.be</a>.
 
 ### Salma Haidar
 
