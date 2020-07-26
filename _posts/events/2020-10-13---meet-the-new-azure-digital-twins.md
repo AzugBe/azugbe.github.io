@@ -27,7 +27,7 @@ Attendees will learn when and how Azure Digital Twins is ideal for their IoT sol
 With over 10 years of experience gained in many national and international projects, he can adapt quickly to customer-specific situations and scenarios.
 Currently, he's mainly focused on designing and building secure, scalable cloud-based solutions on Microsoft Azure. His blog can be found on https://glenncolpaert.github.io/
 
-Glenn on Twitter: [@stephaneeyskens](https://twitter.com/GlennColpaert)
+Glenn on Twitter: [@GlennColpaert](https://twitter.com/GlennColpaert)
 
 ## Practical details
 
