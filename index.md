@@ -17,7 +17,10 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 **AZUG and Covid-19** - After careful consideration, we've decided to make the next AZUG meeting virtual, and cancel Global Azure Bootcamp in Belgium. [Read more!](https://www.azug.be/events/2020/03/13/azug-and-covid-19){: .btn .btn--warning}
 {: .notice--warning}
 
-**September 3rd 2020** - Orchestration in Event Driven architecture by **Stephane Eyskens** [Read more!](https://www.azug.be/events/2020/09/03/orchestration-in-event-driven-architecture){: .btn .btn--info}
+**September 3, 2020** - Orchestration in Event Driven architecture with **Stephane Eyskens** [Read more!](https://www.azug.be/events/2020/09/03/orchestration-in-event-driven-architecture){: .btn .btn--info}
+{: .notice--info}
+
+**October 13, 2020** - Meet the new Azure Digital Twins with **Glenn Colpaert** [Read more!](https://www.azug.be/events/2020/10/13/meet-the-new-azure-digital-twins){: .btn .btn--info}
 {: .notice--info}
 
 <hr />
