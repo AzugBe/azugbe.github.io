@@ -14,9 +14,6 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**AZUG and Covid-19** - After careful consideration, we've decided to make the next AZUG meeting virtual, and cancel Global Azure Bootcamp in Belgium. [Read more!](https://www.azug.be/events/2020/03/13/azug-and-covid-19){: .btn .btn--warning}
-{: .notice--warning}
-
 **August 19, 2020** - Playing the game with Azure Cognitive Services with **Pieter Vandenheede** [Read more!](https://www.azug.be/events/2020/08/19/playing-the-game-with-azure-cognitive-services){: .btn .btn--info}
 {: .notice--info}
 
