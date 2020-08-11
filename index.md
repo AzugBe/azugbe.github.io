@@ -23,6 +23,9 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 **October 13, 2020** - Meet the new Azure Digital Twins with **Glenn Colpaert** [Read more!](https://www.azug.be/events/2020/10/13/meet-the-new-azure-digital-twins){: .btn .btn--info}
 {: .notice--info}
 
+**December 3, 2020** - Microsoft Q# and Azure Quantum with **Johnny Hooyberghs** [Read more!](https://www.azug.be/events/2020/12/03/microsoft-qsharp-azure-quantum){: .btn .btn--info}
+{: .notice--info}
+
 <hr />
 
 ## About AZUG
