@@ -9,7 +9,7 @@ tags: ["Events"]
 author: Maarten Balliauw
 ---
 
-We have observed the current quantum state and it looks like a meetup is happening! Expct quantum theory, Microsoft Q# and Azure Quantum.
+We have observed the current quantum state and it looks like a meetup is happening! Expect quantum theory, Microsoft Q# and Azure Quantum.
 
 ## Agenda
 
