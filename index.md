@@ -14,9 +14,6 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**August 19, 2020** - Playing the game with Azure Cognitive Services with **Pieter Vandenheede** [Read more!](https://www.azug.be/events/2020/08/19/playing-the-game-with-azure-cognitive-services){: .btn .btn--info}
-{: .notice--info}
-
 **September 3, 2020** - Orchestration in Event Driven architecture with **Stephane Eyskens** [Read more!](https://www.azug.be/events/2020/09/03/orchestration-in-event-driven-architecture){: .btn .btn--info}
 {: .notice--info}
 
