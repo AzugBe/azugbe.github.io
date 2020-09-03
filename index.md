@@ -14,9 +14,6 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**September 3, 2020** - Orchestration in Event Driven architecture with **Stephane Eyskens** [Read more!](https://www.azug.be/events/2020/09/03/orchestration-in-event-driven-architecture){: .btn .btn--info}
-{: .notice--info}
-
 **October 13, 2020** - Meet the new Azure Digital Twins with **Glenn Colpaert** [Read more!](https://www.azug.be/events/2020/10/13/meet-the-new-azure-digital-twins){: .btn .btn--info}
 {: .notice--info}
 
