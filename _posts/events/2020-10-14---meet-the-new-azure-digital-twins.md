@@ -7,9 +7,9 @@ published: true
 categories: ["events"]
 tags: ["Events"]
 author: Maarten Balliauw
-alias: ["/events/2020/10/14/meet-the-new-azure-digital-twins"]
 redirect_from:
- - /events/2020/10/14/meet-the-new-azure-digital-twins.html 
+ - /events/2020/10/14/meet-the-new-azure-digital-twins.html
+ - /events/2020/10/14/meet-the-new-azure-digital-twins
 ---
 
 Azure Digital Twins allow customer to create rich models that allows optimizations of the general flow of business. And there's a new public preview available! Let's see what Azure Digital Twins mean for our IoT projects.
