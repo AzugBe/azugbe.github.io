@@ -1,12 +1,15 @@
 ---
 layout: single
-title: "2020-10-13 - Meet the new Azure Digital Twins"
-date: 2020-10-13 17:00:00 +0000
+title: "2020-10-14 - Meet the new Azure Digital Twins"
+date: 2020-10-14 17:00:00 +0000
 comments: true
 published: true
 categories: ["events"]
 tags: ["Events"]
 author: Maarten Balliauw
+alias: ["/events/2020/10/14/meet-the-new-azure-digital-twins"]
+redirect_from:
+ - /events/2020/10/14/meet-the-new-azure-digital-twins.html 
 ---
 
 Azure Digital Twins allow customer to create rich models that allows optimizations of the general flow of business. And there's a new public preview available! Let's see what Azure Digital Twins mean for our IoT projects.
@@ -31,7 +34,7 @@ Glenn on Twitter: [@GlennColpaert](https://twitter.com/GlennColpaert)
 
 ## Practical details
 
-**Event date:** October 13, 2020 - you are welcome to [<img src="/assets/media/icon-slack.png" width="16" height="16" /> hang out in our Slack team](https://join.slack.com/t/azugbe/shared_invite/MjE4MzI5NDM3OTM5LTE1MDExNDgyMzUtMzgwNjM2YmU0Zg) or on the YouTube Live chat from 16:30, sessions start at 17:00
+**Event date:** October 14, 2020 - you are welcome to [<img src="/assets/media/icon-slack.png" width="16" height="16" /> hang out in our Slack team](https://join.slack.com/t/azugbe/shared_invite/MjE4MzI5NDM3OTM5LTE1MDExNDgyMzUtMzgwNjM2YmU0Zg) or on the YouTube Live chat from 16:30, sessions start at 17:00
 
 **Event location:**<br />
 Online at [www.azug.be/live](https://www.azug.be/live), details will be e-mailed closer to the event.
