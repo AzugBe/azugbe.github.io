@@ -20,8 +20,10 @@ Azure Digital Twins allow customer to create rich models that allows optimizatio
 
 As announced at Microsoft Build 2020, Azure Digital Twins has a new public preview. Azure Digital Twins allow customer to create rich models that allows optimizations of the general flow of business.
 
+For this session we are excited to have Christopher from the EMEA IoT & Edge computing team joining us.
+
 Digital Twins is a platform for developers to model the real world, controlled using a rich set of REST APIs and C# SDK.
-In this session, we are going through all the new capabilities of the new Azure Digital Twin platform. Glenn will show you how to model your Digital Twin Graph and use the live execution environment to create a rich eco system for your IoT data processing.
+In this session, we are going through all the new capabilities of the new Azure Digital Twin platform. Glenn & Christopher will show you how to model your Digital Twin Graph and use the live execution environment to create a rich eco system for your IoT data processing.
 
 Attendees will learn when and how Azure Digital Twins is ideal for their IoT solution. Making sure they are ready to build the next generation of IoT platforms.
 
@@ -31,6 +33,10 @@ With over 10 years of experience gained in many national and international proje
 Currently, he's mainly focused on designing and building secure, scalable cloud-based solutions on Microsoft Azure. His blog can be found on https://glenncolpaert.github.io/
 
 Glenn on Twitter: [@GlennColpaert](https://twitter.com/GlennColpaert)
+
+<img src="/assets/media/crew/chris-maneu.png" alt="Christopher Maneu" align="left" height="100" style="margin-right: 20px;">**Speaker:** **Christopher Maneu**  is a cloud engineer & Startups developer advocate at Microsoft. His mission is to help every technologist on the planet succeed, focusing on startups. He works with, help and teaches developers across the continent on cloud and open-source technologies. 
+He's currently leading the advocacy efforts for the IoT & Edge computing space in EMEA.
+
 
 ## Practical details
 
