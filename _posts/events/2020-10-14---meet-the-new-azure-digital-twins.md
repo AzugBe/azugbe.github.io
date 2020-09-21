@@ -34,7 +34,7 @@ Currently, he's mainly focused on designing and building secure, scalable cloud-
 
 Glenn on Twitter: [@GlennColpaert](https://twitter.com/GlennColpaert)
 
-<img src="/assets/media/crew/chris-maneu.png" alt="Christopher Maneu" align="left" height="100" style="margin-right: 20px;">**Speaker:** **Christopher Maneu**  is a cloud engineer & Startups developer advocate at Microsoft. His mission is to help every technologist on the planet succeed, focusing on startups. He works with, help and teaches developers across the continent on cloud and open-source technologies. 
+<img src="/assets/media/speakers/chris-maneu.png" alt="Christopher Maneu" align="left" height="100" style="margin-right: 20px;">**Speaker:** **Christopher Maneu**  is a cloud engineer & Startups developer advocate at Microsoft. His mission is to help every technologist on the planet succeed, focusing on startups. He works with, help and teaches developers across the continent on cloud and open-source technologies. 
 He's currently leading the advocacy efforts for the IoT & Edge computing space in EMEA.
 
 
