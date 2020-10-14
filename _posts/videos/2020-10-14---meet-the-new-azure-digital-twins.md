@@ -33,4 +33,4 @@ He's currently leading the advocacy efforts for the IoT & Edge computing space i
 
 ### Video recording
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PbT57pZ-MvM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MJl4-GhtXeU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
