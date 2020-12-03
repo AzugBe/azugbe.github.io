@@ -14,8 +14,7 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**December 3, 2020** - Microsoft Q# and Azure Quantum with **Johnny Hooyberghs** [Read more!](https://www.azug.be/events/2020/12/03/microsoft-qsharp-azure-quantum){: .btn .btn--info}
-{: .notice--info}
+Stay tuned for 2021!
 
 <hr />
 
