@@ -34,4 +34,4 @@ Online at [www.azug.be/live](https://www.azug.be/live), details will be e-mailed
 
 ## Register via Pretix
 
-{pretix registration embed code}
+Registrations are opening soon.
