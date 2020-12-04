@@ -14,7 +14,7 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**January 28, 2021** - How vulnerable is your Azure environment?" **David Okeyde** [Read more!](https://www.azug.be/events/2021/01/28/how-vulnerable-is-your-azure-environment){: .btn .btn--info}
+**January 28, 2021** - How vulnerable is your Azure environment? with **David Okeyde** [Read more!](https://www.azug.be/events/2021/01/28/how-vulnerable-is-your-azure-environment){: .btn .btn--info}
 {: .notice--info}
 
 <hr />
