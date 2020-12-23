@@ -22,11 +22,7 @@ This session will provide you the means to start your own bar using Azure Servic
 * Process orders and do ad fundums like a pro (Dequeue messages)
 * Take place and leave the bar as you have never been done before (Management through the SDK)
 
-<img src="/assets/media/speakers/jerry-van-echelpoel.jpg" alt="Jerry Van Echelpoel" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker: Jerry Van Echelpoel** *is a Technical Consultant in .NET Solutions at Realdolmen since 2011 focusing on .NET solutions
-
-*Jerry was there from the beginning of .NET, has loved and never left the technology ever since. He mostly focuses on performant, back-end .NET solutions and automation.*
-
-*He's currently the technical lead of the Zanzibar-team within Realdolmen DevOps*
+<img src="/assets/media/speakers/jerry-van-echelpoel.jpg" alt="Jerry Van Echelpoel" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker: Jerry Van Echelpoel** *is a Technical Consultant sporting more than 14 years of experience. He’s currently active as the technical lead of the Zanzibar-team in the Realdolmen DevOps Factory where he focuses on delivering performant and high-end cloud applications. He’s also a versatile member of the Microsoft Compentence Center Board taking up various tasks, among which the coaching of colleagues on both a technical and personal level is a prominent one.*
 
 *Jerry on Twitter: [@Qlurichaun](http://twitter.com/qlurichaun)*
 
