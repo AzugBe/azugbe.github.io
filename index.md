@@ -17,6 +17,9 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 **January 28, 2021** - How vulnerable is your Azure environment? with **David Okeyde** [Read more!](https://www.azug.be/events/2021/01/28/how-vulnerable-is-your-azure-environment){: .btn .btn--info}
 {: .notice--info}
 
+**February 18, 2021** - How to run a bar with Azure Service Bus, with **Jerry Van Echelpoel** [Read more!](https://www.azug.be/events/2021/02/18/how-to-run-a-bar-with-azure-service-bus){: .btn .btn--info}
+{: .notice--info}
+
 <hr />
 
 ## About AZUG
