@@ -17,6 +17,9 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 **February 18, 2021** - How to run a bar with Azure Service Bus, with **Jerry Van Echelpoel** [Read more!](https://www.azug.be/events/2021/02/18/how-to-run-a-bar-with-azure-service-bus){: .btn .btn--info}
 {: .notice--info}
 
+**March 25, 2021** - Spanning Cloud Services across Azure and AWS, with **Mohamed Wali** [Read more!](https://www.azug.be/events/2021/03/25/spanning-cloud-services-across-azure-and-aws){: .btn .btn--info}
+{: .notice--info}
+
 <hr />
 
 ## About AZUG
