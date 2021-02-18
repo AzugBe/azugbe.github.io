@@ -21,7 +21,6 @@ Through discussion and demonstration you’ll gain insight into the following to
 
 *David is married to a lovely girl who makes the best banana cake in the world. They love travelling the world together and intend to do missions in Asia very soon!*
 
-
 ### Video recording
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TJUvrPU_iyI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
