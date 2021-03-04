@@ -14,8 +14,11 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
+There are no upcoming events.
+<!--
 **March 25, 2021** - Spanning Cloud Services across Azure and AWS, with **Mohamed Wali** [Read more!](https://www.azug.be/events/2021/03/25/spanning-cloud-services-across-azure-and-aws){: .btn .btn--info}
 {: .notice--info}
+-->
 
 <hr />
 
