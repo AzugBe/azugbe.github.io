@@ -9,6 +9,8 @@ tags: ["Events"]
 author: Tom Kerkhove
 ---
 
+**Event has been cancelled.**
+
 Are you interested in multi-cloud? Then this event is for you!
 
 ## Agenda
@@ -31,13 +33,4 @@ Within this session, you will learn how to get the most outta Azure and AWS by s
 Online at [www.azug.be/live](https://www.azug.be/live), details will be e-mailed closer to the event.
 
 ## Register via Pretix
-<link rel="stylesheet" type="text/css" href="https://pretix.eu/azug/20210325/widget/v1.css">
-<script type="text/javascript" src="https://pretix.eu/widget/v1.en.js" async></script>
-<pretix-widget event="https://pretix.eu/azug/20210325/"></pretix-widget>
-<noscript>
-   <div class="pretix-widget">
-        <div class="pretix-widget-info-message">
-            JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://pretix.eu/azug/20210325/">click here</a>.
-        </div>
-    </div>
-</noscript>
+Event has been cancelled.
