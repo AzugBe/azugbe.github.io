@@ -14,7 +14,8 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-There are no upcoming events.
+**June 3, 2021** - API Management in a hybrid world - A secure story from the field, with **Ruben Delange** [Read more!](https://www.azug.be/events/2021/06/03/api-management-in-a-hybrid-world-a-secure-story-from-the-field){: .btn .btn--info}
+{: .notice--info}
 
 <hr />
 
