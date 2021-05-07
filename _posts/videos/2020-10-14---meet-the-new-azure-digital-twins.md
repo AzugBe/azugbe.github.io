@@ -4,19 +4,12 @@ title: "2020-10-14 - Meet the new Azure Digital Twins"
 date: 2020-10-14 17:00:00 +0000
 comments: true
 published: true
-categories: ["events"]
-tags: ["Events"]
+categories: ["videos"]
+tags: ["Videos"]
 author: Maarten Balliauw
-redirect_from:
- - /events/2020/10/14/meet-the-new-azure-digital-twins.html
- - /events/2020/10/14/meet-the-new-azure-digital-twins
 ---
 
-Azure Digital Twins allow customer to create rich models that allows optimizations of the general flow of business. And there's a new public preview available! Let's see what Azure Digital Twins mean for our IoT projects.
-
-## Agenda
-
-### Meet the new Azure Digital Twins
+## Meet the new Azure Digital Twins
 
 As announced at Microsoft Build 2020, Azure Digital Twins has a new public preview. Azure Digital Twins allow customer to create rich models that allows optimizations of the general flow of business.
 
@@ -38,21 +31,6 @@ Glenn on Twitter: [@GlennColpaert](https://twitter.com/GlennColpaert)
 
 He's currently leading the advocacy efforts for the IoT & Edge computing space in EMEA.
 
-## Practical details
+### Video recording
 
-**Event date:** October 14, 2020 - you are welcome to [<img src="/assets/media/icon-slack.png" width="16" height="16" /> hang out in our Slack team](https://join.slack.com/t/azugbe/shared_invite/MjE4MzI5NDM3OTM5LTE1MDExNDgyMzUtMzgwNjM2YmU0Zg) or on the YouTube Live chat from 16:30, sessions start at 17:00
-
-**Event location:**<br />
-Online at [www.azug.be/live](https://www.azug.be/live), details will be e-mailed closer to the event.
-
-## Register via Pretix
-<link rel="stylesheet" type="text/css" href="https://pretix.eu/azug/20201013/widget/v1.css">
-<script type="text/javascript" src="https://pretix.eu/widget/v1.en.js" async></script>
-<pretix-widget event="https://pretix.eu/azug/20201013/"></pretix-widget>
-<noscript>
-   <div class="pretix-widget">
-        <div class="pretix-widget-info-message">
-            JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://pretix.eu/azug/20201013/">click here</a>.
-        </div>
-    </div>
-</noscript>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MJl4-GhtXeU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
