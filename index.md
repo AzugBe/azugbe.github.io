@@ -14,7 +14,8 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-There are no upcoming events.
+**September 7, 2021** - A Case Study - Data Movement and Transformation using Azure Data Factory, with **Alpa Buddhabhatti** [Read more!](https://www.azug.be/events/2021/09/07/a-case-study-data-movement-and-transformation-using-azure-data-factory){: .btn .btn--info}
+{: .notice--info}
 
 <hr />
 
