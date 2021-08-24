@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "2021-10-21 - Bicep - Infrastructure as Code for Azure Reinvented"
-date: 2021-10-21 17:00:00 +0000
+date: 2021-08-24 17:00:00 +0000
 comments: true
 published: true
 categories: ["events"]
