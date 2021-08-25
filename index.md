@@ -17,6 +17,9 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 **September 7, 2021** - A Case Study - Data Movement and Transformation using Azure Data Factory, with **Alpa Buddhabhatti** [Read more!](https://www.azug.be/events/2021/09/07/a-case-study-data-movement-and-transformation-using-azure-data-factory){: .btn .btn--info}
 {: .notice--info}
 
+**October 21, 2021** - Bicep - Infrastructure as Code for Azure Reinvented, with **Henry Been** [Read more!](https://www.azug.be/events/2021/10/21/bicep---infrastructure-as-code-for-azure-reinvented){: .btn .btn--info}
+{: .notice--info}
+
 <hr />
 
 ## About AZUG
