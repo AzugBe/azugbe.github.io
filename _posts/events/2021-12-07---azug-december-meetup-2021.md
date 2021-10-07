@@ -47,3 +47,5 @@ Belgium
         </div>
     </div>
 </noscript>
+
+Note that while current COVID-19 measures allow for a decent-size event, we're limiting the number of participants to this meetup to not overcrowd the event location.
