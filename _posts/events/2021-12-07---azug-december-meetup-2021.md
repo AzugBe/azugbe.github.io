@@ -26,8 +26,6 @@ Sessions are 45 minutes.
 
 **Event date:** December 7, 2021 - you are welcome from 15:30, sessions start at 16:00.
 
-**⚠ A [COVID certificate or CovidSafe ticket](https://covidsafe.be/) is required to join.**
-
 **Catering:** Will be available.
 
 **Event location:**<br />
