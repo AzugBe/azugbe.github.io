@@ -14,9 +14,6 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**October 21, 2021** - Bicep - Infrastructure as Code for Azure Reinvented, with **Henry Been** [Read more!](https://www.azug.be/events/2021/10/21/bicep-infrastructure-as-code-for-azure-reinvented){: .btn .btn--info}
-{: .notice--info}
-
 **December 7, 2021** - AZUG December Meetup 2021 - An in-person meetup. [Read more!](https://www.azug.be/events/2021/12/07/azug-december-meetup-2021){: .btn .btn--info}
 {: .notice--info}
 
