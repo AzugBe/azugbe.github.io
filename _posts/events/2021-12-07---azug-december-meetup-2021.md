@@ -17,10 +17,7 @@ On **December 7, 2021**, let's get together and enjoy an afternoon with 3 talks!
 
 ## Agenda
 
-3 sessions to be announced. There is no agenda yet, a [**call for speakers**](https://sessionize.com/azug-december-meetup-2021) is open and runs until October 31, 2021.
-If you want to share your Azure story, head over and send in a talk!
-
-Sessions are 45 minutes.
+<script type="text/javascript" src="https://sessionize.com/api/v2/0romcjyl/view/GridSmart"></script>
 
 ## Practical details
 
@@ -28,7 +25,7 @@ Sessions are 45 minutes.
 
 **⚠ A [COVID certificate or CovidSafe ticket](https://covidsafe.be/) is required to join.**
 
-**Catering:** Will be available.
+**Catering:** Pizza
 
 **Event location:**<br />
 <img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-ordina.jpg">**Ordina Belgium**<br />
