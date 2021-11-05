@@ -17,6 +17,7 @@ On **December 7, 2021**, let's get together and enjoy an afternoon with 3 talks!
 
 ## Agenda
 
+<style>.sz-day__title, .sz-session__room { display: none !important; }</style>
 <script type="text/javascript" src="https://sessionize.com/api/v2/0romcjyl/view/GridSmart"></script>
 
 ## Practical details
