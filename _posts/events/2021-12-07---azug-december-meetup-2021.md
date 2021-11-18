@@ -26,7 +26,7 @@ Click on any session for more information.
 
 **Event date:** December 7, 2021 - you are welcome from 15:30, sessions start at 16:00.
 
-**⚠ A [COVID certificate or CovidSafe ticket](https://covidsafe.be/) is required to join.**
+**⚠ A [COVID certificate or CovidSafe ticket](https://covidsafe.be/) is required to join. According to current regulation in Belgium, wearing a face mask is required.**
 
 **Catering:** Pizza
 
