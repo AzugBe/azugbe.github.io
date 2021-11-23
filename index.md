@@ -14,8 +14,7 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**December 7, 2021** - AZUG December Meetup 2021 - An in-person meetup. [Read more!](https://www.azug.be/events/2021/12/07/azug-december-meetup-2021){: .btn .btn--info}
-{: .notice--info}
+There are no upcoming events.
 
 <hr />
 
