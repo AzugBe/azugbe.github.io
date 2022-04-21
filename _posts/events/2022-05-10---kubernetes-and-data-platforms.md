@@ -6,6 +6,7 @@ comments: true
 published: true
 categories: ["events"]
 tags: ["Events"]
+alias: ["/events/2022/kubernetes-and-data-platforms-on-azure"]
 author: Tom Kerkhove
 ---
 
