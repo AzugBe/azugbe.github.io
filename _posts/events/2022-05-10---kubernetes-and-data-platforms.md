@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "2022-05-10 - Kubernetes and data platforms"
+title: "2022-05-10 - Kubernetes and data platforms on Azure"
 date: 2022-05-10 17:00:00 +0000
 comments: true
 published: true
@@ -33,13 +33,13 @@ Tiensevest 132<br />
 Belgium
 
 ## Register via Pretix
-<link rel="stylesheet" type="text/css" href="https://pretix.eu/azug/20211021/widget/v1.css">
+<link rel="stylesheet" type="text/css" href="https://pretix.eu/azug/20220510/widget/v1.css">
 <script type="text/javascript" src="https://pretix.eu/widget/v1.en.js" async></script>
-<pretix-widget event="https://pretix.eu/azug/20211021/"></pretix-widget>
+<pretix-widget event="https://pretix.eu/azug/20220510/"></pretix-widget>
 <noscript>
    <div class="pretix-widget">
         <div class="pretix-widget-info-message">
-            JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://pretix.eu/azug/20211021/">click here</a>.
+            JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://pretix.eu/azug/20220510/">click here</a>.
         </div>
     </div>
 </noscript>

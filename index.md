@@ -14,7 +14,7 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**2022-05-10 - Kubernetes and data platforms** 
+**2022-05-10 - Kubernetes and data platforms on Azure** 
 After months of being confined to our desks to learn and share experiences about Azure, the time has come to leave our desks behind and meet up in person. Let's get together and enjoy an evening about Kubernetes & data platforms! [Register here!](https://www.azug.be/events/2022/05/10/kubernetes-and-data-platforms){: .btn .btn--success}
 
 <hr />
