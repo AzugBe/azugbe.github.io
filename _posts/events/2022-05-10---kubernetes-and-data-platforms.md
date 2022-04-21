@@ -27,7 +27,7 @@ Click on any session for more information.
 **Event date:** May 10, 2022 - you are welcome from 17:00, sessions start at 18:00.
 
 **Event location:**<br />
-<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-ordina.jpg">**Dataroots**<br />
+**Dataroots**<br />
 Tiensevest 132<br />
 3000 Leuven<br />
 Belgium
