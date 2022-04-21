@@ -13,7 +13,7 @@ Hello, is this thing on?
 After months of being confined to our desks to learn and share experiences about Azure,
 the time has come to leave our desks behind and meet up... In person!
 
-On **May 10, 2022**, grab your shoes and let's get together and enjoy an evening about Kubernetes & data platforms!
+On **May 10, 2022**, let's get together and enjoy an evening about Kubernetes & data platforms!
 
 ## Agenda
 
