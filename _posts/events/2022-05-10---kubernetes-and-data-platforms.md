@@ -26,11 +26,15 @@ Click on any session for more information.
 
 **Event date:** May 10, 2022 - you are welcome from 17:00, sessions start at 18:00.
 
+**Catering:** Available
+
 **Event location:**<br />
-**Dataroots**<br />
+<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-dataroots.png">**Dataroots**<br />
 Tiensevest 132<br />
 3000 Leuven<br />
 Belgium
+
+Dataroots is easy on walking distance of the train station of Leuven.
 
 ## Register via Pretix
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/azug/20220510/widget/v1.css">
