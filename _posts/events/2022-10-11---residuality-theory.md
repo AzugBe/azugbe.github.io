@@ -27,7 +27,7 @@ On **October 11, 2022**, let's get together and enjoy an evening with Barry O'Re
 **Catering:** Available
 
 **Event location:**<br />
-<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-ae.png">**AE**<br />
+<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-ae.jpg">**AE**<br />
 Interleuvenlaan 74<br />
 3001 Heverlee<br />
 Belgium
