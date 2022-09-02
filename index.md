@@ -20,6 +20,8 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 After months of being confined to our desks to learn and share experiences about Azure, the time has come to leave our desks behind and meet up in person. Let's get together and enjoy an evening about Kubernetes & data platforms! [Register here!](https://www.azug.be/events/2022/05/10/kubernetes-and-data-platforms){: .btn .btn--success}
 -->
 
+**2022-10-11** - Residuality Theory: An introduction [More info](https://www.azug.be/events/2022/10/11/residuality-theory){: .btn .btn--success}
+
 **2022-11-18 & 19 - CloudBrew 2022** - Our two-day Azure conference is back! [More info](https://www.cloudbrew.be/){: .btn .btn--success}
 
 <hr />
