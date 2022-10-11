@@ -37,6 +37,8 @@ In 2017, Salma Haidar joined the AZUG crew as a volunteer.
 
 In 2018, Glenn Colpaert joined the AZUG crew as a volunteer.
 
+In 2022, Tom Kerkhove decided to focus on other things allowing new people to join the crew.
+
 ## Crew
 
 ### Yves Goeleven
@@ -74,14 +76,6 @@ After being in Azure fulltime for 4+ years, including being Azure Advisor, Insid
 In Belgium, Kristof is assisting many of his customers in being successfull with Azure and helps them in building solutions both on infrastructure as a service and platform as a service.
 His main interest goes to highly scalable and available, multi tenant and multi region, complex cloud solutions. One of his current passions and focuses is Internet of Things.
 
-### Tom Kerkhove
-
-![](/assets/media/crew/tom-kerkhove.jpg)
-
-Tom works for Codit as an Azure Architect and R&D Manager. He's been recognized as a Microsoft Azure MVP & Advisor since 2014 and a GitHub Star in 2020. You can find him around on GitHub maintaining KEDA, Promitor, Azure Deprecation & Arcus.
-
-He turns coffee into scalable & secure cloud systems and writes about his adventures on <a href="https://blog.tomkerkhove.be" target="_blank">blog.tomkerkhove.be</a>.
-
 ### Salma Haidar
 
 ![](/assets/media/crew/salma-haidar.jpg)
@@ -103,10 +97,14 @@ Since the beginning of AZUG, several highly appreciated people helped out as boa
 
 ![Kurt Claeys](/assets/media/alumni/kurt-claeys2.jpg)
 
+### Panagiotis Kefalidis
+
+![Panagiotis Kefalidis](/assets/media/alumni/panagiotis-kefalidis.jpg)
+
 ### Sam Vanhoutte
 
 ![Sam Vanhoutte](/assets/media/alumni/sam-vanhoutte.jpg)
 
-### Panagiotis Kefalidis
+### Tom Kerkhove
 
-![Panagiotis Kefalidis](/assets/media/alumni/panagiotis-kefalidis.jpg)
+![Tom Kerkhove](/assets/media/crew/tom-kerkhove.jpg)
