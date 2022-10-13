@@ -31,8 +31,6 @@ Breaches of this Code of Conduct may result in disqualification from participati
 
 **Talk to Us**
 
-I
-
 We care about making AZUG and our events a safe space for everyone. If you need help, if you see or experience something that seems inappropriate or makes you or anyone else feel unsafe or uncomfortable, or want to get in touch about any related concerns, please tell us. Our team will respond to inquiries as soon as possible. If you feel comfortable enough or prefer to report an issue in-person, find anyone from the organization.
 
 * E-mail: contact us via [help@azug.be](mailto:help@azug.be?subject=Code-of-conduct)
