@@ -20,8 +20,7 @@ DataOps is a derivative from the DevOps principle which is taking the IT world b
 
 <img src="/assets/media/speakers/jan-van-meirvenne.png" alt="Jan Van Meirvenne" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker:** Most 90's kids loved Jurassic Parc for the dinosaurs. Jan loved it for the premise of a fully computerized environment. After building some of the movies 'Unix system' interfaces in the BASIC programming language, the passion for IT was sparked. The sense of wonder induced by that movie is something that Jan tries to pass on to every person he meets.
 
-<br /><br />
-
+<br />
 
 ### Supercharge your AKS deployments with GitOps and Flux v2
 
@@ -43,13 +42,13 @@ Belgium
 
 ## Register via Pretix
 
-<link rel="stylesheet" type="text/css" href="https://pretix.eu/azug/20190613/widget/v1.css">
+<link rel="stylesheet" type="text/css" href="https://pretix.eu/azug/20221207/widget/v1.css">
 <script type="text/javascript" src="https://pretix.eu/widget/v1.en.js" async></script>
-<pretix-widget event="https://pretix.eu/azug/20190613/"></pretix-widget>
+<pretix-widget event="https://pretix.eu/azug/20221207/"></pretix-widget>
 <noscript>
    <div class="pretix-widget">
         <div class="pretix-widget-info-message">
-            JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://pretix.eu/azug/20190613/">click here</a>.
+            JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://pretix.eu/azug/20221207/">click here</a>.
         </div>
     </div>
 </noscript>
