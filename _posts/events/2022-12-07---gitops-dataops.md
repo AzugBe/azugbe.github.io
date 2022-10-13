@@ -18,7 +18,7 @@ Be sure to make it on time as a little bird told us there is a Pizza truck as fr
 
 DataOps is a derivative from the DevOps principle which is taking the IT world by storm. In this session I will show you how to apply DataOps on top of an Azure-based analytical workload.
 
-<img src="/assets/media/speakers/jan-van-meirvenne.png" alt="Jan Van Meirvenne" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker:** Most 90's kids loved Jurassic Parc for the dinosaurs. Jan loved it for the premise of a fully computerized environment. After building some of the movies 'Unix system' interfaces in the BASIC programming language, the passion for IT was sparked. The sense of wonder induced by that movie is something that Jan tries to pass on to every person he meets.
+<img src="/assets/media/speakers/jan-van-meirvenne.png" alt="Jan Van Meirvenne" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker: Jan Van Meirvenne** Most 90's kids loved Jurassic Parc for the dinosaurs. Jan loved it for the premise of a fully computerized environment. After building some of the movies 'Unix system' interfaces in the BASIC programming language, the passion for IT was sparked. The sense of wonder induced by that movie is something that Jan tries to pass on to every person he meets.
 
 <br />
 
@@ -28,7 +28,7 @@ Flux set the standard for GitOps so it came as no surprise when Microsoft integr
 
 In this session, we will look at Flux v2 and its tight integration with Azure. We will look at best practices around structuring your git repositories, managing your deployments, and handling secrets. With GitOps you will supercharge your deployments to your Kubernetes clusters, wherever they are running.
 
-<img src="/assets/media/speakers/geert-baeke.png" alt="Geert Baeke" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker:** With over 20 years of experience as an engineer, architect and speaker he now focuses on cloud-native application stacks using containers, Kubernetes and serverless computing.
+<img src="/assets/media/speakers/geert-baeke.png" alt="Geert Baeke" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker: Geert Baeke** With over 20 years of experience as an engineer, architect and speaker he now focuses on cloud-native application stacks using containers, Kubernetes and serverless computing.
 
 ## Practical details
 
