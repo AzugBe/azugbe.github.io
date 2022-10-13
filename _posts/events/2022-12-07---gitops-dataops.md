@@ -9,7 +9,8 @@ tags: ["Events"]
 author: Glenn Colpaert
 ---
 
-In our last session of the year we welcome both Jan and Geert. We hope by then you will be recovered from Cloudbrew and are ready for an evening packed with their experiences.
+In our last session of the year we welcome both Jan and Geert. We hope by then you will be recovered from CloudBrew and are ready for an evening packed with their experiences.
+
 Be sure to make it on time as a little bird told us there is a Pizza truck as from 18h sharp!
 
 ## Agenda
