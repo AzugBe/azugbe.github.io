@@ -36,8 +36,8 @@ In this session, we will look at Flux v2 and its tight integration with Azure. W
 **Event date:** December 7th, 2022 - you are welcome from 17:30, food served at 18:00, session starts 18:30
 
 **Event location:**<br />
-<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-arxus-noslogan.png">Arxus - Main D'or<br />
-Veldkant 33A<br />
+<img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-arxus-noslogan.png">Arxus - Main d'Or<br />
+Veldkant 4<br />
 2550 Kontich <br />
 Belgium
 
