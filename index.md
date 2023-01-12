@@ -1,4 +1,4 @@
-﻿---
+---
 layout: splash
 title: Welcome to AZUG!
 tagline: Azure User Group Belgium
@@ -15,14 +15,9 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 ## Upcoming events
 
 <!--There are no upcoming events.-->
-<!--
-**2022-05-10 - Kubernetes and data platforms on Azure** 
-After months of being confined to our desks to learn and share experiences about Azure, the time has come to leave our desks behind and meet up in person. Let's get together and enjoy an evening about Kubernetes & data platforms! [Register here!](https://www.azug.be/events/2022/05/10/kubernetes-and-data-platforms){: .btn .btn--success}
--->
 
-**2022-11-18 & 19 - CloudBrew 2022** - Our two-day Azure conference is back! [More info](https://www.cloudbrew.be/){: .btn .btn--success}
-
-**2022-12-07** - DataOps and GitOps on Azure [More info](https://www.azug.be/events/2022/12/07/gitops-dataops){: .btn .btn--success}
+**2023-02-07 - Connected manufacturing using Azure services** 
+In our first session of the year, we'll have a look at connected manufacturing. See you in Ghent? [Register here!](https://www.azug.be/events/2023/02/07/connected-manufacturing-using-azure-services){: .btn .btn--success}
 
 <hr />
 
