@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "2023-02-07 - Connected manufacturing using azure services"
+title: "2023-02-07 - Connected manufacturing using Azure services"
 date: 2023-02-07 18:00:00 +0000
 comments: true
 published: true
@@ -9,13 +9,15 @@ tags: ["Events"]
 author: Kris van der Mast
 ---
 
-In our first session of the year, we'll have a look at DataOps and what it can mean for you. See you in Ghent?
+In our first session of the year, we'll have a look at connected manufacturing. See you in Ghent?
 
 ## Agenda
 
 ### Connected manufacturing using Azure services
 
-DataOps is a derivative from the DevOps principle which is taking the IT world by storm. In this session I will show you how to apply DataOps on top of an Azure-based analytical workload.
+A deep dive in the factory of the future using Azure PaaS services, and how to create added value.
+
+Topics that will be covered: Iot Edge, IoT hub, digital twins, Azure Functions, Event Hubs, data components, ...
 
 <img src="/assets/media/speakers/donovan-de-smedt.jpg" alt="Donovan De Smedt" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker: Donovan De Smedt** Senior Consultant Mobile, Web & IoT at delaware BeLux.  
 
@@ -29,7 +31,6 @@ Second speaker still needs to be confirmed.
 
 **Event location:**<br />
 <img width="120" height="60" align="right" alt="" src="/assets/media/sponsors/logo-delaware.png">Delaware - Ghent  
-
 Blue Tower 1  
 Sluisweg 1  
 9000 Gent  
