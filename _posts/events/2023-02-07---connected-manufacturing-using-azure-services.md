@@ -13,7 +13,7 @@ In our first session of the year we're going to start in Ghent.
 
 ## Agenda
 
-### Connected manufacturing using azure services
+### Connected manufacturing using Azure services
 
 DataOps is a derivative from the DevOps principle which is taking the IT world by storm. In this session I will show you how to apply DataOps on top of an Azure-based analytical workload.
 
