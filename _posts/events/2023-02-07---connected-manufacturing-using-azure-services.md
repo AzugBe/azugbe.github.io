@@ -15,7 +15,9 @@ In our first session of the year, we'll have a look at connected manufacturing. 
 
 ### Connected manufacturing using Azure services
 
-TODO
+A deep dive in the factory of the future using Azure PaaS services, and how to create added value.
+
+Topics that will be covered: Iot Edge, IoT hub, digital twins, Azure Functions, Event Hubs, data components, ...
 
 <img src="/assets/media/speakers/donovan-de-smedt.jpg" alt="Donovan De Smedt" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker: Donovan De Smedt** Senior Consultant Mobile, Web & IoT at delaware BeLux.  
 
