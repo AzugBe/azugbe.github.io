@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "2023-02-07 - Connected manufacturing using azure services"
-date: 2022-12-07 18:00:00 +0000
+date: 2023-02-07 18:00:00 +0000
 comments: true
 published: true
 categories: ["events"]
