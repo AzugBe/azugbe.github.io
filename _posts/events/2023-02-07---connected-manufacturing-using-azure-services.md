@@ -9,7 +9,7 @@ tags: ["Events"]
 author: Kris van der Mast
 ---
 
-In our first session of the year we're going to start in Ghent.
+In our first session of the year, we'll have a look at DataOps and what it can mean for you. See you in Ghent?
 
 ## Agenda
 
