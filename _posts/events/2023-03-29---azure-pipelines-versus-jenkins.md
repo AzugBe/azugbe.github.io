@@ -15,9 +15,9 @@ In our second session of the year, we'll have a look at Azure pipelines versus J
 
 ### Azure Pipelines versus Jenkins
 
-Jenkins is a well known, open source CI/CD platform that is wideley used by many companies. Microsoft has its own CI/CD platform, called Azure Pipelines, which focuses on integration with the Azure environment. In this talk, I will compare both Jenkins and Azure Pipelines and show the main differences and similarities between the two platforms. In a demo, I will explain how you can use both of them to build and deploy a small web service to Microsoft Azure.
+<img src="/assets/media/speakers/bart-verhoeven.jpg" alt="Bart Verhoeven" align="right" height="100" width="100" style="margin-right: 20px;">Jenkins is a well known, open source CI/CD platform that is wideley used by many companies. Microsoft has its own CI/CD platform, called Azure Pipelines, which focuses on integration with the Azure environment. In this talk, I will compare both Jenkins and Azure Pipelines and show the main differences and similarities between the two platforms. In a demo, I will explain how you can use both of them to build and deploy a small web service to Microsoft Azure.
 
-<img src="/assets/media/speakers/bart-verhoeven.jpg" alt="Bart Verhoeven" align="left" height="100" width="100" style="margin-right: 20px;">**Speaker: Bart Verhoeven** Motivated Linux and DevOps Engineer with a focus on Ops and a passion for Linux working at <a href="https://www.linkedin.com/company/axxes/">Axxes</a>.  
+**Speaker: Bart Verhoeven** Motivated Linux and DevOps Engineer with a focus on Ops and a passion for Linux working at <a href="https://www.linkedin.com/company/axxes/">Axxes</a>.  
 
 ### TBA
 
