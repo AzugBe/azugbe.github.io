@@ -19,6 +19,9 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 **2023-02-07 - Connected manufacturing using Azure services**<br>
 In our first session of the year, we'll have a look at connected manufacturing. See you in Ghent? [Register here!](https://www.azug.be/events/2023/02/07/connected-manufacturing-using-azure-services){: .btn .btn--success}
 
+**2023-03-29 - Azure Pipelines versus Jenkins**<br>
+In our second session of the year, we'll have a look at Azure pipelines versus Jenkins. See you in Antwerp? [Register here!](https://www.azug.be/events/2023/03/29/azure-pipelines-versus-jenkins){: .btn .btn--success}
+
 <hr />
 
 ## About AZUG
