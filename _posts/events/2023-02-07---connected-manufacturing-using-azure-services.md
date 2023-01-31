@@ -22,9 +22,15 @@ Topics that will be covered: Iot Edge, IoT hub, digital twins, Azure Functions, 
 
 **Speaker: Donovan De Smedt** Senior Consultant Mobile, Web & IoT at delaware BeLux.
 
-### TBA
+### Unleash the Power of NLP: Journey from TF-IDF to ChatGPT with Azure OpenAI
 
-Second speaker still needs to be confirmed.
+<img src="/assets/media/speakers/margaux-vander-plaetsen.jpg" alt="Margaux Vander Plaetsen" align="right" height="100" width="100" style="margin-right: 20px;">
+Discover the Thrilling World of NLP!
+
+Join us for a presentation exploring the progression of language models from TF-IDF to the cutting-edge ChatGPT. Get a deep dive into the Azure OpenAI service and learn how to effortlessly integrate it into your applications.
+Discover a wealth of possibilities, from real-world use cases to increased efficiency, that this service can bring to your life.
+
+**Speaker: Margaux Vander Plaetsen** Cloud Solution Architect, Microsoft.
 
 ## Practical details
 
