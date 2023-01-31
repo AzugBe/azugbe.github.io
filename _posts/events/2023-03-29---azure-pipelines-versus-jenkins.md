@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["events"]
 tags: ["Events"]
-author: "Kris van der Mast", "Mike Martin"
+author: ["Kris van der Mast", "Mike Martin"]
 ---
 
 In our second session of the year, we'll have a look at Azure pipelines versus Jenkins. See you in Antwerp?
