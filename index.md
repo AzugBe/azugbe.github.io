@@ -19,6 +19,9 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 **2023-03-29 - Azure Pipelines versus Jenkins**<br>
 In our second session of the year, we'll have a look at Azure pipelines versus Jenkins. See you in Antwerp? [Register here!](https://www.azug.be/events/2023/03/29/azure-pipelines-versus-jenkins){: .btn .btn--success}
 
+**2023-04-20 - Building Azure PaaS Solutions and Platforms**<br>
+In our third session of the year, we'll have two session that focus on building solutions with Azure PaaS. See you there? [Register here!](https://www.azug.be/events/2023/04/20/building-azure-paas-solutions-and-platforms){: .btn .btn--success}
+
 <hr />
 
 ## About AZUG
