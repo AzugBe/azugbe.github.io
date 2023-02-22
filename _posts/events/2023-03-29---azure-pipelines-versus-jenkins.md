@@ -28,9 +28,9 @@ Second speaker will be confirmed soon.
 **Event date:** March 29th, 2023 - you are welcome from 17:30, food served at 18:00, session starts 18:30.
 
 **Event location:**<br />
-<img width="120" height="60" align="right" alt="Axxess" src="/assets/media/sponsors/logo-axxes.png">Axxes - Antwerp  
-Entrepotkaai 9  
-2000 Antwerpen  
+<img width="120" height="60" align="right" alt="Axxess" src="/assets/media/sponsors/logo-axxes.png">Axxes - Antwerp<br/>
+Entrepotkaai 9<br/>
+2000 Antwerpen<br/>
 Belgium
 
 ## Register via Pretix
