@@ -50,7 +50,7 @@ In this talk, you’ll get insights on how we used various Azure services like I
 **Event date:** April 20th, 2023 - you are welcome from 17:30, food served at 18:00, session starts 18:30.
 
 **Event location:**<br />
-<img width="120" height="60" align="right" alt="Zure" src="/assets/media/sponsors/logo-zure.png">Zure  
+<img width="120" height="60" align="right" alt="Zure" src="/assets/media/sponsors/logo-zure.png">Zure<br/>
 Xavier De Cocklaan 70<br/>
 9831 Sint-Martens-Latem<br/>
 Belgium
