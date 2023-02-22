@@ -51,8 +51,8 @@ In this talk, you’ll get insights on how we used various Azure services like I
 
 **Event location:**<br />
 <img width="120" height="60" align="right" alt="Zure" src="/assets/media/sponsors/logo-zure.png">Zure  
-Xavier De Cocklaan 70
-9831 Sint-Martens-Latem
+Xavier De Cocklaan 70<br/>
+9831 Sint-Martens-Latem<br/>
 Belgium
 
 ## Register via Pretix
