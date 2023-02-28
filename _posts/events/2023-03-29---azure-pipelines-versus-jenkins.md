@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "2023-03-29 - Azure Pipelines versus Jenkins"
+title: "2023-03-29 - Azure Pipelines versus Jenkins and Azure Load Testing"
 date: 2023-03-29 18:00:00 +0000
 comments: true
 published: true
@@ -9,7 +9,7 @@ tags: ["Events"]
 author: ["Kris van der Mast", "Mike Martin"]
 ---
 
-In our second session of the year, we'll have a look at Azure pipelines versus Jenkins. See you in Antwerp?
+In our second session of the year, we'll have a look at Azure pipelines versus Jenkins. And as an a second topic we will discuss Azure Load Testing in "There are too many of them! What are we going to do?", so 2 for the price of 1! See you in Antwerp?
 
 ## Agenda
 
