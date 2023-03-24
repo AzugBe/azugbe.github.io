@@ -30,9 +30,9 @@ In this talk, I'll provide an overview of Azure Load Testing and how you can use
 
 **Event date:** March 29th, 2023 - you are welcome from 17:30, food served at 18:00, session starts 18:30.
 
-**Event location:**<br />
-<img width="120" height="60" align="right" alt="Axxess" src="/assets/media/sponsors/logo-axxes.png">Axxes - Antwerp<br/>
-Entrepotkaai 9<br/>
+**Event location: Address has changed!**<br />
+<img width="120" height="60" align="right" alt="Axxess" src="/assets/media/sponsors/logo-axxes.png">Urban City<br/>
+Ankerrui 9<br/>
 2000 Antwerpen<br/>
 Belgium
 
