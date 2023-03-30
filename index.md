@@ -16,12 +16,6 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 <!--There are no upcoming events.-->
 
-**2023-03-29 - "Azure Pipelines versus Jenkins" and "Azure Load Testing"**<br>
-
-**Note: Address has changed!**  
-
-In our second session of the year, we'll have a look at Azure pipelines versus Jenkins. And as an a second topic we will discuss Azure Load Testing in "There are too many of them! What are we going to do?", so 2 for the price of 1! See you in Antwerp? [Register here!](https://www.azug.be/events/2023/03/29/azure-pipelines-versus-jenkins){: .btn .btn--success}
-
 **2023-04-20 - Building Azure PaaS Solutions and Platforms**<br>
 In our third session of the year, we'll have two session that focus on building solutions with Azure PaaS. See you there? [Register here!](https://www.azug.be/events/2023/04/20/building-azure-paas-solutions-and-platforms){: .btn .btn--success}
 
