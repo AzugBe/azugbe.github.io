@@ -51,7 +51,8 @@ Yves has been shipping enterprise and cloud software since 2001. He is specializ
 
 ![](/assets/media/crew/kris-vandermast.jpg)
 
-As a freelance Microsoft technologies expert Kris helps his clients to reach their goals. Actively involved in the global community he is a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/38656?fullName=Kris%20%20van%20der%20Mast) since 2007. First for ASP.NET and since 2016 achieving in 2 disciplines: Azure and Visual Studio and Development Technologies. Kris is also a Microsoft ASP Insider, Microsoft Azure Advisor and a Belgian Microsoft Extended Experts Team (MEET) member. In the Belgian community Kris is active as a board member of Belgian Azure User Group [AZUG](https://www.azug.be) and is chairman of the Belgian User Group Initiative (BUG). Since he started with .NET back in 2002 he's also been active on the [ASP.NET forums](https://forums.asp.net/members/XIII.aspx) where is also a moderator. For his professional profile you can check out his [LinkedIn](https://www.linkedin.com/in/krisvandermast). His personal site can be found at [www.krisvandermast.com](https://www.krisvandermast.com). Kris is a public (inter)national speaker and is a co-organizer of the [CloudBrew](https://www.cloudbrew.be) conference.
+As a freelance Microsoft technologies expert Kris helps his clients to reach their goals. Actively involved in the global community he was a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/38656?fullName=Kris%20%20van%20der%20Mast) between April 2007 and July 2022. First for ASP.NET and since 2016 achieving in 2 disciplines: Azure and Visual Studio and Development Technologies. Kris is also a Microsoft ASP Insider, Microsoft Azure Advisor and a Belgian Microsoft Extended Experts Team (MEET) member. In the Belgian community Kris is active as a board member of Belgian Azure User Group [AZUG](https://www.azug.be) and is chairman of the Belgian User Group Initiative (BUG). Since he started with .NET back in 2002 he's also been active on the [ASP.NET forums](https://forums.asp.net/members/XIII.aspx) where was also a moderator until the forums closed end of June 2022.  
+For his professional profile you can check out his [LinkedIn](https://www.linkedin.com/in/krisvandermast). His personal site can be found at [www.krisvandermast.com](https://www.krisvandermast.com). Kris is a public (inter)national speaker and is a co-organizer of the [CloudBrew](https://www.cloudbrew.be) conference. He gradudated in 2022 at KUL university for a post graduate Big data analytics.
 
 ### Maarten Balliauw
 
@@ -80,7 +81,9 @@ His main interest goes to highly scalable and available, multi tenant and multi 
 
 ![](/assets/media/crew/salma-haidar.jpg)
 
-Salma Haidar joined the azug crew in 2017. Dedicated to banking & finance, her domain & enthusiasm. Social, friendly, active and competitive. Her blog is currently under construction at [salmahaidar.com](https://www.salmahaidar.com). In the meantime one can check out her [professional background](https://www.linkedin.com/in/salmahaidar).
+[Salma Haidar, CFA](https://www.linkedin.com/in/salmahaidar) is a data analyst with a wealth of experience in the financial industry, having held key roles at internationally renowned banks, and achieved the highly coveted Chartered Financial Analyst (CFA) designation.  She is currently pursuing a PhD in computer vision, specializing in developing learning representations from hyperspectral data.  
+In addition to her academic pursuits, Salma is a crew member of the Belgian Azure User Group, actively volunteering to the
+organization of the data sciences track at the [CloudBrew conference](https://www.cloudbrew.be/).  
 
 ### Glenn Colpaert
 
