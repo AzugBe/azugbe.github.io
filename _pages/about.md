@@ -21,11 +21,11 @@ Want to stay up to date? <a href="https://azug.us2.list-manage.com/subscribe/?u=
 
 ## Board
 
-The current board is <a href="https://cloudshaper.wordpress.com"><span style="color: #455f9c;">Yves Goeleven</span></a>, <a href="https://blog.krisvandermast.com/"><span style="color: #455f9c;">Kris van der Mast</span></a> and <a href="https://blog.maartenballiauw.be/"><span style="color: #455f9c;">Maarten Balliauw</span></a>.
+The current board is <a href="https://www.goeleven.com"><span style="color: #455f9c;">Yves Goeleven</span></a>, <a href="https://blog.krisvandermast.com/"><span style="color: #455f9c;">Kris van der Mast</span></a> and <a href="https://blog.maartenballiauw.be/"><span style="color: #455f9c;">Maarten Balliauw</span></a>.
 
 ## History
 
-AZUG was founded near the end of 2009 by several Belgian .NET community members: <a href="https://www.devitect.net/"><span style="color: #455f9c;">Kurt Claeys</span></a>, <a href="https://cloudshaper.wordpress.com"><span style="color: #455f9c;">Yves Goeleven</span></a> and <a href="https://blog.maartenballiauw.be/"><span style="color: #455f9c;">Maarten Balliauw</span></a>. Other names involved are Gabriele Bozzi (Kaukana), Patrick Verbruggen (Spikes), Marc Vanderheyden (Spikes), Rudi Claes (InfoSupport), Marco Braakman (InfoSupport) and Bart De Boeck.
+AZUG was founded near the end of 2009 by several Belgian .NET community members: <a href="https://www.devitect.net/"><span style="color: #455f9c;">Kurt Claeys</span></a>, <a href="https://www.goeleven.com"><span style="color: #455f9c;">Yves Goeleven</span></a> and <a href="https://blog.maartenballiauw.be/"><span style="color: #455f9c;">Maarten Balliauw</span></a>. Other names involved are Gabriele Bozzi (Kaukana), Patrick Verbruggen (Spikes), Marc Vanderheyden (Spikes), Rudi Claes (InfoSupport), Marco Braakman (InfoSupport) and Bart De Boeck.
 
 In 2010 <a href="https://www.krisvandermast.com/"><span style="color: #455f9c;">Kris van der Mast</span></a> joined the board.
 
@@ -45,7 +45,7 @@ In 2022, Tom Kerkhove decided to focus on other things allowing new people to jo
 
 ![](/assets/media/crew/yves-goeleven.jpg)
 
-Yves has been shipping enterprise and cloud software since 2001. He is specialized in the design of distributed software systems using messaging. Next to being the founder of <a href="https://www.MessageHandler.net">MessageHandler.net</a>, an online platform for the co-creation of message processing logic, he is also active as a Solution Architect for Particular Software (NServiceBus), which provides a messaging platform for developing such logic. Yves has been awarded Windows Azure MVP for the last 5 years and is a regular on the speaking circuit.
+Yves is a freelance solution architect and has been shipping enterprise and cloud software since 2001. He is specialized in the design of distributed software systems on the Microsoft Azure Platform. Next to his freelance activities he is als the founder of <a href="https://www.clubmanagement.io">clubmanagement.io</a>, a SAAS service for managing sportsclubs, and <a href="https://www.messagehandler.net">messagehandler.net</a>, a set of software libraries that make it easier to develop software with C# on Azure. Yves has been awarded the Microsoft Azure MVP 9 times in a row and can occasionally be found on the speaking circuit.
 
 ### Kris van der Mast
 
