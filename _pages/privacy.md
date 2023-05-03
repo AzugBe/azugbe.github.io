@@ -304,7 +304,7 @@ For paid events, additional payment data may be collected in order to properly h
 AZUG (BUG - Initiative vzw) may use badges and badge scanning technology at its live events for security reasons and to validate admission.
 
 * When badges are in use at an event, the data subject's full name, company and other information may be printed and visible to attendees and exhibitors.
-* The data subject needs to allow AZUG (BUG - Initiative vzw) to scan badges and/or tickets to gain entry to the event and to other restricted areas.
+* The data subject allows AZUG (BUG - Initiative vzw) to scan badges and/or tickets to gain entry to the event and to other restricted areas.
 
 All other badge scanning is optional. You do not have to let anyone else scan your badge.
 
