@@ -92,6 +92,15 @@ organization of the data sciences track at the [CloudBrew conference](https://ww
 Glenn Colpaert is the founder and CTO of Zure Belgium. He is a Microsoft Azure MVP since 2014 and is a frequent speaker at national and international events.
 Currently, he’s mainly focused on designing and building secure, scalable cloud-based solutions on Microsoft Azure. His blog can be found on <a href="https://glenncolpaert.github.io/">https://glenncolpaert.github.io/</a>.
 
+### Karel De Winter
+
+![](/assets/media/crew/karel-dewinter.jpg)
+
+Karel is an Azure Technical Trainer at Microsoft and former Microsoft MVP Azure, who loves to share his knowledge with others and give them a different perspective based on hands-on experience.
+He helps customers, partners and others to achieve more and empower their Azure skills to ensure they are successful on the Azure platform. His core areas of expertise are Microsoft Azure and the Microsoft Hybrid Cloud Platform.
+As a technology enthusiast and a community member, he frequently shares his knowledge about experiences with Azure and other Microsoft technologies.
+When offline and not working, he enjoys having family time and running into the wild. His blog can be found on <a href="https://kareldewinter.com/">https://kareldewinter.com/</a>.
+
 ## Alumni
 
 Since the beginning of AZUG, several highly appreciated people helped out as board or crew members and helped shape the Belgian Azure Community as we know it today.
