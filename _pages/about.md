@@ -37,7 +37,7 @@ In 2017, Salma Haidar joined the AZUG crew as a volunteer.
 
 In 2018, Glenn Colpaert joined the AZUG crew as a volunteer.
 
-In 2022, Tom Kerkhove decided to focus on other things allowing new people to join the crew.
+In 2022, Tom Kerkhove decided to focus on other things allowing new people to join the crew. Karel De Winter joined the team.
 
 ## Crew
 
