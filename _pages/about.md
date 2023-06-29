@@ -119,4 +119,4 @@ Since the beginning of AZUG, several highly appreciated people helped out as boa
 
 ### Tom Kerkhove
 
-![Tom Kerkhove](/assets/media/crew/tom-kerkhove.jpg)
+![Tom Kerkhove](/assets/media/alumni/tom-kerkhove.jpg)
