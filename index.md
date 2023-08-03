@@ -17,7 +17,7 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 <!--There are no upcoming events.-->
 
 **2023-09-28 - Identity Lifecycle Management with Microsoft Entra**<br>
-In our first session after summer we'll be talking about Licecycle Management with Microsoft Entra. We'll be adding a second speaker to the lineup pretty soon! See you there? [Register here!](https://www.azug.be/events/2023/09/28/idenity-lifecycle-management){: .btn .btn--success}
+In our first session after summer we'll be talking about Licecycle Management with Microsoft Entra. We'll be adding a second speaker to the lineup pretty soon! See you there? [Register here!](https://www.azug.be/events/2023/09/28/identity-lifecycle-management){: .btn .btn--success}
 
 
 **2023-12-07 & 08 - CloudBrew 2023** - Two-day Azure conference. [More info](https://www.cloudbrew.be/){: .btn .btn--success}
