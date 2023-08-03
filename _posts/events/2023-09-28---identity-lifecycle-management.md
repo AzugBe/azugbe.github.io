@@ -28,7 +28,7 @@ As people onboard and leave the organization, provisioning and deprovisioning is
 At the end of the session you will understand the capabilities of Microsoft Entra ID Governance, how it bring value and how to get started start with Access packages and Lifecycle Workflows.
 
 
-**Speaker: Tim Sente** Azure Cloud Practice Manager at DevoTeam.
+**Speaker: Tim Sente** Azure Cloud Practice Manager at Devoteam.
 
 ### 2nd Session TBA - Soon!
 
@@ -39,7 +39,7 @@ At the end of the session you will understand the capabilities of Microsoft Entr
 **Event date:** September 28th, 2023 - you are welcome from 17:30, food served at 18:00, session starts 18:30.
 
 **Event location:**<br />
-<img width="120" height="60" align="right" alt="DevoTeam" src="/assets/media/sponsors/logo-devoteam.png">DevoTeam<br/>
+<img width="120" height="60" align="right" alt="Devoteam" src="/assets/media/sponsors/logo-devoteam.png">DevoTeam<br/>
 Cunniganlaan 3<br/>
 1831 Machelen<br/>
 Belgium
