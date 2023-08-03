@@ -23,10 +23,9 @@ Microsoft Entra ID Governance, is Microsoft's complete identity governance produ
 With access packages customers can bring access management directly towards its end-users, allowing end-users to request the access they need and making business owners responsible instead of your IT-department being man in the middle during the whole process.
 
 **Lifecycle Workflows**
-
 As people onboard and leave the organization, provisioning and deprovisioning is critical to maintain security and compliance. Lifecycle Workflows in Microsoft Entra ID Governance can help with pre-built templates for common tasks.
-At the end of the session you will understand the capabilities of Microsoft Entra ID Governance, how it bring value and how to get started start with Access packages and Lifecycle Workflows.
 
+At the end of the session you will understand the capabilities of Microsoft Entra ID Governance, how it brings value and how to get started with Access packages and Lifecycle Workflows.
 
 **Speaker: Tim Sente** Azure Cloud Practice Manager at Devoteam.
 
