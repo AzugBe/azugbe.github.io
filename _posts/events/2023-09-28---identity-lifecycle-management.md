@@ -9,7 +9,7 @@ tags: ["Events"]
 author: ["Glenn Colpaert"]
 ---
 
-In our first session after summer we'll be talking about Licecycle Management with Microsoft Entra. Wand how to build a feature-rich OpenID Connect IAM Platform. See you there?
+In our first session after summer we'll be talking about Licecycle Management with Microsoft Entra. And how to build a feature-rich OpenID Connect IAM Platform. See you there?
 
 ## Agenda
 
