@@ -23,12 +23,11 @@ Microsoft Entra ID Governance, is Microsoft's complete identity governance produ
 With access packages customers can bring access management directly towards its end-users, allowing end-users to request the access they need and making business owners responsible instead of your IT-department being man in the middle during the whole process.
 
 **Lifecycle Workflows**
-
 As people onboard and leave the organization, provisioning and deprovisioning is critical to maintain security and compliance. Lifecycle Workflows in Microsoft Entra ID Governance can help with pre-built templates for common tasks.
-At the end of the session you will understand the capabilities of Microsoft Entra ID Governance, how it bring value and how to get started start with Access packages and Lifecycle Workflows.
 
+At the end of the session you will understand the capabilities of Microsoft Entra ID Governance, how it brings value and how to get started with Access packages and Lifecycle Workflows.
 
-**Speaker: Tim Sente** Azure Cloud Practice Manager at DevoTeam.
+**Speaker: Tim Sente** Azure Cloud Practice Manager at Devoteam.
 
 ### Building a feature-rich OpenID Connect Identity and Access Management Platform
 
@@ -47,7 +46,7 @@ Whether you're just starting out with OpenID Connect or you're looking to take y
 **Event date:** September 28th, 2023 - you are welcome from 17:30, food served at 18:00, session starts 18:30.
 
 **Event location:**<br />
-<img width="120" height="60" align="right" alt="DevoTeam" src="/assets/media/sponsors/logo-devoteam.png">DevoTeam<br/>
+<img width="120" height="60" align="right" alt="Devoteam" src="/assets/media/sponsors/logo-devoteam.png">DevoTeam<br/>
 Cunniganlaan 3<br/>
 1831 Machelen<br/>
 Belgium
