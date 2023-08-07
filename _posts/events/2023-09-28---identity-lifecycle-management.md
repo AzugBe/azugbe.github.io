@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "2023-09-28 - Identity Lifecycle Management with Microsoft Entra"
+title: "2023-09-28 - Identity Lifecycle Management with Microsoft Entra and building an OpenID Connect IAM Platform"
 date: 2023-09-28 18:00:00 +0000
 comments: true
 published: true
@@ -9,7 +9,7 @@ tags: ["Events"]
 author: ["Glenn Colpaert"]
 ---
 
-In our first session after summer we'll be talking about Licecycle Management with Microsoft Entra. We'll be adding a second speaker to the lineup pretty soon! See you there?
+In our first session after summer we'll be talking about Licecycle Management with Microsoft Entra. Wand how to build a feature-rich OpenID Connect IAM Platform. See you there?
 
 ## Agenda
 
@@ -30,9 +30,17 @@ At the end of the session you will understand the capabilities of Microsoft Entr
 
 **Speaker: Tim Sente** Azure Cloud Practice Manager at DevoTeam.
 
-### 2nd Session TBA - Soon!
+### Building a feature-rich OpenID Connect Identity and Access Management Platform
 
-**Speaker: TBA** 
+<img src="/assets/media/speakers/wesley-cabus.jpg" alt="Wesley Cabus" align="right" height="100" width="100" style="margin-right: 20px;">
+
+In today's world, identity and access management (IAM in short) is critical to protecting confidential data and applications. With the increasing adoption of cloud-based applications, building a scalable and secure identity and access management platform is a must for organizations of all sizes.
+
+In this session, you'll learn about the journey of building an advanced IAM platform based on Duende IdentityServer. We'll discuss the standard capabilities of IdentityServer and explore how we extended it with features such as multi-factor authentication, home realm discovery, and user impersonation. You'll also learn about the best practices for building a resilient and secure platform, including strategies for handling scale and redundancy.
+
+Whether you're just starting out with OpenID Connect or you're looking to take your identity and access management platform to the next level, this session is for you.
+
+**Speaker: Wesley Cabus** Coding Architect, Coffee Enthusiast at Xpirit Belgium
 
 ## Practical details
 
