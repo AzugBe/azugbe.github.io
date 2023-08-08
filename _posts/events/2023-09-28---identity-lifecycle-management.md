@@ -47,7 +47,7 @@ Whether you're just starting out with OpenID Connect or you're looking to take y
 
 **Event location:**<br />
 <img width="120" height="60" align="right" alt="Devoteam" src="/assets/media/sponsors/logo-devoteam.png">DevoTeam<br/>
-Cunniganlaan 3<br/>
+Culliganlaan 3<br/>
 1831 Machelen<br/>
 Belgium
 
