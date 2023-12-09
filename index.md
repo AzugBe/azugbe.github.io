@@ -14,9 +14,7 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-<!--There are no upcoming events.-->
-
-**2023-12-07 & 08 - CloudBrew 2023** - Two-day Azure conference. [More info](https://www.cloudbrew.be/){: .btn .btn--success}
+There are no upcoming events.
 
 <!--**2023-04-20 - Building Azure PaaS Solutions and Platforms**<br>
 In our third session of the year, we'll have two session that focus on building solutions with Azure PaaS. See you there? [Register here!](https://www.azug.be/events/2023/04/20/building-azure-paas-solutions-and-platforms){: .btn .btn--success}-->
