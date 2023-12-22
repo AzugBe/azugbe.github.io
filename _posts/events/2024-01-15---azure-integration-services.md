@@ -13,13 +13,13 @@ In our first session of the year, we'll focus on Azure Integration Services. See
 
 ## Agenda
 
-### Session TBA
+### Azure Integration Services for Developers
 
 <img src="/assets/media/speakers/michael-stephenson.jpg" alt="Michael Stephenson" align="right" height="100" width="100" style="margin-right: 20px;">
 
 **Speaker: Michael Stephenson** Coach and Consultant helping customer successfully adopt Microsoft Azure.
 
-### Session TBA
+### Azure Cost Management with Serverless360
 
 <img src="/assets/media/speakers/saravana-kuma.jpg" alt="Saravana Kuma" align="right" height="100" width="100" style="margin-right: 20px;">
 
