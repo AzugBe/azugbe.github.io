@@ -31,8 +31,8 @@ In this talk, I'll provide an overview of Azure Load Testing and how you can use
 **Event date:** March 29th, 2023 - you are welcome from 17:30, apetizers served at 18:00, session starts 18:30, dinner served at 19:15 between the sessions.
 
 **Event location: Address**<br />
-<img width="120" height="60" align="right" alt="Axxess" src="/assets/media/sponsors/logo-axxes.png">Urban City<br/>
-Ghelamco Arena - Pitch Arena<br/>
+<img width="120" height="60" align="right" alt="Axxess" src="/assets/media/sponsors/logo-axxes.png">Ghelamco Arena - Pitch Arena<br/>
+Ottergemsesteenweg Zuid 808<br/>
 9000 Gent<br/>
 Belgium
 
