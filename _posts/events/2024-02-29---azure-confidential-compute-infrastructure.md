@@ -37,7 +37,7 @@ Belgium
 
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/azug/2024022/widget/v1.css">
 <script type="text/javascript" src="https://pretix.eu/widget/v1.en.js" async></script>
-<pretix-widget event="https://pretix.eu/azug/2024022/"></pretix-widget>
+<pretix-widget event="https://pretix.eu/azug/2024022/" single-item-select="button"></pretix-widget>
 <noscript>
    <div class="pretix-widget">
         <div class="pretix-widget-info-message">
