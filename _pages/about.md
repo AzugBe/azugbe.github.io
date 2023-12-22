@@ -21,11 +21,11 @@ Want to stay up to date? <a href="https://azug.us2.list-manage.com/subscribe/?u=
 
 ## Board
 
-The current board is <a href="https://cloudshaper.wordpress.com"><span style="color: #455f9c;">Yves Goeleven</span></a>, <a href="https://blog.krisvandermast.com/"><span style="color: #455f9c;">Kris van der Mast</span></a> and <a href="https://blog.maartenballiauw.be/"><span style="color: #455f9c;">Maarten Balliauw</span></a>.
+The current board is <a href="https://www.goeleven.com"><span style="color: #455f9c;">Yves Goeleven</span></a>, <a href="https://blog.krisvandermast.com/"><span style="color: #455f9c;">Kris van der Mast</span></a> and <a href="https://blog.maartenballiauw.be/"><span style="color: #455f9c;">Maarten Balliauw</span></a>.
 
 ## History
 
-AZUG was founded near the end of 2009 by several Belgian .NET community members: <a href="https://www.devitect.net/"><span style="color: #455f9c;">Kurt Claeys</span></a>, <a href="https://cloudshaper.wordpress.com"><span style="color: #455f9c;">Yves Goeleven</span></a> and <a href="https://blog.maartenballiauw.be/"><span style="color: #455f9c;">Maarten Balliauw</span></a>. Other names involved are Gabriele Bozzi (Kaukana), Patrick Verbruggen (Spikes), Marc Vanderheyden (Spikes), Rudi Claes (InfoSupport), Marco Braakman (InfoSupport) and Bart De Boeck.
+AZUG was founded near the end of 2009 by several Belgian .NET community members: <a href="https://www.devitect.net/"><span style="color: #455f9c;">Kurt Claeys</span></a>, <a href="https://www.goeleven.com"><span style="color: #455f9c;">Yves Goeleven</span></a> and <a href="https://blog.maartenballiauw.be/"><span style="color: #455f9c;">Maarten Balliauw</span></a>. Other names involved are Gabriele Bozzi (Kaukana), Patrick Verbruggen (Spikes), Marc Vanderheyden (Spikes), Rudi Claes (InfoSupport), Marco Braakman (InfoSupport) and Bart De Boeck.
 
 In 2010 <a href="https://www.krisvandermast.com/"><span style="color: #455f9c;">Kris van der Mast</span></a> joined the board.
 
@@ -37,7 +37,7 @@ In 2017, Salma Haidar joined the AZUG crew as a volunteer.
 
 In 2018, Glenn Colpaert joined the AZUG crew as a volunteer.
 
-In 2022, Tom Kerkhove decided to focus on other things allowing new people to join the crew.
+In 2022, Tom Kerkhove decided to focus on other things allowing new people to join the crew. Karel De Winter joined the team.
 
 ## Crew
 
@@ -45,13 +45,14 @@ In 2022, Tom Kerkhove decided to focus on other things allowing new people to jo
 
 ![](/assets/media/crew/yves-goeleven.jpg)
 
-Yves has been shipping enterprise and cloud software since 2001. He is specialized in the design of distributed software systems using messaging. Next to being the founder of <a href="https://www.MessageHandler.net">MessageHandler.net</a>, an online platform for the co-creation of message processing logic, he is also active as a Solution Architect for Particular Software (NServiceBus), which provides a messaging platform for developing such logic. Yves has been awarded Windows Azure MVP for the last 5 years and is a regular on the speaking circuit.
+Yves is a freelance solution architect and has been shipping enterprise and cloud software since 2001. He is specialized in the design of distributed software systems on the Microsoft Azure Platform. Next to his freelance activities he is als the founder of <a href="https://www.clubmanagement.io">clubmanagement.io</a>, a SAAS service for managing sportsclubs, and <a href="https://www.messagehandler.net">messagehandler.net</a>, a set of software libraries that make it easier to develop software with C# on Azure. Yves has been awarded the Microsoft Azure MVP 9 times in a row and can occasionally be found on the speaking circuit.
 
 ### Kris van der Mast
 
 ![](/assets/media/crew/kris-vandermast.jpg)
 
-As a freelance Microsoft technologies expert Kris helps his clients to reach their goals. Actively involved in the global community he is a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/38656?fullName=Kris%20%20van%20der%20Mast) since 2007. First for ASP.NET and since 2016 achieving in 2 disciplines: Azure and Visual Studio and Development Technologies. Kris is also a Microsoft ASP Insider, Microsoft Azure Advisor and a Belgian Microsoft Extended Experts Team (MEET) member. In the Belgian community Kris is active as a board member of Belgian Azure User Group [AZUG](https://www.azug.be) and is chairman of the Belgian User Group Initiative (BUG). Since he started with .NET back in 2002 he's also been active on the [ASP.NET forums](https://forums.asp.net/members/XIII.aspx) where is also a moderator. For his professional profile you can check out his [LinkedIn](https://www.linkedin.com/in/krisvandermast). His personal site can be found at [www.krisvandermast.com](https://www.krisvandermast.com). Kris is a public (inter)national speaker and is a co-organizer of the [CloudBrew](https://www.cloudbrew.be) conference.
+As a freelance Microsoft technologies expert Kris helps his clients to reach their goals. Actively involved in the global community he was a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/38656?fullName=Kris%20%20van%20der%20Mast) between April 2007 and July 2022. First for ASP.NET and since 2016 achieving in 2 disciplines: Azure and Visual Studio and Development Technologies. Kris is also a Microsoft ASP Insider, Microsoft Azure Advisor and a Belgian Microsoft Extended Experts Team (MEET) member. In the Belgian community Kris is active as a board member of Belgian Azure User Group [AZUG](https://www.azug.be) and is chairman of the Belgian User Group Initiative (BUG). Since he started with .NET back in 2002 he's also been active on the [ASP.NET forums](https://forums.asp.net/members/XIII.aspx) where was also a moderator until the forums closed end of June 2022.  
+For his professional profile you can check out his [LinkedIn](https://www.linkedin.com/in/krisvandermast). His personal site can be found at [www.krisvandermast.com](https://www.krisvandermast.com). Kris is a public (inter)national speaker and is a co-organizer of the [CloudBrew](https://www.cloudbrew.be) conference. He gradudated in 2022 at KUL university for a post graduate Big data analytics.
 
 ### Maarten Balliauw
 
@@ -80,7 +81,9 @@ His main interest goes to highly scalable and available, multi tenant and multi 
 
 ![](/assets/media/crew/salma-haidar.jpg)
 
-Salma Haidar joined the azug crew in 2017. Dedicated to banking & finance, her domain & enthusiasm. Social, friendly, active and competitive. Her blog is currently under construction at [salmahaidar.com](https://www.salmahaidar.com). In the meantime one can check out her [professional background](https://www.linkedin.com/in/salmahaidar).
+[Salma Haidar, CFA](https://www.linkedin.com/in/salmahaidar) is a data analyst with a wealth of experience in the financial industry, having held key roles at internationally renowned banks, and achieved the highly coveted Chartered Financial Analyst (CFA) designation.  She is currently pursuing a PhD in computer vision, specializing in developing learning representations from hyperspectral data.  
+In addition to her academic pursuits, Salma is a crew member of the Belgian Azure User Group, actively volunteering to the
+organization of the data sciences track at the [CloudBrew conference](https://www.cloudbrew.be/).  
 
 ### Glenn Colpaert
 
@@ -88,6 +91,15 @@ Salma Haidar joined the azug crew in 2017. Dedicated to banking & finance, her d
 
 Glenn Colpaert is the founder and CTO of Zure Belgium. He is a Microsoft Azure MVP since 2014 and is a frequent speaker at national and international events.
 Currently, he’s mainly focused on designing and building secure, scalable cloud-based solutions on Microsoft Azure. His blog can be found on <a href="https://glenncolpaert.github.io/">https://glenncolpaert.github.io/</a>.
+
+### Karel De Winter
+
+![](/assets/media/crew/karel-dewinter.jpg)
+
+Karel is an Azure Technical Trainer at Microsoft and former Microsoft MVP Azure, who loves to share his knowledge with others and give them a different perspective based on hands-on experience.
+He helps customers, partners and others to achieve more and empower their Azure skills to ensure they are successful on the Azure platform. His core areas of expertise are Microsoft Azure and the Microsoft Hybrid Cloud Platform.
+As a technology enthusiast and a community member, he frequently shares his knowledge about experiences with Azure and other Microsoft technologies.
+When offline and not working, he enjoys having family time and running into the wild. His blog can be found on <a href="https://kareldewinter.com/">https://kareldewinter.com/</a>.
 
 ## Alumni
 
@@ -107,4 +119,4 @@ Since the beginning of AZUG, several highly appreciated people helped out as boa
 
 ### Tom Kerkhove
 
-![Tom Kerkhove](/assets/media/crew/tom-kerkhove.jpg)
+![Tom Kerkhove](/assets/media/alumni/tom-kerkhove.jpg)
