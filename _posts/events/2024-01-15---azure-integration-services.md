@@ -52,11 +52,11 @@ Belgium
 
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/azug/20240115/widget/v1.css">
 <script type="text/javascript" src="https://pretix.eu/widget/v1.en.js" async></script>
-<div class="pretix-widget-compat" event="https://pretix.eu/azug/20240115/" single-item-select="button"></div>
+<pretix-widget event="https://pretix.eu/azug/20240115/" single-item-select="button"></pretix-widget>
 <noscript>
    <div class="pretix-widget">
         <div class="pretix-widget-info-message">
-                JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://pretix.eu/azug/20240115/">click here</a>.
-                </div>
+            JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://pretix.eu/azug/20240115/">click here</a>.
+        </div>
     </div>
 </noscript>
