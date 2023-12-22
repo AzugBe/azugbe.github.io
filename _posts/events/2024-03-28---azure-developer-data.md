@@ -37,7 +37,7 @@ So expand your horizons, boost your knowledge, and let this session be your firs
 
 **Event date:** March 28th, 2024 - you are welcome from 17:30, food served at 18:00, session starts 18:30.
 
-**Event location: Address**<br />
+**Event location:**<br />
 <img width="120" height="60" align="right" alt="Zure" src="/assets/media/sponsors/logo-zure.png">Zure<br/>
 Xavier De Cocklaan 70<br/>
 9831 Sint-Martens-Latem<br/>

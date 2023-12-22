@@ -27,7 +27,7 @@ In our second session of the year, we'll focus on Azure Infrastructure. See you 
 
 **Event date:** Februari 29th, 2023 - you are welcome from 17:30, apetizers served at 18:00, session starts 18:30, dinner served at 19:15 between the sessions.
 
-**Event location: Address**<br />
+**Event location:**<br />
 <img width="120" height="60" align="right" alt="Axxess" src="/assets/media/sponsors/logo-axxes.png">Ghelamco Arena - Pitch Arena<br/>
 Ottergemsesteenweg Zuid 808<br/>
 9000 Gent<br/>

@@ -29,7 +29,7 @@ In our first session of the year, we'll focus on Azure Integration Services. See
 
 **Event date:** January 15th, 2023 - you are welcome from 17:30, food served at 18:00, session starts 18:30.
 
-**Event location: Address**<br />
+**Event location:**<br />
 <img width="120" height="60" align="right" alt="Axxess" src="/assets/media/sponsors/logo-integrationteam.png">Main D'or<br/>
 Veldkant 4 <br/>
 2550 Kontich<br/>
