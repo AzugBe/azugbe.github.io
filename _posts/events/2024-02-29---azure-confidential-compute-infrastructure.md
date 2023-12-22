@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: ["events"]
 tags: ["Events"]
-author: ["Glenn Colpaert", "Kris Van Der Mast"]
+author: ["Glenn Colpaert", "Kris van der Mast"]
 ---
 
 In our second session of the year, we'll focus on Azure Infrastructure. See you in Ghent?
