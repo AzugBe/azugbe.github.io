@@ -101,6 +101,13 @@ He helps customers, partners and others to achieve more and empower their Azure 
 As a technology enthusiast and a community member, he frequently shares his knowledge about experiences with Azure and other Microsoft technologies.
 When offline and not working, he enjoys having family time and running into the wild. His blog can be found on <a href="https://kareldewinter.com/">https://kareldewinter.com/</a>.
 
+### Tim Schaeps
+
+![](/assets/media/crew/tim-schaeps.jpg)
+
+Tim Schaeps is a Cloud Solution Architect at Microsoft, where he helps Microsoft Partners to get the most out of the technology that Microsoft has to offer. His current focus is mainly on Data&AI, but his experience goes a lot further than that. Having been active in technology for many years, Tim has a very broad background and draws on that when working with Microsoft Partners. Before joining Microsoft, he has been active professionally as a DevOps expert and Azure Solution Architect where he helped (development) organizations become a better version of themselves. Tim has a personal website ([timschaeps.be](https://www.timschaeps.be)) where he likes to write about technology & learning new stuff. His professional profile can be found on [LinkedIn](https://www.linkedin.com/in/timschaeps/).
+
+
 ## Alumni
 
 Since the beginning of AZUG, several highly appreciated people helped out as board or crew members and helped shape the Belgian Azure Community as we know it today.
