@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "2024-03-28 - Navigating Data Platforms as Azure Developer"
+title: "2024-03-28 - Resilient API landscapes in Azure & Navigating Data Platforms as Azure Developer"
 date: 2024-03-28 18:00:00 +0000
 comments: true
 published: true
@@ -9,9 +9,20 @@ tags: ["Events"]
 author: ["Glenn Colpaert"]
 ---
 
-In our third session of the year, we'll have a session that focus on understanding how to implement data solutions with Azure PaaS. See you there?
+In our third session of the year, we'll have a session that focuses on building resilient API landscapes in Azure and understanding how to implement data solutions with Azure PaaS. See you there?
 
 ## Agenda
+
+### Building a resilient API landscape with Azure API Management
+
+<img src="/assets/media/speakers/tom-kerkhove.jpg" alt="Tom Kerkhove" align="right" height="100" width="100" style="margin-right: 20px;">
+In the digital age that we live in, we highly depend on cloud services being available that we build upon. However, failure is inevitable and will happen - The question is, will you notice it?
+
+When building platforms it is crucial to ensure that you will seamlessly handle failure and by being resilient to them. Come learn how Azure API Management helps you mitigate and recover from failures by using built-in load balancing and circuit-breaking capabilities.
+
+You will also learn how you can route traffic based on your needs and simulate outages in your API platform to verify your resiliency.
+
+**Speaker: Tom Kerkhove** Senior Software Engineer at Microsoft.
 
 ### Help! As an Azure developer, I'm afraid of drowning in that big lake of data stuff
 
@@ -25,7 +36,6 @@ This session will be packed with information that I wish I had when starting my 
 By the end of this session, you will be able to engage in meaningful discussions with other data professionals without feeling like an imposter.
 
 So expand your horizons, boost your knowledge, and let this session be your first step towards a data mesh nirvana!
-
 
 **Speaker: Ruben Delange** Azure Architect at Zure.
 
