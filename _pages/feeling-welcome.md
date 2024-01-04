@@ -30,7 +30,7 @@ We treat all submissions confidentially and equally.
 
 ### Speaker Reimbursements
 
-Reasonable speaker expenses are reimbursed. For more information, check [our travel policy]/speakers/travel-policy).
+Reasonable speaker expenses are reimbursed. For more information, check [our travel policy](/speakers/travel-policy).
 
 Having limited means is not an objection to speak at our user group or conference. E-mail us at [getintouchwithus@azug.be](mailto:getintouchwithus@azug.be) if you have any questions around this, we will happily assist.
 

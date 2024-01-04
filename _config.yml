@@ -61,7 +61,7 @@ facebook:
   username               : AZUGBelgium
   app_id                 :
   publisher              :
-og_image                 : "/assets/media/azug-logo.svg"
+og_image                 : "/assets/media/azug-logo.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "AZUG"
-  avatar           : #"/assets/media/azug-logo.svg"
+  avatar           : #"/assets/media/azug-logo.png"
   bio              : "Azure User Group Belgium"
   location         : "Belgium"
   email            : "getintouchwithus@azug.be"
