@@ -20,8 +20,8 @@ In our first session of the year, we'll focus on Azure Integration Services. See
 **2024-02-29 - Azure Confidential Compute & Infrastructure**<br>
 In our second session of the year, we'll focus on Azure Infrastructure. See you in Ghent? [Register here!](https://www.azug.be/events/2024/02/29/azure-confidential-compute-infrastructure){: .btn .btn--success}
 
-**2024-03-28 - Navigating Data Platforms as Azure Developer**<br>
-In our third session of the year, we’ll have a session that focus on understanding how to implement data solutions with Azure PaaS. See you there? [Register here!](https://www.azug.be/events/2024/03/28/azure-developer-data){: .btn .btn--success}
+**2024-03-28 - Resilient API landscapes in Azure & Navigating Data Platforms as Azure Developer**<br>
+In our third session of the year, we'll have a session that focuses on building resilient API landscapes in Azure and understanding how to implement data solutions with Azure PaaS. See you there? [Register here!](https://www.azug.be/events/2024/03/28/azure-developer-data){: .btn .btn--success}
 
 <hr />
 
