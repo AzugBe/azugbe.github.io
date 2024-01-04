@@ -39,10 +39,6 @@ So expand your horizons, boost your knowledge, and let this session be your firs
 
 **Speaker: Ruben Delange** Azure Architect at Zure.
 
-### 2nd Session To Be Announced
-
-**Speaker: 2nd Speaker To Be Announced**
-
 ## Practical details
 
 **Event date:** March 28th, 2024 - you are welcome from 17:30, food served at 18:00, session starts 18:30.
