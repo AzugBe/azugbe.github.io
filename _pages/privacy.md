@@ -16,6 +16,7 @@ This page describes our privacy policy, including full details on third-party da
 * In addition, AZUG (BUG - Initiative vzw) may share your full name and e-mail address with third-party data processors:
   * MailChimp, only when you consent to receive our newsletter.
   * Pretix, only when you register for an event. Your personal data will also be used to send event updates when needed, and may be used to print name badges at the venue location.
+* AZUG (BUG - Initiative vzw) may use badge scanning and may provide lead scanning to its [partners](/partners). Lead scanning is optional. If you allow a partner to scan your badge, you’re giving them a copy of some of your registration information, just as if you were handing them a business card.
 
 Historically, AZUG (BUG - Initiative vzw) has gone great lengths to ensure your personal information is not only secure but is used appropriately and only with your consent, and that only minimal, essential information is captured - a healthy approach to working with your personal information.
 
@@ -23,7 +24,7 @@ We'll keep using the same principles we have been using over the past years, but
 
 ## Privacy Policy
 
-*This policy was last updated: January 07, 2018. An overview of changes is available [from the git history](https://github.com/AzugBe/azugbe.github.io/commits/master/_pages/privacy.md).*
+*This policy was last updated: May 03, 2020. An overview of changes is available [from the git history](https://github.com/AzugBe/azugbe.github.io/commits/master/_pages/privacy.md).*
 
 Data protection is of a particularly high priority for the management of AZUG (BUG - Initiative vzw). The use of the Internet pages of AZUG (BUG - Initiative vzw) is possible without any indication of personal data; however, if a data subject wants to participate in events or subscribe to our newsletter, processing of personal data could become necessary.
 
@@ -59,7 +60,8 @@ Profiling means any form of automated processing of personal data consisting of 
 
 #### f) Pseudonymisation
 
-Pseudonymisation is the processing of personal data in such a manner that the personal data can no longer be attributed to a specific data subject without the use of additional information, provided that such additional information is kept separately and is subject to technical and organisational measures to ensure that the personal data are not attributed to an identified or identifiable natural person. 
+Pseudonymisation is the processing of personal data in such a manner that the personal data can no longer be attributed to a specific data subject without the use of additional information, provided that such additional information is kept separately and is subject to technical and organisational measures to ensure that the personal data are not attributed to an identified or identifiable natural person.
+
 ####  g) Controller or controller responsible for the processing
 
 Controller or controller responsible for the processing is the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by Union or Member State law, the controller or the specific criteria for its nomination may be provided for by Union or Member State law. 
@@ -297,22 +299,33 @@ The event registration process captures at least the data subject's full name an
 
 For paid events, additional payment data may be collected in order to properly handle payment. If you pay for your ticket using a service like PayPal, Stripe, Wirecard, or Sofort, we transfer only the minimal necessary amount of data to these services.
 
-### 12. Legal basis for the processing
+### 12. Data protection provisions about badges and lead scanning
+
+AZUG (BUG - Initiative vzw) may use badges and badge scanning technology at its live events for security reasons and to validate admission.
+
+* When badges are in use at an event, the data subject's full name, company and other information may be printed and visible to attendees and exhibitors.
+* The data subject allows AZUG (BUG - Initiative vzw) to scan badges and/or tickets to gain entry to the event and to other restricted areas.
+
+All other badge scanning is optional. You do not have to let anyone else scan your badge.
+
+If you allow an exhibitor to scan your badge, you’re giving them a copy of some of your registration information, just as if you were handing them a business card. The exhibitor may use this information to contact you after the event or for other purposes that you agree with them. The exhibitor’s use of your information in this situation is subject to your direct relationship with the exhibitor and their own privacy policies.
+
+### 13. Legal basis for the processing
 
 Art. 6(1) lit. a GDPR serves as the legal basis for processing operations for which we obtain consent for a specific processing purpose. If the processing of personal data is necessary for the performance of a contract to which the data subject is party, as is the case, for example, when processing operations are necessary for the supply of goods or to provide any other service, the processing is based on Article 6(1) lit. b GDPR. The same applies to such processing operations which are necessary for carrying out pre-contractual measures, for example in the case of inquiries concerning our products or services. Is our company subject to a legal obligation by which processing of personal data is required, such as for the fulfillment of tax obligations, the processing is based on Art. 6(1) lit. c GDPR.
 In rare cases, the processing of personal data may be necessary to protect the vital interests of the data subject or of another natural person. This would be the case, for example, if a visitor were injured in our company and his name, age, health insurance data or other vital information would have to be passed on to a doctor, hospital or other third party. Then the processing would be based on Art. 6(1) lit. d GDPR.
 
 Finally, processing operations could be based on Article 6(1) lit. f GDPR. This legal basis is used for processing operations which are not covered by any of the abovementioned legal grounds, if processing is necessary for the purposes of the legitimate interests pursued by our company or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data. Such processing operations are particularly permissible because they have been specifically mentioned by the European legislator. He considered that a legitimate interest could be assumed if the data subject is a client of the controller (Recital 47 Sentence 2 GDPR).
 
-### 13. The legitimate interests pursued by the controller or by a third party
+### 14. The legitimate interests pursued by the controller or by a third party
 
 Where the processing of personal data is based on Article 6(1) lit. f GDPR our legitimate interest is to carry out our activity in favor of the well-being of all our members and partners.
 
-### 14. Period for which the personal data will be stored
+### 15. Period for which the personal data will be stored
 
 The criteria used to determine the period of storage of personal data is the respective statutory retention period. After expiration of that period, the corresponding data is routinely deleted, as long as it is no longer necessary for the fulfillment of the contract or the initiation of a contract.
 
-### 15. Provision of personal data as statutory or contractual requirement; Requirement necessary to enter into a contract; Obligation of the data subject to provide the personal data; possible consequences of failure to provide such data
+### 16. Provision of personal data as statutory or contractual requirement; Requirement necessary to enter into a contract; Obligation of the data subject to provide the personal data; possible consequences of failure to provide such data
 
 We clarify that the provision of personal data is partly required by law (e.g. tax regulations) or can also result from contractual provisions (e.g. information on the contractual partner).
 
@@ -320,6 +333,6 @@ Sometimes it may be necessary to conclude a contract that the data subject provi
 
 Before personal data is provided by the data subject, the data subject must contact AZUG (BUG - Initiative vzw). AZUG (BUG - Initiative vzw) clarifies to the data subject whether the provision of the personal data is required by law or contract or is necessary for the conclusion of the contract, whether there is an obligation to provide the personal data and the consequences of non-provision of the personal data.
 
-### 16. Existence of automated decision-making
+### 17. Existence of automated decision-making
 
 As a responsible company, we do not use automatic decision-making or profiling.

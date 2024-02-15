@@ -21,11 +21,11 @@ Want to stay up to date? <a href="https://azug.us2.list-manage.com/subscribe/?u=
 
 ## Board
 
-The current board is <a href="https://cloudshaper.wordpress.com"><span style="color: #455f9c;">Yves Goeleven</span></a>, <a href="https://blog.krisvandermast.com/"><span style="color: #455f9c;">Kris van der Mast</span></a> and <a href="https://blog.maartenballiauw.be/"><span style="color: #455f9c;">Maarten Balliauw</span></a>.
+The current board is <a href="https://www.goeleven.com"><span style="color: #455f9c;">Yves Goeleven</span></a>, <a href="https://blog.krisvandermast.com/"><span style="color: #455f9c;">Kris van der Mast</span></a> and <a href="https://blog.maartenballiauw.be/"><span style="color: #455f9c;">Maarten Balliauw</span></a>.
 
 ## History
 
-AZUG was founded near the end of 2009 by several Belgian .NET community members: <a href="https://www.devitect.net/"><span style="color: #455f9c;">Kurt Claeys</span></a>, <a href="https://cloudshaper.wordpress.com"><span style="color: #455f9c;">Yves Goeleven</span></a> and <a href="https://blog.maartenballiauw.be/"><span style="color: #455f9c;">Maarten Balliauw</span></a>. Other names involved are Gabriele Bozzi (Kaukana), Patrick Verbruggen (Spikes), Marc Vanderheyden (Spikes), Rudi Claes (InfoSupport), Marco Braakman (InfoSupport) and Bart De Boeck.
+AZUG was founded near the end of 2009 by several Belgian .NET community members: <a href="https://www.devitect.net/"><span style="color: #455f9c;">Kurt Claeys</span></a>, <a href="https://www.goeleven.com"><span style="color: #455f9c;">Yves Goeleven</span></a> and <a href="https://blog.maartenballiauw.be/"><span style="color: #455f9c;">Maarten Balliauw</span></a>. Other names involved are Gabriele Bozzi (Kaukana), Patrick Verbruggen (Spikes), Marc Vanderheyden (Spikes), Rudi Claes (InfoSupport), Marco Braakman (InfoSupport) and Bart De Boeck.
 
 In 2010 <a href="https://www.krisvandermast.com/"><span style="color: #455f9c;">Kris van der Mast</span></a> joined the board.
 
@@ -37,7 +37,7 @@ In 2017, Salma Haidar joined the AZUG crew as a volunteer.
 
 In 2018, Glenn Colpaert joined the AZUG crew as a volunteer.
 
-In 2022, Tom Kerkhove decided to focus on other things allowing new people to join the crew.
+In 2022, Tom Kerkhove decided to focus on other things allowing new people to join the crew. Karel De Winter joined the team.
 
 ## Crew
 
@@ -45,7 +45,7 @@ In 2022, Tom Kerkhove decided to focus on other things allowing new people to jo
 
 ![](/assets/media/crew/yves-goeleven.jpg)
 
-Yves has been shipping enterprise and cloud software since 2001. He is specialized in the design of distributed software systems using messaging. Next to being the founder of <a href="https://www.MessageHandler.net">MessageHandler.net</a>, an online platform for the co-creation of message processing logic, he is also active as a Solution Architect for Particular Software (NServiceBus), which provides a messaging platform for developing such logic. Yves has been awarded Windows Azure MVP for the last 5 years and is a regular on the speaking circuit.
+Yves is a freelance solution architect and has been shipping enterprise and cloud software since 2001. He is specialized in the design of distributed software systems on the Microsoft Azure Platform. Next to his freelance activities he is als the founder of <a href="https://www.clubmanagement.io">clubmanagement.io</a>, a SAAS service for managing sportsclubs, and <a href="https://www.messagehandler.net">messagehandler.net</a>, a set of software libraries that make it easier to develop software with C# on Azure. Yves has been awarded the Microsoft Azure MVP 9 times in a row and can occasionally be found on the speaking circuit.
 
 ### Kris van der Mast
 
@@ -92,6 +92,22 @@ organization of the data sciences track at the [CloudBrew conference](https://ww
 Glenn Colpaert is the founder and CTO of Zure Belgium. He is a Microsoft Azure MVP since 2014 and is a frequent speaker at national and international events.
 Currently, he’s mainly focused on designing and building secure, scalable cloud-based solutions on Microsoft Azure. His blog can be found on <a href="https://glenncolpaert.github.io/">https://glenncolpaert.github.io/</a>.
 
+### Karel De Winter
+
+![](/assets/media/crew/karel-dewinter.jpg)
+
+Karel is an Azure Technical Trainer at Microsoft and former Microsoft MVP Azure, who loves to share his knowledge with others and give them a different perspective based on hands-on experience.
+He helps customers, partners and others to achieve more and empower their Azure skills to ensure they are successful on the Azure platform. His core areas of expertise are Microsoft Azure and the Microsoft Hybrid Cloud Platform.
+As a technology enthusiast and a community member, he frequently shares his knowledge about experiences with Azure and other Microsoft technologies.
+When offline and not working, he enjoys having family time and running into the wild. His blog can be found on <a href="https://kareldewinter.com/">https://kareldewinter.com/</a>.
+
+### Tim Schaeps
+
+![](/assets/media/crew/tim-schaeps.jpg)
+
+Tim Schaeps is a Cloud Solution Architect at Microsoft, where he helps Microsoft Partners to get the most out of the technology that Microsoft has to offer. His current focus is mainly on Data&AI, but his experience goes a lot further than that. Having been active in technology for many years, Tim has a very broad background and draws on that when working with Microsoft Partners. Before joining Microsoft, he has been active professionally as a DevOps expert and Azure Solution Architect where he helped (development) organizations become a better version of themselves. Tim has a personal website ([timschaeps.be](https://www.timschaeps.be)) where he likes to write about technology & learning new stuff. His professional profile can be found on [LinkedIn](https://www.linkedin.com/in/timschaeps/).
+
+
 ## Alumni
 
 Since the beginning of AZUG, several highly appreciated people helped out as board or crew members and helped shape the Belgian Azure Community as we know it today.
@@ -110,4 +126,4 @@ Since the beginning of AZUG, several highly appreciated people helped out as boa
 
 ### Tom Kerkhove
 
-![Tom Kerkhove](/assets/media/crew/tom-kerkhove.jpg)
+![Tom Kerkhove](/assets/media/alumni/tom-kerkhove.jpg)

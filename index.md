@@ -1,4 +1,4 @@
----
+﻿---
 layout: splash
 title: Welcome to AZUG!
 tagline: Azure User Group Belgium
@@ -14,10 +14,14 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-<!--There are no upcoming events.-->
+**2024-01-15 - All about Azure Integration**<br>
+In our first session of the year, we'll focus on Azure Integration Services. See you in Kontich? [Register here!](https://www.azug.be/events/2024/01/15/azure-integration-services){: .btn .btn--success}
 
-**2023-04-20 - Building Azure PaaS Solutions and Platforms**<br>
-In our third session of the year, we'll have two session that focus on building solutions with Azure PaaS. See you there? [Register here!](https://www.azug.be/events/2023/04/20/building-azure-paas-solutions-and-platforms){: .btn .btn--success}
+**2024-02-29 - Azure Confidential Compute & Infrastructure**<br>
+In our second session of the year, we'll focus on Azure Infrastructure. See you in Ghent? [Register here!](https://www.azug.be/events/2024/02/29/azure-confidential-compute-infrastructure){: .btn .btn--success}
+
+**2024-03-28 - Resilient API landscapes in Azure & Navigating Data Platforms as Azure Developer**<br>
+In our third session of the year, we'll have a session that focuses on building resilient API landscapes in Azure and understanding how to implement data solutions with Azure PaaS. See you there? [Register here!](https://www.azug.be/events/2024/03/28/azure-developer-data){: .btn .btn--success}
 
 <hr />
 
