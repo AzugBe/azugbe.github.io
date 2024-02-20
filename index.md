@@ -20,6 +20,9 @@ In our first session of the year, we'll focus on Azure Integration Services. See
 **2024-02-29 - Azure Confidential Compute & Infrastructure**<br>
 In our second session of the year, we'll focus on Azure Infrastructure. See you in Ghent? [Register here!](https://www.azug.be/events/2024/02/29/azure-confidential-compute-infrastructure){: .btn .btn--success}
 
+**2024-03-09 - Global AI March 2024 - Belgium chapter**<br>
+AZUG is proud to be part of the Global AI March 2024. We are hosting the Belgium chapter of this global event in Mechelen. [Register here!](https://www.azug.be/events/2024/03/09/global-ai-march-2024){: .btn .btn--success}
+
 **2024-03-28 - Resilient API landscapes in Azure & Navigating Data Platforms as Azure Developer**<br>
 In our third session of the year, we'll have a session that focuses on building resilient API landscapes in Azure and understanding how to implement data solutions with Azure PaaS. See you there? [Register here!](https://www.azug.be/events/2024/03/28/azure-developer-data){: .btn .btn--success}
 
