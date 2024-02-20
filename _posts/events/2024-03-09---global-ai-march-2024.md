@@ -15,10 +15,6 @@ AZUG is proud to be part of the Global AI March 2024. We are hosting the Belgium
 
 ### Getting to know Github Copilot
 
-<img src="/assets/media/speakers/jan-gezels.jpg" alt="Jan Gezels" align="right" height="100" width="100" style="margin-right: 20px;">Azure Confidential Computing is a cutting-edge technology that enables you to run your most sensitive workloads in the cloud with even greater security. By using hardware-based trusted execution environments to encrypt data in use, Azure Confidential Computing ensures that your data is protected from unauthorized access, even by cloud providers and administrators. This means that you can confidently move your most strict workloads to the cloud, knowing that your data is always secure. With Azure Confidential Computing, you can unlock the full potential of the cloud for your most sensitive workloads.
-
-### Getting to know Github Copilot
-
 **Speaker: Kris van der Mast** Senior solution architect - VaHa BV
 
 ### Building LLM apps with Prompt Flow
