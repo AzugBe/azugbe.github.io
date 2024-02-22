@@ -14,9 +14,6 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**2024-01-15 - All about Azure Integration**<br>
-In our first session of the year, we'll focus on Azure Integration Services. See you in Kontich? [Register here!](https://www.azug.be/events/2024/01/15/azure-integration-services){: .btn .btn--success}
-
 **2024-02-29 - Azure Confidential Compute & Infrastructure**<br>
 In our second session of the year, we'll focus on Azure Infrastructure. See you in Ghent? [Register here!](https://www.azug.be/events/2024/02/29/azure-confidential-compute-infrastructure){: .btn .btn--success}
 
