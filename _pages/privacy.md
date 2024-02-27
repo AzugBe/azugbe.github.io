@@ -11,8 +11,9 @@ As a user group, AZUG (BUG - Initiative vzw) has to store and process some of yo
 
 This page describes our privacy policy, including full details on third-party data processors. In case you prefer a summary, here's what we collect and use your data for:
 
-* AZUG (BUG - Initiative vzw) can use non-essential cookies on [www.azug.be](https://www.azug.be) only when you consent
-* AZUG (BUG - Initiative vzw) may store your full name and e-mail address in order to be able to identify you when attending events
+* AZUG (BUG - Initiative vzw) can use non-essential cookies on [www.azug.be](https://www.azug.be) only when you consent.
+* AZUG (BUG - Initiative vzw) may store your full name, company name and e-mail address in order to be able to identify you when attending events.
+* AZUG (BUG - Initiative vzw) may share your full name and company name with partners hosting our events, for printing name badges, access control, or other requirements at a specific partner location.
 * In addition, AZUG (BUG - Initiative vzw) may share your full name and e-mail address with third-party data processors:
   * MailChimp, only when you consent to receive our newsletter.
   * Pretix, only when you register for an event. Your personal data will also be used to send event updates when needed, and may be used to print name badges at the venue location.
@@ -24,11 +25,11 @@ We'll keep using the same principles we have been using over the past years, but
 
 ## Privacy Policy
 
-*This policy was last updated: May 03, 2023. An overview of changes is available [from the git history](https://github.com/AzugBe/azugbe.github.io/commits/master/_pages/privacy.md).*
+*This policy was last updated: February 2, 2024. An overview of changes is available [from the git history](https://github.com/AzugBe/azugbe.github.io/commits/master/_pages/privacy.md).*
 
 Data protection is of a particularly high priority for the management of AZUG (BUG - Initiative vzw). The use of the Internet pages of AZUG (BUG - Initiative vzw) is possible without any indication of personal data; however, if a data subject wants to participate in events or subscribe to our newsletter, processing of personal data could become necessary.
 
-The processing of personal data, such as the name, address, e-mail address, or telephone number of a data subject shall always be in line with the General Data Protection Regulation (GDPR), and in accordance with the country-specific data protection regulations applicable to AZUG (BUG - Initiative vzw). By means of this data protection declaration, our enterprise would like to inform the general public of the nature, scope, and purpose of the personal data we collect, use and process. Furthermore, data subjects are informed, by means of this data protection declaration, of the rights to which they are entitled.
+The processing of personal data, such as the name, company name, address, e-mail address, or telephone number of a data subject shall always be in line with the General Data Protection Regulation (GDPR), and in accordance with the country-specific data protection regulations applicable to AZUG (BUG - Initiative vzw). By means of this data protection declaration, our enterprise would like to inform the general public of the nature, scope, and purpose of the personal data we collect, use and process. Furthermore, data subjects are informed, by means of this data protection declaration, of the rights to which they are entitled.
 
 As the controller, AZUG (BUG - Initiative vzw) has implemented numerous technical and organizational measures to ensure the most complete protection of personal data processed through this website. However, Internet-based data transmissions may in principle have security gaps, so absolute protection may not be guaranteed.
 
@@ -302,6 +303,7 @@ For paid events, additional payment data may be collected in order to properly h
 ### 12. Data protection provisions about badges and lead scanning
 
 AZUG (BUG - Initiative vzw) may use badges and badge scanning technology at its live events for security reasons and to validate admission.
+Your full name and company name may be shared with partners hosting our events, for printing name badges, access control, or other requirements at a specific partner location.
 
 * When badges are in use at an event, the data subject's full name, company and other information may be printed and visible to attendees and exhibitors.
 * The data subject allows AZUG (BUG - Initiative vzw) to scan badges and/or tickets to gain entry to the event and to other restricted areas.
