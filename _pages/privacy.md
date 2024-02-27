@@ -24,7 +24,7 @@ We'll keep using the same principles we have been using over the past years, but
 
 ## Privacy Policy
 
-*This policy was last updated: May 03, 2020. An overview of changes is available [from the git history](https://github.com/AzugBe/azugbe.github.io/commits/master/_pages/privacy.md).*
+*This policy was last updated: May 03, 2023. An overview of changes is available [from the git history](https://github.com/AzugBe/azugbe.github.io/commits/master/_pages/privacy.md).*
 
 Data protection is of a particularly high priority for the management of AZUG (BUG - Initiative vzw). The use of the Internet pages of AZUG (BUG - Initiative vzw) is possible without any indication of personal data; however, if a data subject wants to participate in events or subscribe to our newsletter, processing of personal data could become necessary.
 
