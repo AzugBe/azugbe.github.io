@@ -14,8 +14,8 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**2024-03-28 - Resilient API landscapes in Azure & Navigating Data Platforms as Azure Developer**<br>
-In our third session of the year, we'll have a session that focuses on building resilient API landscapes in Azure and understanding how to implement data solutions with Azure PaaS. See you there? [Register here!](https://www.azug.be/events/2024/03/28/azure-developer-data){: .btn .btn--success}
+**2024-04-25 - Demystifying defender for servers**<br>
+In our fourth session of the year, we'll have a session that focuses on demystifying defender for servers. See you there? [Register here!](https://www.azug.be/events/2024/04/25/demystifying-defender-for-servers){: .btn .btn--success}
 
 <hr />
 
