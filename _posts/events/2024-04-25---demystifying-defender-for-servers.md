@@ -26,7 +26,7 @@ Demystifying defender for servers. Come and learn all about it.
 **Event date:** April 25th, 2024 - you are welcome from 17:30, food served at 18:00, session starts 18:30. At the location the venue is on the 1st floor at your convenience.
 
 **Event location:**<br />
-<img width="120" height="60" align="right" alt="Zure" src="/assets/media/sponsors/logo-zure.png">Zure<br/>
+<img width="120" height="60" align="right" alt="Delaware" src="/assets/media/sponsors/logo-delaware.png">Delaware<br/>
 Klaverbladstraat 11<br/>
 3560 Lummen<br/>
 Belgium
