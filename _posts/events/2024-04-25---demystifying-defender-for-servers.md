@@ -11,10 +11,16 @@ author: ["Kris van der Mast"]
 
 ## Agenda
 
-### Demystifying defender for servers
+### Demystifying Defender for Server and management capabilities on Azure Virtual Machines
 
 <img src="/assets/media/speakers/bjorn-jackers.jpg" alt=" Bjorn Jackers" align="right" height="100" width="100" style="margin-right: 20px;">
-Demystifying defender for servers. Come and learn all about it.
+In the current IT landscape security will become more important than ever.  
+Not only data but also the overall IT landscape should be protected and managed as best as possible.
+
+When looking at Azure virtual machines there is always a misunderstanding on how they can be secured and managed using the basic Microsoft security feature sets.
+By combining the strength and flexibility of Azure Virtual Machines and Microsoft Defender the full potentials can be benefited from the Microsoft stack
+
+In this session we will have a view on how to correctly onboard Azure Virtual Machines in the Microsoft Defender solution and benefit from a seamless management by combining Azure Virtual Machines, Microsoft Defender, and Microsoft Intune.
 
 **Speaker:  Bjorn Jackers** Senior Office 365 en Azure Consultant bij delaware BeLux.
 
@@ -26,7 +32,8 @@ Demystifying defender for servers. Come and learn all about it.
 **Event date:** April 25th, 2024 - you are welcome from 17:30, food served at 18:00, session starts 18:30. At the location the venue is on the 1st floor at your convenience.
 
 **Event location:**<br />
-<img width="120" height="60" align="right" alt="Zure" src="/assets/media/sponsors/logo-delaware.png">Zure<br/>
+
+<img width="120" height="60" align="right" alt="delaware" src="/assets/media/sponsors/logo-delaware.png">delaware<br/>
 Klaverbladstraat 11<br/>
 3560 Lummen<br/>
 Belgium
