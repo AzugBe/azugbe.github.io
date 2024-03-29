@@ -14,7 +14,7 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**2024-04-25 - Demystifying defender for servers**<br>
+**2024-04-25 - Demystifying Defender for Server and management capabilities on Azure Virtual Machines**<br>
 In our fourth session of the year, we'll have a session that focuses on demystifying defender for servers. See you there? [Register here!](https://www.azug.be/events/2024/04/25/demystifying-defender-for-servers){: .btn .btn--success}
 
 <hr />
