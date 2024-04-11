@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "2024-04-25 - Demystifying defender for servers"
+title: "2024-04-25 - Demystifying defender for servers & Howto AI on your data"
 date: 2024-04-25 18:00:00 +0000
 comments: true
 published: true
@@ -24,7 +24,16 @@ In this session we will have a view on how to correctly onboard Azure Virtual Ma
 
 **Speaker:  Bjorn Jackers** Senior Office 365 en Azure Consultant bij delaware BeLux.
 
-### tba
+### Howto AI on your data
+
+<img src="/assets/media/speakers/gitte-vermeiren.jpg" alt=" Gitte Vermeiren" align="right" height="100" width="100" style="margin-right: 20px;">
+AI is the new buzzword in town. Everybody wants to AI! And now even your users come to you and ask if they can chat with their business data. But where and how do you get started with this???
+
+In this session I will walk you through the steps that are needed to build an application that can do AI on your data using the components in the Azure platform. You will learn about Azure Open AI service and the different AI models you can use out of the box. I will cover Azure AI search for supporting vectorized search on your data. I will cover how to combine the 2 of them to implement the RAG pattern (Retrieval Augmented Generation).
+
+In this session you will learn how to build an app where you can chat with your data and what the common patterns and use cases are we see customers use when setting this up.
+
+**Speaker:  Gitte Vermeiren** FastTrack for Azure Engineer at Microsoft
 
 
 ## Practical details
