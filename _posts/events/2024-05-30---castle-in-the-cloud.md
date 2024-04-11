@@ -9,6 +9,8 @@ tags: ["Events"]
 author: ["Glenn Colpaert"]
 ---
 
+In our fifth session of the year, we'll have a session that focuses on Azure network perimeter defence. See you there?
+
 ## Agenda
 
 ### First Speaker TBA

@@ -9,6 +9,8 @@ tags: ["Events"]
 author: ["Kris van der Mast"]
 ---
 
+In our fourth session of the year, we'll have a session that focuses on demystifying defender for servers and a session on howto AI on your data. See you there? 
+
 ## Agenda
 
 ### Demystifying Defender for Server and management capabilities on Azure Virtual Machines
