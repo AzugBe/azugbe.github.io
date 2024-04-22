@@ -13,9 +13,12 @@ In our fifth session of the year, we'll have a session that focuses on Azure net
 
 ## Agenda
 
-### First Speaker TBA
+### Building a Copilot with Sementic Kernel
 
-First Session TBA
+<img src="/assets/media/speakers/steven-delausney.jpg" alt=" Leo Visser" align="right" height="100" width="100" style="margin-right: 20px;">
+Microsoft has in the mean time already developed a lot of Copilots in various of their products. All these Copilots are based on the Sementic Kernel framework allowing them to build flexible assisent which can answer questions for end users. Within this sesseon, we will cover the basic of Sementic kernel with the runner, plugins, etc. and look at some demo's and how you can intgrated you own plugin into the exsiting Microsoft Copilots. 
+
+**Speaker:  Steven De Lausnay** IoT, Data & Analytics Domain Lead @ Codit.
 
 ### Castle in the Cloud: Azure network perimeter defense
 
