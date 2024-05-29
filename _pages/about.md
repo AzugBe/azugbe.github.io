@@ -39,6 +39,8 @@ In 2018, Glenn Colpaert joined the AZUG crew as a volunteer.
 
 In 2022, Tom Kerkhove decided to focus on other things allowing new people to join the crew. Karel De Winter joined the team.
 
+In 2023, Jorg Ian Floren joined the AZUG crew as a volunteer.
+
 ## Crew
 
 ### Yves Goeleven
@@ -101,6 +103,11 @@ He helps customers, partners and others to achieve more and empower their Azure 
 As a technology enthusiast and a community member, he frequently shares his knowledge about experiences with Azure and other Microsoft technologies.
 When offline and not working, he enjoys having family time and running into the wild. His blog can be found on <a href="https://kareldewinter.com/">https://kareldewinter.com/</a>.
 
+### Jorg Ian Floren
+
+![](/assets/media/crew/jorg-ian-floren.jpg)
+
+[Jorg Ian Floren](https://www.linkedin.com/in/jorgfloren/) works as a freelance consultant. His interest lay mainly in back end systems with a focus on Web API's and microservices. He is a big fan of a pragmatic approach to existing problems. Communicating and networking come natural to him, yet he is still working on overcoming public speaking.  In his free time he focuses on his family, coaching a local U12 football team and helping out behind the scenes at several community lead conferences such as [CloudBrew](https://www.cloudbrew.be). 
 ### Tim Schaeps
 
 ![](/assets/media/crew/tim-schaeps.jpg)
