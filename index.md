@@ -17,6 +17,9 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 **2024-05-30 - Castle in the Cloud**<br>
 In our fifth session of the year, we'll have a session that focuses on Azure network perimeter defence. See you there? [Register here!](https://www.azug.be/events/2024/05/30/castle-in-the-cloud){: .btn .btn--success}
 
+**2024-09-26 - Analyzing enormous real-time data streams with Azure Data Explorer**<br>
+In our fifth session of the year, we'll have a session that focuses on Azure network perimeter defence. See you there? [Register here!](https://www.azug.be/events/2024/09/26/analyzing-enormous-real-time-data-streams-with-Azure-Data-Explorer){: .btn .btn--success}
+
 <hr />
 
 ## About AZUG
