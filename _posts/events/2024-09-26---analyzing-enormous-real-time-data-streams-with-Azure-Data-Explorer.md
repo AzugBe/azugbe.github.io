@@ -18,15 +18,11 @@ I had seen this session two years ago, it would have saved me a ton of headaches
 
 Join me in this demo-intense session in which I show how to easily ingest real-time timeseries data, how to optimize query speed by leveraging ADX-specific features and the powerful Kusto Query Language and how to interact with external systems. Real-life learnings from the trenches!
 
-**Speaker:  Toon Vanhoutte** Azure MVP | CTO @ Noest | Founder @ Your Azure Coach.
+**Speaker:  Toon Vanhoutte** Azure MVP, CTO @ Noest, Founder @ Your Azure Coach.
 
 ### TBD
 
-
-
-
 **Speaker:  TBD** 
-
 
 ## Practical details
 
@@ -34,7 +30,7 @@ Join me in this demo-intense session in which I show how to easily ingest real-t
 
 **Event location:**<br />
 
-<img width="120" height="60" align="right" alt="Codit" src="/assets/media/sponsors/logo-noest.png">Noest NV<br/>
+<img width="120" height="60" align="right" alt="Noest" src="/assets/media/sponsors/logo-noest.png">Noest NV<br/>
 Lucky Lukestraat 6 (gps - nijverheidskaai 3)<br/>
 8500 Kortrijk<br/>
 
