@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "2023-12-07 + 08 - CloudBrew 2023 - Two days of Microsoft Azure"
-date: 2023-12-07 14:20:00 +0000
+title: "2024-12-12 + 13 - CloudBrew 2024 - Two days of Microsoft Azure"
+date: 2024-12-12 14:20:00 +0000
 comments: true
 published: true
 categories: ["events"]
@@ -9,7 +9,7 @@ tags: ["Events"]
 author: Maarten Balliauw
 ---
 
-A two-day conference by AZUG, the Belgium Microsoft Azure User Group on Thursday, December 7, 2023 - Friday, December 8, 2023.
+A two-day conference by AZUG, the Belgium Microsoft Azure User Group on Thursday, December 12, 2024 - Friday, December 13, 2024.
 
 ## Microsoft Azure
 
