@@ -24,7 +24,6 @@ Join me in this demo-intense session in which I show how to easily ingest real-t
 In this session, we will examine how the different authentication flows work using Powershell scripts to analyze every step. A look will be taken at the Authorization Code Flow, Client Credentials Flow and how Federated Credentials and Managed Identity work!
 <img src="/assets/media/speakers/cedric-braekevelt.jpg" alt=" Cédric Braekevelt" align="right" height="100" width="100" style="margin-right: 20px;">
 
-
 **Speaker:  Cédric Braekevelt**  Azure fanatic, Automation / DevOps lover
 
 ## Practical details
