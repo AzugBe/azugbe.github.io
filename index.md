@@ -33,10 +33,9 @@ There are many benefits to participating in AZUG:
 
 ## Join us, stay informed
 
-Becoming a member of AZUG is free! Events are organized and announced through:
+Becoming a member of AZUG is free!
 
-* <img src="assets/media/icon-email.png" width="16" height="16" /> Our [newsletter](#newsletter) - this is the primary announcement channel and we recommend subscribing to it.
-* <img src="assets/media/icon-slack.png" width="16" height="16" /> Our [Slack team](#slack) - for announcements and community discussions.
+<img src="assets/media/icon-email.png" width="16" height="16" /> Events are organized and announced through our [newsletter](#newsletter) - this is the primary announcement channel and we recommend subscribing to it.
 
 ### Newsletter 
 
