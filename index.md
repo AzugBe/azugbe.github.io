@@ -14,8 +14,11 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**2024-12-12 + 13 - CloudBrew 2024**<br>
-Two full days of Microsoft Azure, with several tracks to choose from! We will have some local and international speakers who will share their knowledge and experience. [Register here!](https://www.cloudbrew.be/){: .btn .btn--success}
+**2025-02-27 - Session at ACA Group**<br>
+Our first session this year will be at the ACA Group offices in Antwerp. See you there! [Register here!](https://www.azug.be/events/2024/09/26/azug2025-01){: .btn .btn--success}
+
+**2025-04-03 - Session at Zure**<br>
+Our second session of the year will be at the Zure offices in Ghent. See you there! [Register here!](https://www.azug.be/events/2024/09/26/azug2025-02){: .btn .btn--success}
 
 <hr />
 
