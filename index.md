@@ -15,7 +15,7 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 ## Upcoming events
 
 **2025-02-27 - Session at ACA Group**<br>
-Our first session this year will be at the ACA Group offices in Antwerp. See you there! [Register here!](https://www.azug.be/events/2025/02/27/azug2025-01){: .btn .btn--success}
+Our first session this year will be at the ACA Group offices in Antwerp and the agenda is live with 2 sessions: one on DevSecOps and one on Azure AI Foundry. See you there! [Register here!](https://www.azug.be/events/2025/02/27/azug2025-01){: .btn .btn--success}
 
 **2025-04-03 - Session at Zure**<br>
 Our second session of the year will be at the Zure offices in Ghent. See you there! [Register here!](https://www.azug.be/events/2025/04/03/azug2025-02){: .btn .btn--success}
