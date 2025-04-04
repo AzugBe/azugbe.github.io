@@ -14,9 +14,6 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**2025-04-03 - Session at Zure**<br>
-Our second session of the year will be at the Zure offices in Ghent. The agenda is live with 2 sessions: one full-stack development and one about the launch of Azure Belgium Central. See you there! [Register here!](https://www.azug.be/events/2025/04/03/azug2025-02){: .btn .btn--success}
-
 **2025-05-19 - Build Watch Party at delaware**<br>
 For our third session this year we are teaming up with delaware.
 We invite you to experience Microsoft Build togheter with some streetfood, drinks & snacks. See you there! [Register here!](https://www.azug.be/events/2025/05/19/azug2025-03){: .btn .btn--success}
