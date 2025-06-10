@@ -14,12 +14,8 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**2025-05-19 - Build Watch Party at delaware**<br>
-For our third session this year we are teaming up with delaware.
-We invite you to experience Microsoft Build togheter with some streetfood, drinks & snacks. See you there! [Register here!](https://www.azug.be/events/2025/05/19/azug2025-03){: .btn .btn--success}
-
-**2025-06-19 - Azug Session at U2U**<br>
-For our fourth session this year we are invited at the U2U offices in Zellik! See you there! [Register here!](https://www.azug.be/events/2025/06/19/azug2025-04){: .btn .btn--success}
+**2025-09-25 - Azug Session at U2U (Moved from June to September)**<br>
+For our fourth session this year we are invited at the U2U offices in Zellik! See you there! [Register here!](https://www.azug.be/events/2025/09/25/azug2025-04){: .btn .btn--success}
 
 <hr />
 
