@@ -14,8 +14,11 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**2025-09-25 - Azug Session at U2U (Moved from June to September)**<br>
-For our fourth session this year we are invited at the U2U offices in Zellik! See you there! [Register here!](https://www.azug.be/events/2025/09/25/azug2025-04){: .btn .btn--success}
+**2026-02-12 - Azug Session at Codit**<br>
+For our first session this year we are invited at the Codit offices in Ghent! See you there! [Register here!](https://www.azug.be/events/2026/02/12/azug2026-01){: .btn .btn--success}
+
+**2025-04-02 - Azug Session at Zure**<br>
+For our second session this year we are invited at the Zure offices in Sint-Martens-Latem! See you there! [Register here!](https://www.azug.be/events/2026/04/02/azug2026-02){: .btn .btn--success}
 
 <hr />
 
