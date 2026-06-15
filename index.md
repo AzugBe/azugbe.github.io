@@ -14,9 +14,7 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**2026-06-03 - Azug Session at delaware**<br>
-For our third session this year we are invited at the delaware offices in Ghent! See you there! [Register here!](https://www.azug.be/events/2026/06/03/azug2026-03){: .btn .btn--success}
-
+**Working hard on the agenda for after summer holidays...**<br>
 
 <hr />
 
