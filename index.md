@@ -56,12 +56,6 @@ Join our newsletter and be among the first to hear about new events and meetups.
 </table>
 </form></div>
 
-### Slack
-
-Next to our [newsletter](#newsletter), we have a [Slack team](https://join.slack.com/t/azugbe/shared_invite/MjE4MzI5NDM3OTM5LTE1MDExNDgyMzUtMzgwNjM2YmU0Zg) where we announce new events and provide a way of discussing topics that are relevant to the AZUG community.
-
-[<img src="assets/media/icon-slack.png" width="16" height="16" /> Join our Slack team  now!](https://join.slack.com/t/azugbe/shared_invite/MjE4MzI5NDM3OTM5LTE1MDExNDgyMzUtMzgwNjM2YmU0Zg)
-
 <hr />
 
 <div class="partners">
