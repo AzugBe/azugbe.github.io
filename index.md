@@ -14,7 +14,8 @@ excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networki
 
 ## Upcoming events
 
-**Working hard on the agenda for after summer holidays...**<br>
+**2026-02-12 - Azug Session at Axxes**<br>
+For our fourth session this year we are invited at the Axxes offices in Antwerp! See you there! [Register here!](https://www.azug.be/events/2026/10/22/azug2026-04){: .btn .btn--success}
 
 <hr />
 
