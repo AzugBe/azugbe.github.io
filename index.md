@@ -12,6 +12,7 @@ header:
 excerpt: "The Belgium Azure User Group focuses on knowledge sharing and networking around development and architecture of Microsoft’s Azure cloud platform."
 ---
 
+<!--
 ## Upcoming events
 
 **2026-10-22 - Azug Session at Axxes**<br>
@@ -21,6 +22,7 @@ Here's already a first session announcement: "Azure Arc Beyond the Defaults: Wha
 See you there! [Register here!](https://www.azug.be/events/2026/10/22/azug2026-04){: .btn .btn--success}
 
 <hr />
+-->
 
 ## About AZUG
 
